@@ -52,5 +52,3 @@ Ao longo deste projeto, foram adquiridas e aprimoradas várias habilidades, incl
 - **Análise de Dados com SQL**: Utilização de comandos SQL avançados para filtrar, agrupar e ordenar dados para gerar relatórios específicos.
 - **Exploração de Dados**: Realização de análises exploratórias para entender melhor os dados e identificar padrões ou insights.
 - **Geração de Relatórios**: Criação de relatórios detalhados que atendem às especificações fornecidas, utilizando SQL.
-
-Bons estudos!
