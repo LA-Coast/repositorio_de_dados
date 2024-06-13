@@ -1,5 +1,8 @@
 # Modelagem de Dados Conceitual para Livraria
 
+![Imagem da Entidade Relacionamento](Modelagem_Dados_MySQL_Livraria/MR_livros_img.mwb.png)
+
+
 ## Descrição do Projeto
 Este projeto consiste em criar um modelo conceitual para um banco de dados de uma livraria. O objetivo é representar as informações relevantes sobre clientes, livros, editoras e compras.
 
