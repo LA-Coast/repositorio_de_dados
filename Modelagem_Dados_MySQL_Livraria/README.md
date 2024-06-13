@@ -1,6 +1,6 @@
 # Modelagem de Dados Conceitual para Livraria
 
-!MR_livros_img.mwb.png
+!Modelagem_Dados_MySQL_Livraria/MR_livros_img.mwb.png
 
 
 ## Descrição do Projeto
