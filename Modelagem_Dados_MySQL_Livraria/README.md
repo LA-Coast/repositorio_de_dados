@@ -2,9 +2,6 @@
 
 ![Imagem da Entidade Relacionamento](https://github.com/LA-Coast/DataInsightsHub/blob/main/Modelagem_Dados_MySQL_Livraria/MR_livros_img.mwb.png)
 
-![image](https://github.com/LA-Coast/DataInsightsHub/assets/122683252/0f9503a9-f914-405c-8a44-67ce750011b3)
-
-
 ## Descrição do Projeto
 Este projeto consiste em criar um modelo conceitual para um banco de dados de uma livraria. O objetivo é representar as informações relevantes sobre clientes, livros, editoras e compras.
 
