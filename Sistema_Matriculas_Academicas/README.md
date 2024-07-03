@@ -1,5 +1,12 @@
 # Sistema de Matrículas Acadêmicas de uma Instituição de Ensino Superior
 
+Este projeto demonstra minhas habilidades em:
+- **Análise de Dados:** Coleta, organização e interpretação de dados.
+- **Desenvolvimento de Sistemas:** Criação de um sistema para gerenciar e monitorar matrículas acadêmicas.
+- **Visualização de Dados:** Implementação de dashboards e relatórios para análise visual.
+- **Planejamento e Gerenciamento de Projetos:** Estruturação e execução de um projeto complexo envolvendo múltiplas dimensões de dados.
+- **SQL e Gerenciamento de Bancos de Dados:** Criação do banco de dados para incluir as informações.
+
 ## Definição do Problema
 Desenvolver um sistema para gerenciar matrículas dos últimos três anos, permitindo:
 - Registro e acompanhamento de matrículas por curso e turno.
