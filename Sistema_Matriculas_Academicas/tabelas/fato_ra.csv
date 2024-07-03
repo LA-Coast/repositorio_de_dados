@@ -1,0 +1,1001 @@
+"id_matricula","curso","sigla_curso","ano","semestre","turno","nome_turno","ra","nome_ra"
+"ACB029015",3,"GTI",2020,1,"2","Vespertino",14,"São Sebastião"
+"ACK244514",4,"SI",2021,2,"2","Vespertino",31,"Fercal"
+"ACP464029",2,"CD",2021,2,"3","Noturno",1,"Plano Piloto"
+"ADG785780",3,"GTI",2022,2,"1","Matutino",25,"Estrutural/Scia"
+"ADP716178",1,"ADS",2022,2,"2","Vespertino",11,"Cruzeiro"
+"ADW672440",4,"SI",2021,2,"2","Vespertino",21,"Riacho Fundo 2"
+"AEC482431",3,"GTI",2021,1,"2","Vespertino",26,"Sobradinho II"
+"AEP373753",3,"GTI",2022,2,"3","Noturno",7,"Paranoá"
+"AFT325852",2,"CD",2022,1,"2","Vespertino",5,"Sobradinho"
+"AFW584209",4,"SI",2022,1,"1","Matutino",34,"Arapoanga1"
+"AGC428078",4,"SI",2021,1,"1","Matutino",18,"Lago Norte"
+"AGJ569243",3,"GTI",2022,1,"2","Vespertino",8,"Núcleo Bandeirante"
+"AGN513482",4,"SI",2021,2,"3","Noturno",13,"Santa Maria"
+"AGY507689",3,"GTI",2022,1,"2","Vespertino",29,"SIA"
+"AHE295061",4,"SI",2022,2,"3","Noturno",8,"Núcleo Bandeirante"
+"AHO643798",2,"CD",2021,1,"2","Vespertino",11,"Cruzeiro"
+"AIY538708",5,"RH",2022,1,"3","Noturno",35,"Água Quente1"
+"AJE406685",1,"ADS",2021,1,"3","Noturno",21,"Riacho Fundo 2"
+"AJV384212",4,"SI",2020,1,"3","Noturno",26,"Sobradinho II"
+"AKU908507",1,"ADS",2020,2,"2","Vespertino",13,"Santa Maria"
+"ALW868404",4,"SI",2020,1,"1","Matutino",19,"Candangolândia"
+"ALW869953",3,"GTI",2022,1,"1","Matutino",34,"Arapoanga1"
+"ANX052694",3,"GTI",2021,2,"3","Noturno",21,"Riacho Fundo 2"
+"AOD895291",2,"CD",2020,2,"1","Matutino",5,"Sobradinho"
+"AOH344845",4,"SI",2021,1,"1","Matutino",3,"Taguatinga"
+"AOZ927186",5,"RH",2022,2,"2","Vespertino",26,"Sobradinho II"
+"API825196",3,"GTI",2022,1,"3","Noturno",10,"Guará"
+"AQP533900",2,"CD",2021,2,"3","Noturno",33,"Arniqueira"
+"AQQ153374",2,"CD",2021,1,"2","Vespertino",21,"Riacho Fundo 2"
+"AQQ697265",4,"SI",2020,1,"3","Noturno",27,"Jardim Botânico"
+"ARA422407",3,"GTI",2022,1,"3","Noturno",24,"Park Way"
+"ASL353896",3,"GTI",2022,1,"1","Matutino",20,"Águas Claras"
+"ASV988932",1,"ADS",2021,2,"1","Matutino",10,"Guará"
+"ASW063474",5,"RH",2021,2,"2","Vespertino",8,"Núcleo Bandeirante"
+"AUE423714",3,"GTI",2022,1,"3","Noturno",4,"Brazlândia"
+"AUV705318",4,"SI",2020,1,"2","Vespertino",22,"Sudoeste/Octogonal"
+"AVF403847",2,"CD",2021,1,"3","Noturno",1,"Plano Piloto"
+"AVN016829",4,"SI",2021,1,"1","Matutino",35,"Água Quente1"
+"AVV961987",2,"CD",2022,2,"1","Matutino",24,"Park Way"
+"AVY386089",5,"RH",2020,2,"1","Matutino",9,"Ceilândia"
+"AWU746413",1,"ADS",2020,2,"1","Matutino",25,"Estrutural/Scia"
+"AXU385250",5,"RH",2021,1,"1","Matutino",19,"Candangolândia"
+"BAR201650",4,"SI",2020,2,"2","Vespertino",7,"Paranoá"
+"BAU113983",2,"CD",2020,2,"2","Vespertino",35,"Água Quente1"
+"BAX758197",1,"ADS",2021,2,"1","Matutino",11,"Cruzeiro"
+"BBM017309",4,"SI",2022,1,"1","Matutino",18,"Lago Norte"
+"BCB887837",5,"RH",2021,2,"2","Vespertino",31,"Fercal"
+"BCT003544",2,"CD",2020,1,"3","Noturno",14,"São Sebastião"
+"BCZ300025",4,"SI",2022,1,"3","Noturno",16,"Lago Sul"
+"BDM202447",1,"ADS",2020,2,"2","Vespertino",16,"Lago Sul"
+"BDO171562",3,"GTI",2022,1,"3","Noturno",30,"Vicente Pires"
+"BEQ809570",1,"ADS",2022,1,"1","Matutino",27,"Jardim Botânico"
+"BHE536530",4,"SI",2021,2,"2","Vespertino",4,"Brazlândia"
+"BHP658365",5,"RH",2022,1,"1","Matutino",22,"Sudoeste/Octogonal"
+"BHT060480",4,"SI",2020,2,"1","Matutino",1,"Plano Piloto"
+"BHW551919",4,"SI",2021,2,"3","Noturno",29,"SIA"
+"BJU564065",5,"RH",2021,1,"3","Noturno",22,"Sudoeste/Octogonal"
+"BKW370764",4,"SI",2020,1,"2","Vespertino",3,"Taguatinga"
+"BKZ871100",3,"GTI",2020,2,"1","Matutino",1,"Plano Piloto"
+"BMI305476",2,"CD",2022,2,"3","Noturno",28,"Itapoã"
+"BMO426012",2,"CD",2020,2,"1","Matutino",35,"Água Quente1"
+"BNN656837",2,"CD",2021,2,"3","Noturno",31,"Fercal"
+"BOJ934977",5,"RH",2020,2,"1","Matutino",9,"Ceilândia"
+"BOO834626",5,"RH",2022,2,"2","Vespertino",28,"Itapoã"
+"BQR667066",2,"CD",2022,2,"1","Matutino",31,"Fercal"
+"BQY832283",3,"GTI",2021,1,"1","Matutino",10,"Guará"
+"BRA308064",3,"GTI",2022,2,"1","Matutino",8,"Núcleo Bandeirante"
+"BRE245397",3,"GTI",2022,1,"3","Noturno",1,"Plano Piloto"
+"BSQ620246",3,"GTI",2021,2,"1","Matutino",6,"Planaltina"
+"BTU756278",3,"GTI",2020,1,"2","Vespertino",27,"Jardim Botânico"
+"BUH646551",4,"SI",2020,2,"2","Vespertino",32,"Sol Nascente/Pôr do Sol"
+"BVI686266",3,"GTI",2021,1,"2","Vespertino",6,"Planaltina"
+"BWJ448436",1,"ADS",2021,1,"3","Noturno",28,"Itapoã"
+"BWR542577",3,"GTI",2021,2,"1","Matutino",21,"Riacho Fundo 2"
+"BWS946132",3,"GTI",2022,2,"2","Vespertino",12,"Samambaia"
+"BXO877936",5,"RH",2020,1,"3","Noturno",6,"Planaltina"
+"BXX624612",3,"GTI",2020,1,"1","Matutino",12,"Samambaia"
+"BYF113519",5,"RH",2021,1,"2","Vespertino",35,"Água Quente1"
+"BYP825518",2,"CD",2022,2,"2","Vespertino",4,"Brazlândia"
+"BYV939972",3,"GTI",2020,1,"1","Matutino",14,"São Sebastião"
+"BYZ889681",3,"GTI",2021,1,"1","Matutino",16,"Lago Sul"
+"CAF832495",4,"SI",2022,1,"1","Matutino",32,"Sol Nascente/Pôr do Sol"
+"CAH074884",2,"CD",2021,1,"1","Matutino",4,"Brazlândia"
+"CAW459967",4,"SI",2020,2,"2","Vespertino",10,"Guará"
+"CCF668823",5,"RH",2022,2,"2","Vespertino",13,"Santa Maria"
+"CCM996173",2,"CD",2022,2,"2","Vespertino",32,"Sol Nascente/Pôr do Sol"
+"CCS317816",5,"RH",2021,2,"2","Vespertino",27,"Jardim Botânico"
+"CDE351780",2,"CD",2022,1,"2","Vespertino",27,"Jardim Botânico"
+"CDV188150",5,"RH",2022,2,"3","Noturno",33,"Arniqueira"
+"CDY570071",5,"RH",2021,1,"3","Noturno",26,"Sobradinho II"
+"CEO035280",1,"ADS",2021,2,"3","Noturno",2,"Gama"
+"CEW141617",4,"SI",2022,1,"1","Matutino",1,"Plano Piloto"
+"CFB372957",5,"RH",2022,2,"3","Noturno",9,"Ceilândia"
+"CFD305031",5,"RH",2020,1,"3","Noturno",10,"Guará"
+"CGB742959",3,"GTI",2021,1,"3","Noturno",5,"Sobradinho"
+"CJK599566",4,"SI",2020,1,"1","Matutino",23,"Varjão"
+"CKP761838",5,"RH",2020,2,"3","Noturno",22,"Sudoeste/Octogonal"
+"CLC031292",5,"RH",2020,1,"2","Vespertino",6,"Planaltina"
+"CND671225",3,"GTI",2021,2,"2","Vespertino",24,"Park Way"
+"CNY203784",5,"RH",2022,1,"2","Vespertino",13,"Santa Maria"
+"COJ785802",2,"CD",2021,2,"1","Matutino",33,"Arniqueira"
+"CPE898327",4,"SI",2020,1,"1","Matutino",27,"Jardim Botânico"
+"CPU630493",1,"ADS",2021,1,"2","Vespertino",32,"Sol Nascente/Pôr do Sol"
+"CRW377064",3,"GTI",2021,1,"2","Vespertino",29,"SIA"
+"CRZ376442",3,"GTI",2020,2,"2","Vespertino",28,"Itapoã"
+"CSJ532803",3,"GTI",2022,1,"1","Matutino",19,"Candangolândia"
+"CSW438431",2,"CD",2021,2,"1","Matutino",14,"São Sebastião"
+"CTH541162",2,"CD",2021,2,"3","Noturno",31,"Fercal"
+"CTJ336883",1,"ADS",2022,1,"1","Matutino",7,"Paranoá"
+"CTR843775",1,"ADS",2020,2,"1","Matutino",30,"Vicente Pires"
+"CTW722523",4,"SI",2021,2,"1","Matutino",34,"Arapoanga1"
+"CUF941621",5,"RH",2021,2,"1","Matutino",26,"Sobradinho II"
+"CVM641518",2,"CD",2021,2,"2","Vespertino",8,"Núcleo Bandeirante"
+"CWB200831",5,"RH",2020,2,"1","Matutino",30,"Vicente Pires"
+"CWK024781",1,"ADS",2021,1,"1","Matutino",28,"Itapoã"
+"CXM666704",2,"CD",2021,1,"2","Vespertino",30,"Vicente Pires"
+"CYN762600",3,"GTI",2022,2,"1","Matutino",17,"Riacho Fundo"
+"CYT126928",1,"ADS",2022,1,"3","Noturno",25,"Estrutural/Scia"
+"CZW537505",3,"GTI",2021,2,"1","Matutino",23,"Varjão"
+"DAD809216",2,"CD",2022,1,"2","Vespertino",1,"Plano Piloto"
+"DAK308598",1,"ADS",2021,1,"1","Matutino",3,"Taguatinga"
+"DCF112585",5,"RH",2020,1,"3","Noturno",7,"Paranoá"
+"DDZ664389",1,"ADS",2022,2,"2","Vespertino",29,"SIA"
+"DEB203152",3,"GTI",2021,1,"1","Matutino",23,"Varjão"
+"DFM372086",2,"CD",2020,2,"2","Vespertino",35,"Água Quente1"
+"DHU190555",4,"SI",2022,2,"1","Matutino",19,"Candangolândia"
+"DHV004487",1,"ADS",2022,1,"2","Vespertino",10,"Guará"
+"DIL863825",2,"CD",2022,2,"3","Noturno",28,"Itapoã"
+"DJE660458",1,"ADS",2021,1,"3","Noturno",27,"Jardim Botânico"
+"DJN283238",4,"SI",2022,2,"3","Noturno",5,"Sobradinho"
+"DJW505082",3,"GTI",2021,2,"2","Vespertino",23,"Varjão"
+"DJW896846",2,"CD",2022,1,"1","Matutino",25,"Estrutural/Scia"
+"DKR588588",4,"SI",2022,1,"3","Noturno",34,"Arapoanga1"
+"DLA233381",3,"GTI",2020,2,"3","Noturno",8,"Núcleo Bandeirante"
+"DOD992309",2,"CD",2020,2,"3","Noturno",28,"Itapoã"
+"DOG028489",2,"CD",2022,1,"1","Matutino",12,"Samambaia"
+"DOQ304382",2,"CD",2020,2,"2","Vespertino",29,"SIA"
+"DPB323450",1,"ADS",2021,1,"2","Vespertino",1,"Plano Piloto"
+"DPG870900",2,"CD",2020,2,"1","Matutino",33,"Arniqueira"
+"DPP750845",5,"RH",2020,2,"2","Vespertino",21,"Riacho Fundo 2"
+"DPX034698",1,"ADS",2020,2,"1","Matutino",4,"Brazlândia"
+"DQM350940",4,"SI",2021,2,"1","Matutino",11,"Cruzeiro"
+"DQN801322",3,"GTI",2022,1,"3","Noturno",11,"Cruzeiro"
+"DRH191358",5,"RH",2022,1,"1","Matutino",26,"Sobradinho II"
+"DRJ444636",5,"RH",2020,2,"2","Vespertino",29,"SIA"
+"DRZ595568",3,"GTI",2020,2,"1","Matutino",30,"Vicente Pires"
+"DSO544136",5,"RH",2021,1,"1","Matutino",13,"Santa Maria"
+"DSZ994605",1,"ADS",2020,1,"3","Noturno",22,"Sudoeste/Octogonal"
+"DTI082750",2,"CD",2022,1,"3","Noturno",12,"Samambaia"
+"DTI315403",1,"ADS",2021,2,"3","Noturno",35,"Água Quente1"
+"DTS611441",4,"SI",2022,1,"2","Vespertino",12,"Samambaia"
+"DTT934587",5,"RH",2020,2,"3","Noturno",14,"São Sebastião"
+"DUF262316",4,"SI",2021,2,"2","Vespertino",25,"Estrutural/Scia"
+"DUT932945",3,"GTI",2021,1,"3","Noturno",20,"Águas Claras"
+"DXE496501",1,"ADS",2021,1,"3","Noturno",7,"Paranoá"
+"DXG025671",2,"CD",2020,2,"2","Vespertino",28,"Itapoã"
+"DXM434353",4,"SI",2022,2,"3","Noturno",7,"Paranoá"
+"DXU986857",2,"CD",2020,1,"1","Matutino",3,"Taguatinga"
+"DYF045065",3,"GTI",2021,1,"1","Matutino",33,"Arniqueira"
+"DYG734757",2,"CD",2020,2,"2","Vespertino",30,"Vicente Pires"
+"DZB363022",4,"SI",2020,1,"3","Noturno",23,"Varjão"
+"DZR296380",4,"SI",2020,2,"2","Vespertino",26,"Sobradinho II"
+"EAP795662",5,"RH",2020,2,"1","Matutino",15,"Recanto das Emas"
+"EBD328319",5,"RH",2022,1,"3","Noturno",2,"Gama"
+"EBY026573",3,"GTI",2020,1,"1","Matutino",20,"Águas Claras"
+"EDO229195",1,"ADS",2022,1,"2","Vespertino",8,"Núcleo Bandeirante"
+"EEF768191",5,"RH",2022,1,"3","Noturno",30,"Vicente Pires"
+"EEI543063",5,"RH",2020,1,"2","Vespertino",18,"Lago Norte"
+"EER115767",3,"GTI",2022,1,"3","Noturno",16,"Lago Sul"
+"EES259378",2,"CD",2022,2,"2","Vespertino",4,"Brazlândia"
+"EFE672218",1,"ADS",2021,2,"3","Noturno",6,"Planaltina"
+"EGL608628",4,"SI",2022,1,"2","Vespertino",21,"Riacho Fundo 2"
+"EHV368525",5,"RH",2022,2,"2","Vespertino",11,"Cruzeiro"
+"EIZ407996",5,"RH",2022,2,"1","Matutino",4,"Brazlândia"
+"EIZ734257",4,"SI",2020,1,"1","Matutino",18,"Lago Norte"
+"EJR659856",5,"RH",2022,1,"2","Vespertino",14,"São Sebastião"
+"EKH849795",3,"GTI",2020,1,"1","Matutino",20,"Águas Claras"
+"EKI760151",3,"GTI",2021,2,"1","Matutino",35,"Água Quente1"
+"ELG494088",1,"ADS",2020,2,"1","Matutino",23,"Varjão"
+"EMD893452",2,"CD",2022,2,"2","Vespertino",14,"São Sebastião"
+"EMH515069",3,"GTI",2020,2,"1","Matutino",17,"Riacho Fundo"
+"EMP300840",5,"RH",2022,2,"3","Noturno",18,"Lago Norte"
+"EMW233365",3,"GTI",2022,2,"2","Vespertino",25,"Estrutural/Scia"
+"ENB583878",5,"RH",2021,2,"1","Matutino",35,"Água Quente1"
+"ENX244804",2,"CD",2021,2,"3","Noturno",34,"Arapoanga1"
+"EOC564369",3,"GTI",2020,1,"1","Matutino",9,"Ceilândia"
+"EPH624627",4,"SI",2022,2,"1","Matutino",14,"São Sebastião"
+"EQB714762",1,"ADS",2022,1,"2","Vespertino",34,"Arapoanga1"
+"EQQ154278",1,"ADS",2021,2,"2","Vespertino",34,"Arapoanga1"
+"EQR575966",5,"RH",2021,2,"2","Vespertino",31,"Fercal"
+"ERT670449",2,"CD",2022,2,"2","Vespertino",19,"Candangolândia"
+"ETU685739",5,"RH",2021,1,"3","Noturno",5,"Sobradinho"
+"EUL747009",3,"GTI",2020,2,"1","Matutino",20,"Águas Claras"
+"EUR109564",3,"GTI",2020,1,"2","Vespertino",1,"Plano Piloto"
+"EUU871695",2,"CD",2021,1,"1","Matutino",12,"Samambaia"
+"EVB070709",2,"CD",2021,1,"1","Matutino",33,"Arniqueira"
+"EVZ861569",3,"GTI",2022,1,"2","Vespertino",23,"Varjão"
+"EWU078865",5,"RH",2020,1,"2","Vespertino",19,"Candangolândia"
+"EWY321955",3,"GTI",2020,2,"2","Vespertino",18,"Lago Norte"
+"EYC989790",5,"RH",2021,2,"2","Vespertino",27,"Jardim Botânico"
+"EYE483662",4,"SI",2021,1,"1","Matutino",23,"Varjão"
+"EYV490637",1,"ADS",2021,2,"3","Noturno",17,"Riacho Fundo"
+"FAG468237",5,"RH",2022,2,"2","Vespertino",32,"Sol Nascente/Pôr do Sol"
+"FAK520740",5,"RH",2022,2,"1","Matutino",30,"Vicente Pires"
+"FAX801293",1,"ADS",2020,2,"3","Noturno",1,"Plano Piloto"
+"FEL565201",4,"SI",2022,2,"2","Vespertino",29,"SIA"
+"FFT467673",2,"CD",2021,1,"3","Noturno",6,"Planaltina"
+"FFV644195",5,"RH",2021,2,"1","Matutino",17,"Riacho Fundo"
+"FGU062679",5,"RH",2021,1,"2","Vespertino",33,"Arniqueira"
+"FIB657458",5,"RH",2020,2,"2","Vespertino",14,"São Sebastião"
+"FIJ618400",4,"SI",2020,1,"2","Vespertino",20,"Águas Claras"
+"FIL594852",3,"GTI",2022,2,"1","Matutino",19,"Candangolândia"
+"FIM570780",3,"GTI",2020,1,"3","Noturno",29,"SIA"
+"FIU818272",2,"CD",2021,2,"2","Vespertino",29,"SIA"
+"FJT419984",3,"GTI",2022,1,"2","Vespertino",13,"Santa Maria"
+"FJT891690",2,"CD",2021,1,"1","Matutino",29,"SIA"
+"FKN347096",5,"RH",2020,2,"3","Noturno",21,"Riacho Fundo 2"
+"FLB026753",1,"ADS",2022,2,"1","Matutino",25,"Estrutural/Scia"
+"FMU022269",5,"RH",2021,1,"1","Matutino",9,"Ceilândia"
+"FOQ436286",4,"SI",2020,1,"1","Matutino",28,"Itapoã"
+"FPL218099",5,"RH",2020,1,"1","Matutino",11,"Cruzeiro"
+"FPU434709",3,"GTI",2021,2,"1","Matutino",12,"Samambaia"
+"FQX668064",1,"ADS",2020,1,"1","Matutino",22,"Sudoeste/Octogonal"
+"FRW746983",4,"SI",2022,1,"1","Matutino",29,"SIA"
+"FSH604656",4,"SI",2020,2,"3","Noturno",13,"Santa Maria"
+"FSO110166",4,"SI",2020,2,"2","Vespertino",33,"Arniqueira"
+"FUE655174",1,"ADS",2020,2,"1","Matutino",11,"Cruzeiro"
+"FVG562621",1,"ADS",2020,1,"3","Noturno",27,"Jardim Botânico"
+"GAD047052",1,"ADS",2020,1,"3","Noturno",8,"Núcleo Bandeirante"
+"GAE328043",1,"ADS",2022,1,"3","Noturno",19,"Candangolândia"
+"GAR797693",4,"SI",2022,2,"3","Noturno",4,"Brazlândia"
+"GBE061769",1,"ADS",2022,2,"1","Matutino",34,"Arapoanga1"
+"GBJ016917",1,"ADS",2022,2,"1","Matutino",6,"Planaltina"
+"GBT462786",3,"GTI",2022,2,"1","Matutino",8,"Núcleo Bandeirante"
+"GBW934806",5,"RH",2022,2,"3","Noturno",18,"Lago Norte"
+"GCM147588",3,"GTI",2020,1,"2","Vespertino",6,"Planaltina"
+"GDB557644",5,"RH",2020,1,"3","Noturno",24,"Park Way"
+"GDF208204",4,"SI",2020,2,"2","Vespertino",14,"São Sebastião"
+"GDN504694",4,"SI",2020,2,"1","Matutino",28,"Itapoã"
+"GDS012249",4,"SI",2022,2,"3","Noturno",7,"Paranoá"
+"GEV297814",5,"RH",2021,1,"1","Matutino",10,"Guará"
+"GFB850447",4,"SI",2022,2,"2","Vespertino",34,"Arapoanga1"
+"GFF065152",1,"ADS",2021,1,"3","Noturno",31,"Fercal"
+"GFQ315019",2,"CD",2020,1,"2","Vespertino",25,"Estrutural/Scia"
+"GFW481509",1,"ADS",2021,2,"1","Matutino",28,"Itapoã"
+"GGL474811",2,"CD",2022,1,"3","Noturno",24,"Park Way"
+"GHL979559",4,"SI",2022,1,"1","Matutino",5,"Sobradinho"
+"GHZ135813",3,"GTI",2022,2,"3","Noturno",24,"Park Way"
+"GIE001068",2,"CD",2022,2,"1","Matutino",24,"Park Way"
+"GII957337",1,"ADS",2020,1,"3","Noturno",9,"Ceilândia"
+"GIQ317557",3,"GTI",2022,2,"1","Matutino",8,"Núcleo Bandeirante"
+"GIR705080",4,"SI",2020,2,"1","Matutino",3,"Taguatinga"
+"GIX194650",5,"RH",2020,1,"1","Matutino",11,"Cruzeiro"
+"GJH963132",2,"CD",2022,2,"2","Vespertino",7,"Paranoá"
+"GKP285680",3,"GTI",2022,2,"1","Matutino",9,"Ceilândia"
+"GKQ067865",2,"CD",2021,2,"1","Matutino",10,"Guará"
+"GKV384714",3,"GTI",2021,2,"3","Noturno",10,"Guará"
+"GMP225402",3,"GTI",2020,1,"3","Noturno",7,"Paranoá"
+"GMW817164",5,"RH",2020,1,"1","Matutino",21,"Riacho Fundo 2"
+"GMZ876457",1,"ADS",2020,2,"3","Noturno",21,"Riacho Fundo 2"
+"GNB484510",2,"CD",2021,1,"3","Noturno",9,"Ceilândia"
+"GNM001465",1,"ADS",2021,2,"2","Vespertino",4,"Brazlândia"
+"GNP312279",5,"RH",2022,2,"2","Vespertino",13,"Santa Maria"
+"GOT636604",2,"CD",2022,1,"3","Noturno",23,"Varjão"
+"GOW327073",4,"SI",2022,2,"2","Vespertino",12,"Samambaia"
+"GOW512928",4,"SI",2020,2,"2","Vespertino",35,"Água Quente1"
+"GPL590848",1,"ADS",2020,2,"3","Noturno",9,"Ceilândia"
+"GQJ854474",1,"ADS",2020,2,"3","Noturno",5,"Sobradinho"
+"GRG085823",1,"ADS",2022,2,"1","Matutino",8,"Núcleo Bandeirante"
+"GUA891193",3,"GTI",2021,2,"2","Vespertino",31,"Fercal"
+"GVO563778",2,"CD",2020,1,"3","Noturno",35,"Água Quente1"
+"GVV964909",4,"SI",2022,1,"2","Vespertino",23,"Varjão"
+"GXV510146",3,"GTI",2021,2,"3","Noturno",3,"Taguatinga"
+"GYO743841",3,"GTI",2020,2,"1","Matutino",19,"Candangolândia"
+"GZA343777",2,"CD",2020,2,"1","Matutino",30,"Vicente Pires"
+"HBV038747",2,"CD",2020,1,"2","Vespertino",31,"Fercal"
+"HCF549158",1,"ADS",2021,1,"2","Vespertino",16,"Lago Sul"
+"HDE469628",4,"SI",2022,2,"1","Matutino",23,"Varjão"
+"HDF322046",4,"SI",2022,2,"2","Vespertino",28,"Itapoã"
+"HDG374243",3,"GTI",2021,2,"2","Vespertino",7,"Paranoá"
+"HDG542651",1,"ADS",2021,1,"3","Noturno",10,"Guará"
+"HDH039694",4,"SI",2022,1,"1","Matutino",21,"Riacho Fundo 2"
+"HDI065101",3,"GTI",2021,2,"2","Vespertino",26,"Sobradinho II"
+"HDP219261",5,"RH",2021,1,"1","Matutino",16,"Lago Sul"
+"HEF579776",5,"RH",2022,2,"2","Vespertino",28,"Itapoã"
+"HEW930477",2,"CD",2022,2,"1","Matutino",29,"SIA"
+"HGK060700",1,"ADS",2022,2,"3","Noturno",7,"Paranoá"
+"HHD747319",2,"CD",2021,1,"3","Noturno",16,"Lago Sul"
+"HHI148573",5,"RH",2021,1,"2","Vespertino",25,"Estrutural/Scia"
+"HHS360049",3,"GTI",2021,2,"2","Vespertino",2,"Gama"
+"HJG928060",5,"RH",2020,2,"1","Matutino",18,"Lago Norte"
+"HJP836360",3,"GTI",2021,2,"1","Matutino",12,"Samambaia"
+"HJS137388",1,"ADS",2021,2,"2","Vespertino",34,"Arapoanga1"
+"HJT988312",5,"RH",2021,1,"3","Noturno",28,"Itapoã"
+"HKB100045",3,"GTI",2021,2,"1","Matutino",28,"Itapoã"
+"HKB796570",2,"CD",2021,2,"2","Vespertino",18,"Lago Norte"
+"HKW559541",3,"GTI",2021,2,"3","Noturno",31,"Fercal"
+"HLA287065",5,"RH",2021,1,"1","Matutino",26,"Sobradinho II"
+"HLY048118",1,"ADS",2020,1,"1","Matutino",30,"Vicente Pires"
+"HMG015043",1,"ADS",2022,2,"2","Vespertino",25,"Estrutural/Scia"
+"HMX906267",5,"RH",2020,1,"1","Matutino",6,"Planaltina"
+"HOR743742",4,"SI",2021,2,"2","Vespertino",9,"Ceilândia"
+"HPI130590",1,"ADS",2020,1,"1","Matutino",31,"Fercal"
+"HQO552603",4,"SI",2020,1,"2","Vespertino",3,"Taguatinga"
+"HQQ115831",5,"RH",2020,1,"2","Vespertino",34,"Arapoanga1"
+"HRA960052",2,"CD",2020,2,"2","Vespertino",18,"Lago Norte"
+"HRF539925",4,"SI",2021,2,"1","Matutino",24,"Park Way"
+"HSA185364",2,"CD",2021,1,"2","Vespertino",15,"Recanto das Emas"
+"HSD597990",3,"GTI",2022,1,"2","Vespertino",21,"Riacho Fundo 2"
+"HTB580558",4,"SI",2020,2,"2","Vespertino",18,"Lago Norte"
+"HUH083406",1,"ADS",2020,2,"2","Vespertino",2,"Gama"
+"HUV591373",4,"SI",2020,2,"1","Matutino",9,"Ceilândia"
+"HUX097960",3,"GTI",2020,1,"2","Vespertino",13,"Santa Maria"
+"HVR363677",1,"ADS",2021,2,"3","Noturno",33,"Arniqueira"
+"HXC536813",4,"SI",2022,2,"2","Vespertino",9,"Ceilândia"
+"HXO235923",3,"GTI",2020,2,"2","Vespertino",23,"Varjão"
+"HXV474735",4,"SI",2022,2,"2","Vespertino",12,"Samambaia"
+"HYJ435521",4,"SI",2022,1,"3","Noturno",22,"Sudoeste/Octogonal"
+"HYW252967",2,"CD",2022,2,"3","Noturno",16,"Lago Sul"
+"IAB325126",2,"CD",2020,1,"2","Vespertino",34,"Arapoanga1"
+"IAD584451",1,"ADS",2020,2,"3","Noturno",26,"Sobradinho II"
+"IBH293239",5,"RH",2022,1,"1","Matutino",15,"Recanto das Emas"
+"IBK233550",2,"CD",2021,1,"2","Vespertino",33,"Arniqueira"
+"IBM640075",2,"CD",2021,1,"3","Noturno",27,"Jardim Botânico"
+"ICD841454",1,"ADS",2021,1,"1","Matutino",7,"Paranoá"
+"ICO233729",2,"CD",2021,2,"3","Noturno",16,"Lago Sul"
+"ICO861223",2,"CD",2021,1,"2","Vespertino",9,"Ceilândia"
+"ICZ488525",2,"CD",2020,2,"1","Matutino",33,"Arniqueira"
+"IDH746262",2,"CD",2021,2,"1","Matutino",14,"São Sebastião"
+"IEK844751",5,"RH",2020,1,"3","Noturno",18,"Lago Norte"
+"IEO400224",5,"RH",2020,2,"3","Noturno",18,"Lago Norte"
+"IEV161821",4,"SI",2022,1,"3","Noturno",9,"Ceilândia"
+"IFT978421",3,"GTI",2020,1,"2","Vespertino",12,"Samambaia"
+"IFX716838",1,"ADS",2020,1,"2","Vespertino",2,"Gama"
+"IHT801038",2,"CD",2020,1,"1","Matutino",22,"Sudoeste/Octogonal"
+"IIP054596",5,"RH",2021,2,"2","Vespertino",29,"SIA"
+"IIR862819",2,"CD",2021,1,"3","Noturno",28,"Itapoã"
+"IIW586230",3,"GTI",2020,2,"3","Noturno",8,"Núcleo Bandeirante"
+"IJK440268",5,"RH",2021,1,"3","Noturno",26,"Sobradinho II"
+"IMN963801",4,"SI",2021,2,"2","Vespertino",4,"Brazlândia"
+"IMQ453161",3,"GTI",2022,1,"2","Vespertino",18,"Lago Norte"
+"IPE342866",1,"ADS",2020,1,"3","Noturno",17,"Riacho Fundo"
+"IPQ016704",5,"RH",2020,2,"1","Matutino",3,"Taguatinga"
+"IRC887871",2,"CD",2021,2,"1","Matutino",34,"Arapoanga1"
+"IRV522174",1,"ADS",2022,1,"1","Matutino",13,"Santa Maria"
+"ISY062179",4,"SI",2020,1,"3","Noturno",12,"Samambaia"
+"ITA859363",4,"SI",2020,2,"3","Noturno",21,"Riacho Fundo 2"
+"ITZ441680",5,"RH",2022,2,"2","Vespertino",15,"Recanto das Emas"
+"IUE669847",4,"SI",2022,2,"2","Vespertino",18,"Lago Norte"
+"IUF445179",1,"ADS",2022,1,"2","Vespertino",2,"Gama"
+"IUX347725",3,"GTI",2021,2,"1","Matutino",8,"Núcleo Bandeirante"
+"IVG016509",1,"ADS",2022,1,"1","Matutino",31,"Fercal"
+"IWJ087501",4,"SI",2022,1,"2","Vespertino",35,"Água Quente1"
+"IWU585290",2,"CD",2020,1,"2","Vespertino",18,"Lago Norte"
+"IXF163356",2,"CD",2021,1,"3","Noturno",6,"Planaltina"
+"IXO975264",4,"SI",2021,2,"1","Matutino",20,"Águas Claras"
+"IXW426797",5,"RH",2022,1,"3","Noturno",23,"Varjão"
+"IZP470558",5,"RH",2020,1,"3","Noturno",1,"Plano Piloto"
+"IZY576398",3,"GTI",2022,1,"1","Matutino",26,"Sobradinho II"
+"JAP811391",2,"CD",2020,2,"2","Vespertino",25,"Estrutural/Scia"
+"JBD941702",4,"SI",2021,1,"2","Vespertino",13,"Santa Maria"
+"JBZ275079",1,"ADS",2022,2,"1","Matutino",10,"Guará"
+"JDP143076",5,"RH",2022,1,"3","Noturno",18,"Lago Norte"
+"JEO119628",3,"GTI",2022,2,"3","Noturno",33,"Arniqueira"
+"JHG988098",5,"RH",2020,1,"3","Noturno",26,"Sobradinho II"
+"JHL242004",5,"RH",2021,1,"1","Matutino",33,"Arniqueira"
+"JIB074193",3,"GTI",2020,2,"2","Vespertino",24,"Park Way"
+"JJN758066",1,"ADS",2022,1,"1","Matutino",11,"Cruzeiro"
+"JKB558319",2,"CD",2022,1,"2","Vespertino",8,"Núcleo Bandeirante"
+"JKH794141",5,"RH",2022,2,"3","Noturno",29,"SIA"
+"JKX610440",3,"GTI",2022,1,"1","Matutino",29,"SIA"
+"JLS027603",5,"RH",2022,1,"2","Vespertino",23,"Varjão"
+"JLV598130",4,"SI",2020,1,"2","Vespertino",4,"Brazlândia"
+"JML774150",1,"ADS",2021,1,"3","Noturno",18,"Lago Norte"
+"JMO959983",2,"CD",2020,2,"1","Matutino",26,"Sobradinho II"
+"JMP534859",5,"RH",2021,2,"1","Matutino",1,"Plano Piloto"
+"JMY019445",1,"ADS",2020,2,"2","Vespertino",10,"Guará"
+"JNO081108",4,"SI",2021,1,"1","Matutino",31,"Fercal"
+"JOT106002",3,"GTI",2022,1,"1","Matutino",16,"Lago Sul"
+"JPP179733",5,"RH",2021,1,"3","Noturno",13,"Santa Maria"
+"JRF603460",2,"CD",2020,1,"1","Matutino",16,"Lago Sul"
+"JRL542956",3,"GTI",2022,2,"1","Matutino",5,"Sobradinho"
+"JRS487943",1,"ADS",2021,1,"1","Matutino",10,"Guará"
+"JUB634234",3,"GTI",2020,1,"2","Vespertino",27,"Jardim Botânico"
+"JUW679581",4,"SI",2021,1,"2","Vespertino",13,"Santa Maria"
+"JVK876093",2,"CD",2021,2,"3","Noturno",5,"Sobradinho"
+"JVM726948",5,"RH",2022,2,"3","Noturno",18,"Lago Norte"
+"JWP119221",3,"GTI",2022,1,"1","Matutino",21,"Riacho Fundo 2"
+"JWQ583389",2,"CD",2022,1,"2","Vespertino",29,"SIA"
+"JWW954209",2,"CD",2020,1,"3","Noturno",26,"Sobradinho II"
+"JXE753900",5,"RH",2020,2,"1","Matutino",10,"Guará"
+"JXI599932",4,"SI",2022,2,"2","Vespertino",26,"Sobradinho II"
+"JXJ559926",4,"SI",2021,2,"3","Noturno",19,"Candangolândia"
+"JYA132685",3,"GTI",2020,1,"1","Matutino",29,"SIA"
+"JYO468205",3,"GTI",2021,1,"3","Noturno",27,"Jardim Botânico"
+"JYV887939",5,"RH",2022,2,"2","Vespertino",2,"Gama"
+"JZB188188",1,"ADS",2020,2,"1","Matutino",17,"Riacho Fundo"
+"KAO638945",5,"RH",2021,1,"3","Noturno",6,"Planaltina"
+"KBI889534",2,"CD",2022,1,"1","Matutino",24,"Park Way"
+"KCU704609",2,"CD",2020,2,"1","Matutino",33,"Arniqueira"
+"KCW825174",1,"ADS",2021,1,"3","Noturno",6,"Planaltina"
+"KCX489346",2,"CD",2020,2,"3","Noturno",16,"Lago Sul"
+"KDF170747",3,"GTI",2021,2,"2","Vespertino",24,"Park Way"
+"KDR197739",3,"GTI",2021,2,"3","Noturno",8,"Núcleo Bandeirante"
+"KEL987620",3,"GTI",2022,2,"3","Noturno",33,"Arniqueira"
+"KGJ667219",5,"RH",2020,1,"1","Matutino",28,"Itapoã"
+"KGM681876",2,"CD",2020,2,"3","Noturno",20,"Águas Claras"
+"KGQ894709",3,"GTI",2021,1,"1","Matutino",32,"Sol Nascente/Pôr do Sol"
+"KGY755037",2,"CD",2020,1,"2","Vespertino",2,"Gama"
+"KHL472977",4,"SI",2020,1,"1","Matutino",10,"Guará"
+"KHN565464",5,"RH",2021,1,"3","Noturno",12,"Samambaia"
+"KIG845434",1,"ADS",2020,2,"1","Matutino",33,"Arniqueira"
+"KIJ835183",2,"CD",2022,2,"3","Noturno",1,"Plano Piloto"
+"KJH295889",2,"CD",2020,2,"2","Vespertino",4,"Brazlândia"
+"KJW175547",2,"CD",2020,1,"1","Matutino",22,"Sudoeste/Octogonal"
+"KKB758747",1,"ADS",2021,1,"2","Vespertino",26,"Sobradinho II"
+"KKF786588",1,"ADS",2020,1,"3","Noturno",9,"Ceilândia"
+"KKS322497",1,"ADS",2021,2,"3","Noturno",13,"Santa Maria"
+"KLK154763",2,"CD",2021,2,"3","Noturno",13,"Santa Maria"
+"KMJ357670",2,"CD",2021,1,"2","Vespertino",25,"Estrutural/Scia"
+"KNQ814110",1,"ADS",2022,1,"3","Noturno",28,"Itapoã"
+"KOA250152",4,"SI",2020,1,"1","Matutino",20,"Águas Claras"
+"KOG347155",3,"GTI",2021,1,"3","Noturno",27,"Jardim Botânico"
+"KPK053798",1,"ADS",2021,1,"1","Matutino",2,"Gama"
+"KPN970655",3,"GTI",2022,2,"1","Matutino",33,"Arniqueira"
+"KTI772908",1,"ADS",2020,2,"3","Noturno",24,"Park Way"
+"KTJ421303",3,"GTI",2021,2,"1","Matutino",18,"Lago Norte"
+"KUR884147",4,"SI",2022,2,"3","Noturno",27,"Jardim Botânico"
+"KVO164622",2,"CD",2020,1,"1","Matutino",9,"Ceilândia"
+"KWA481730",1,"ADS",2022,2,"3","Noturno",1,"Plano Piloto"
+"KXL318734",2,"CD",2020,1,"1","Matutino",23,"Varjão"
+"KXO520901",1,"ADS",2021,2,"2","Vespertino",22,"Sudoeste/Octogonal"
+"KXO849222",3,"GTI",2022,2,"1","Matutino",2,"Gama"
+"KYL289184",5,"RH",2021,1,"1","Matutino",32,"Sol Nascente/Pôr do Sol"
+"LAF664943",1,"ADS",2022,2,"2","Vespertino",32,"Sol Nascente/Pôr do Sol"
+"LAJ417117",4,"SI",2022,1,"1","Matutino",3,"Taguatinga"
+"LFQ248668",3,"GTI",2021,2,"1","Matutino",30,"Vicente Pires"
+"LFS269204",5,"RH",2020,2,"2","Vespertino",26,"Sobradinho II"
+"LGE979055",4,"SI",2022,2,"3","Noturno",9,"Ceilândia"
+"LGG562393",1,"ADS",2020,2,"2","Vespertino",22,"Sudoeste/Octogonal"
+"LHT896396",2,"CD",2022,2,"3","Noturno",31,"Fercal"
+"LIA170089",1,"ADS",2020,1,"3","Noturno",30,"Vicente Pires"
+"LIN387317",2,"CD",2020,1,"2","Vespertino",14,"São Sebastião"
+"LKQ651843",2,"CD",2022,2,"3","Noturno",10,"Guará"
+"LKZ508241",5,"RH",2022,1,"2","Vespertino",13,"Santa Maria"
+"LMF363589",1,"ADS",2022,2,"2","Vespertino",4,"Brazlândia"
+"LMH629825",2,"CD",2021,2,"1","Matutino",13,"Santa Maria"
+"LMH893635",4,"SI",2021,2,"2","Vespertino",15,"Recanto das Emas"
+"LMV155600",5,"RH",2021,2,"2","Vespertino",6,"Planaltina"
+"LON108901",1,"ADS",2021,2,"3","Noturno",18,"Lago Norte"
+"LQB794021",3,"GTI",2022,2,"1","Matutino",4,"Brazlândia"
+"LQO510391",4,"SI",2021,2,"2","Vespertino",30,"Vicente Pires"
+"LRB371521",3,"GTI",2022,2,"2","Vespertino",17,"Riacho Fundo"
+"LRJ435916",5,"RH",2020,1,"3","Noturno",30,"Vicente Pires"
+"LRJ845954",1,"ADS",2020,1,"3","Noturno",19,"Candangolândia"
+"LRO783602",2,"CD",2022,1,"2","Vespertino",29,"SIA"
+"LSB894100",1,"ADS",2021,2,"2","Vespertino",21,"Riacho Fundo 2"
+"LSE784779",5,"RH",2021,1,"1","Matutino",10,"Guará"
+"LSO680829",3,"GTI",2022,2,"2","Vespertino",4,"Brazlândia"
+"LTL561259",3,"GTI",2021,1,"3","Noturno",28,"Itapoã"
+"LUM767826",4,"SI",2020,2,"2","Vespertino",27,"Jardim Botânico"
+"LWA547917",4,"SI",2021,1,"3","Noturno",16,"Lago Sul"
+"LWR961460",1,"ADS",2020,2,"3","Noturno",20,"Águas Claras"
+"LXJ059526",2,"CD",2022,2,"2","Vespertino",34,"Arapoanga1"
+"LXM691794",3,"GTI",2020,2,"3","Noturno",9,"Ceilândia"
+"LYA167343",2,"CD",2020,2,"3","Noturno",31,"Fercal"
+"LYD464206",5,"RH",2021,2,"1","Matutino",33,"Arniqueira"
+"LZO989264",4,"SI",2020,2,"1","Matutino",33,"Arniqueira"
+"LZS998564",4,"SI",2021,2,"3","Noturno",15,"Recanto das Emas"
+"MCB878260",3,"GTI",2021,2,"3","Noturno",34,"Arapoanga1"
+"MDP958618",3,"GTI",2022,2,"1","Matutino",21,"Riacho Fundo 2"
+"MDR226275",3,"GTI",2022,1,"1","Matutino",10,"Guará"
+"MEE015113",2,"CD",2021,2,"1","Matutino",2,"Gama"
+"MEI618045",4,"SI",2021,1,"3","Noturno",35,"Água Quente1"
+"MEM071356",5,"RH",2021,1,"1","Matutino",32,"Sol Nascente/Pôr do Sol"
+"MFK043486",2,"CD",2020,1,"2","Vespertino",23,"Varjão"
+"MFY453402",5,"RH",2020,1,"1","Matutino",34,"Arapoanga1"
+"MGW039590",4,"SI",2021,1,"2","Vespertino",30,"Vicente Pires"
+"MGW572944",5,"RH",2020,1,"2","Vespertino",17,"Riacho Fundo"
+"MHN761785",5,"RH",2020,1,"3","Noturno",29,"SIA"
+"MHR391693",4,"SI",2021,2,"3","Noturno",20,"Águas Claras"
+"MHY856083",4,"SI",2021,2,"3","Noturno",18,"Lago Norte"
+"MIE502583",2,"CD",2020,1,"3","Noturno",13,"Santa Maria"
+"MIS046978",5,"RH",2020,1,"2","Vespertino",1,"Plano Piloto"
+"MIT566230",2,"CD",2020,1,"1","Matutino",3,"Taguatinga"
+"MKZ319763",4,"SI",2020,1,"1","Matutino",33,"Arniqueira"
+"MLT909732",4,"SI",2020,1,"3","Noturno",30,"Vicente Pires"
+"MMC610293",5,"RH",2020,1,"2","Vespertino",13,"Santa Maria"
+"MNB530115",4,"SI",2020,1,"2","Vespertino",6,"Planaltina"
+"MNR492090",5,"RH",2021,1,"3","Noturno",8,"Núcleo Bandeirante"
+"MNS928417",2,"CD",2020,1,"2","Vespertino",25,"Estrutural/Scia"
+"MOY764527",3,"GTI",2020,1,"1","Matutino",9,"Ceilândia"
+"MPH149270",5,"RH",2021,1,"2","Vespertino",9,"Ceilândia"
+"MQA871996",1,"ADS",2022,1,"3","Noturno",6,"Planaltina"
+"MQB468033",4,"SI",2021,1,"2","Vespertino",18,"Lago Norte"
+"MQV271273",5,"RH",2020,2,"1","Matutino",23,"Varjão"
+"MRF623988",4,"SI",2022,1,"3","Noturno",7,"Paranoá"
+"MRJ943479",1,"ADS",2020,2,"2","Vespertino",32,"Sol Nascente/Pôr do Sol"
+"MTT068874",5,"RH",2021,1,"2","Vespertino",19,"Candangolândia"
+"MWH993110",2,"CD",2022,1,"3","Noturno",35,"Água Quente1"
+"MXE042857",5,"RH",2020,1,"1","Matutino",21,"Riacho Fundo 2"
+"MXS889141",2,"CD",2022,2,"1","Matutino",2,"Gama"
+"MXY652088",3,"GTI",2020,1,"2","Vespertino",8,"Núcleo Bandeirante"
+"MYB783223",2,"CD",2020,1,"3","Noturno",31,"Fercal"
+"MYJ427938",2,"CD",2021,2,"3","Noturno",24,"Park Way"
+"MYV771549",2,"CD",2021,2,"1","Matutino",23,"Varjão"
+"NBL182309",4,"SI",2022,2,"3","Noturno",34,"Arapoanga1"
+"NBN757257",5,"RH",2021,2,"3","Noturno",31,"Fercal"
+"NBW676006",5,"RH",2021,2,"1","Matutino",29,"SIA"
+"NBZ278133",1,"ADS",2020,2,"1","Matutino",19,"Candangolândia"
+"NDB135655",5,"RH",2021,1,"1","Matutino",8,"Núcleo Bandeirante"
+"NDG528235",4,"SI",2021,2,"1","Matutino",14,"São Sebastião"
+"NDO795256",2,"CD",2022,1,"1","Matutino",22,"Sudoeste/Octogonal"
+"NGJ444868",5,"RH",2020,1,"2","Vespertino",17,"Riacho Fundo"
+"NIS381954",2,"CD",2022,1,"3","Noturno",27,"Jardim Botânico"
+"NJF911166",1,"ADS",2021,1,"2","Vespertino",14,"São Sebastião"
+"NJL454099",2,"CD",2020,2,"3","Noturno",24,"Park Way"
+"NKO172872",4,"SI",2022,2,"3","Noturno",6,"Planaltina"
+"NMD008099",3,"GTI",2020,1,"3","Noturno",1,"Plano Piloto"
+"NMI603829",4,"SI",2021,2,"1","Matutino",8,"Núcleo Bandeirante"
+"NNE588927",3,"GTI",2022,1,"1","Matutino",29,"SIA"
+"NNI231078",1,"ADS",2021,1,"2","Vespertino",6,"Planaltina"
+"NNQ775327",3,"GTI",2021,2,"2","Vespertino",7,"Paranoá"
+"NPF740138",1,"ADS",2022,2,"1","Matutino",6,"Planaltina"
+"NPU646996",5,"RH",2021,2,"3","Noturno",23,"Varjão"
+"NPY890806",5,"RH",2022,1,"1","Matutino",33,"Arniqueira"
+"NQI693030",3,"GTI",2022,1,"2","Vespertino",26,"Sobradinho II"
+"NQJ820065",2,"CD",2020,1,"1","Matutino",20,"Águas Claras"
+"NQM166554",2,"CD",2022,1,"2","Vespertino",27,"Jardim Botânico"
+"NRD478134",3,"GTI",2022,2,"2","Vespertino",22,"Sudoeste/Octogonal"
+"NRH562083",1,"ADS",2022,1,"2","Vespertino",16,"Lago Sul"
+"NRO503348",3,"GTI",2022,1,"1","Matutino",10,"Guará"
+"NRR759360",4,"SI",2021,2,"3","Noturno",34,"Arapoanga1"
+"NSQ858078",4,"SI",2021,1,"2","Vespertino",33,"Arniqueira"
+"NTD388208",4,"SI",2021,2,"2","Vespertino",13,"Santa Maria"
+"NTV074813",3,"GTI",2021,1,"2","Vespertino",21,"Riacho Fundo 2"
+"NUD488575",3,"GTI",2022,1,"3","Noturno",30,"Vicente Pires"
+"NUJ555432",5,"RH",2021,2,"3","Noturno",9,"Ceilândia"
+"NUO273024",4,"SI",2021,2,"2","Vespertino",33,"Arniqueira"
+"NUP937521",3,"GTI",2021,2,"2","Vespertino",29,"SIA"
+"NYC575859",4,"SI",2021,2,"3","Noturno",35,"Água Quente1"
+"NYI676719",5,"RH",2020,2,"3","Noturno",6,"Planaltina"
+"NYY995472",3,"GTI",2021,1,"2","Vespertino",11,"Cruzeiro"
+"NZE948398",4,"SI",2020,1,"1","Matutino",29,"SIA"
+"NZS769924",1,"ADS",2021,1,"1","Matutino",19,"Candangolândia"
+"OAD809676",5,"RH",2020,1,"3","Noturno",10,"Guará"
+"OAK494050",3,"GTI",2021,1,"1","Matutino",34,"Arapoanga1"
+"OAL060760",4,"SI",2021,2,"3","Noturno",21,"Riacho Fundo 2"
+"OCJ143386",2,"CD",2021,2,"2","Vespertino",7,"Paranoá"
+"ODA655443",2,"CD",2022,1,"3","Noturno",11,"Cruzeiro"
+"OEU582196",2,"CD",2022,1,"1","Matutino",13,"Santa Maria"
+"OFH465221",3,"GTI",2021,2,"3","Noturno",31,"Fercal"
+"OFO489952",1,"ADS",2020,2,"2","Vespertino",4,"Brazlândia"
+"OFV484026",2,"CD",2021,2,"2","Vespertino",25,"Estrutural/Scia"
+"OHV670321",3,"GTI",2021,1,"3","Noturno",8,"Núcleo Bandeirante"
+"OIY323010",5,"RH",2021,1,"3","Noturno",14,"São Sebastião"
+"OIZ264127",5,"RH",2021,1,"2","Vespertino",29,"SIA"
+"OKA277293",5,"RH",2021,2,"1","Matutino",13,"Santa Maria"
+"OKK452983",4,"SI",2021,1,"3","Noturno",3,"Taguatinga"
+"OLQ896523",1,"ADS",2020,1,"3","Noturno",18,"Lago Norte"
+"OML531996",3,"GTI",2020,2,"1","Matutino",21,"Riacho Fundo 2"
+"ONA642566",2,"CD",2020,2,"1","Matutino",7,"Paranoá"
+"ONI382507",2,"CD",2021,2,"2","Vespertino",3,"Taguatinga"
+"OOB344368",3,"GTI",2022,2,"1","Matutino",24,"Park Way"
+"OOG209794",1,"ADS",2022,1,"1","Matutino",26,"Sobradinho II"
+"OOR903459",1,"ADS",2020,2,"1","Matutino",13,"Santa Maria"
+"OOU721120",2,"CD",2021,2,"2","Vespertino",34,"Arapoanga1"
+"OQU674036",1,"ADS",2022,2,"2","Vespertino",23,"Varjão"
+"ORW564562",2,"CD",2022,1,"1","Matutino",16,"Lago Sul"
+"OSF017179",4,"SI",2022,1,"1","Matutino",22,"Sudoeste/Octogonal"
+"OSQ092459",2,"CD",2021,1,"2","Vespertino",25,"Estrutural/Scia"
+"OSR456004",5,"RH",2022,2,"3","Noturno",10,"Guará"
+"OUI414708",1,"ADS",2021,2,"2","Vespertino",8,"Núcleo Bandeirante"
+"OVC891888",1,"ADS",2021,2,"3","Noturno",16,"Lago Sul"
+"OXY053544",1,"ADS",2021,1,"2","Vespertino",1,"Plano Piloto"
+"OYZ659017",1,"ADS",2022,1,"1","Matutino",30,"Vicente Pires"
+"OZC357866",4,"SI",2020,1,"2","Vespertino",22,"Sudoeste/Octogonal"
+"PAD403213",4,"SI",2020,1,"3","Noturno",29,"SIA"
+"PAI726945",2,"CD",2020,2,"2","Vespertino",22,"Sudoeste/Octogonal"
+"PAU335291",4,"SI",2020,1,"3","Noturno",17,"Riacho Fundo"
+"PAY554777",1,"ADS",2020,2,"3","Noturno",16,"Lago Sul"
+"PAY679152",3,"GTI",2022,2,"3","Noturno",7,"Paranoá"
+"PBC321999",2,"CD",2022,1,"2","Vespertino",18,"Lago Norte"
+"PBK201061",5,"RH",2021,2,"3","Noturno",26,"Sobradinho II"
+"PCA027376",4,"SI",2020,1,"2","Vespertino",29,"SIA"
+"PCO822722",1,"ADS",2021,1,"1","Matutino",27,"Jardim Botânico"
+"PDG955793",4,"SI",2020,2,"2","Vespertino",8,"Núcleo Bandeirante"
+"PDY160217",1,"ADS",2021,2,"1","Matutino",1,"Plano Piloto"
+"PFK188696",3,"GTI",2022,2,"3","Noturno",33,"Arniqueira"
+"PFZ849064",5,"RH",2021,1,"3","Noturno",13,"Santa Maria"
+"PHE827328",5,"RH",2020,1,"2","Vespertino",28,"Itapoã"
+"PHN487872",5,"RH",2020,2,"2","Vespertino",21,"Riacho Fundo 2"
+"PIP741824",4,"SI",2021,2,"3","Noturno",11,"Cruzeiro"
+"PKO748990",1,"ADS",2022,2,"1","Matutino",6,"Planaltina"
+"PLK238499",3,"GTI",2020,2,"3","Noturno",22,"Sudoeste/Octogonal"
+"PMN735796",1,"ADS",2020,1,"3","Noturno",32,"Sol Nascente/Pôr do Sol"
+"PMR968823",3,"GTI",2022,1,"1","Matutino",7,"Paranoá"
+"PNY978675",2,"CD",2020,1,"2","Vespertino",23,"Varjão"
+"POE190837",2,"CD",2021,2,"1","Matutino",1,"Plano Piloto"
+"PPL535211",3,"GTI",2022,1,"2","Vespertino",32,"Sol Nascente/Pôr do Sol"
+"PPS528346",4,"SI",2022,1,"3","Noturno",5,"Sobradinho"
+"PRK392743",1,"ADS",2021,1,"1","Matutino",17,"Riacho Fundo"
+"PRM078988",5,"RH",2022,2,"3","Noturno",4,"Brazlândia"
+"PRM476340",3,"GTI",2021,2,"3","Noturno",34,"Arapoanga1"
+"PSU326267",4,"SI",2022,2,"3","Noturno",3,"Taguatinga"
+"PUC046770",3,"GTI",2022,2,"3","Noturno",9,"Ceilândia"
+"PUK523844",4,"SI",2020,2,"3","Noturno",7,"Paranoá"
+"PUR200836",3,"GTI",2022,1,"3","Noturno",11,"Cruzeiro"
+"PUW775166",5,"RH",2021,1,"1","Matutino",12,"Samambaia"
+"PXC930392",3,"GTI",2021,1,"1","Matutino",9,"Ceilândia"
+"PXN276299",1,"ADS",2022,1,"1","Matutino",27,"Jardim Botânico"
+"PXZ482850",4,"SI",2021,1,"3","Noturno",23,"Varjão"
+"PYD020538",3,"GTI",2022,2,"2","Vespertino",7,"Paranoá"
+"PZX992902",4,"SI",2022,1,"2","Vespertino",5,"Sobradinho"
+"QAA985408",1,"ADS",2021,1,"3","Noturno",13,"Santa Maria"
+"QAH765174",2,"CD",2022,2,"1","Matutino",1,"Plano Piloto"
+"QAZ242985",2,"CD",2022,1,"3","Noturno",23,"Varjão"
+"QBH247597",5,"RH",2022,1,"3","Noturno",6,"Planaltina"
+"QBR002872",1,"ADS",2021,2,"3","Noturno",1,"Plano Piloto"
+"QBV888182",1,"ADS",2020,1,"1","Matutino",14,"São Sebastião"
+"QCE221401",4,"SI",2021,1,"2","Vespertino",25,"Estrutural/Scia"
+"QCS946327",3,"GTI",2021,2,"1","Matutino",9,"Ceilândia"
+"QDH607956",2,"CD",2020,1,"3","Noturno",25,"Estrutural/Scia"
+"QDK919358",2,"CD",2022,2,"3","Noturno",4,"Brazlândia"
+"QEF554862",4,"SI",2020,1,"1","Matutino",19,"Candangolândia"
+"QFA086961",4,"SI",2022,1,"3","Noturno",20,"Águas Claras"
+"QFD620785",3,"GTI",2020,2,"1","Matutino",2,"Gama"
+"QGE202257",3,"GTI",2020,1,"3","Noturno",26,"Sobradinho II"
+"QGK829855",1,"ADS",2021,1,"2","Vespertino",34,"Arapoanga1"
+"QGQ933436",1,"ADS",2021,1,"1","Matutino",1,"Plano Piloto"
+"QHL364169",2,"CD",2021,1,"2","Vespertino",30,"Vicente Pires"
+"QIQ177564",1,"ADS",2022,2,"1","Matutino",26,"Sobradinho II"
+"QJE908199",1,"ADS",2021,1,"2","Vespertino",31,"Fercal"
+"QJN250137",4,"SI",2020,1,"2","Vespertino",19,"Candangolândia"
+"QKD222922",4,"SI",2022,2,"3","Noturno",7,"Paranoá"
+"QLQ934703",4,"SI",2020,2,"3","Noturno",12,"Samambaia"
+"QOS473102",2,"CD",2021,2,"3","Noturno",18,"Lago Norte"
+"QQS346013",4,"SI",2022,1,"1","Matutino",11,"Cruzeiro"
+"QSG132455",2,"CD",2022,2,"3","Noturno",9,"Ceilândia"
+"QUL485756",5,"RH",2022,1,"2","Vespertino",31,"Fercal"
+"QVP005273",1,"ADS",2020,1,"2","Vespertino",23,"Varjão"
+"QVS540825",5,"RH",2022,1,"1","Matutino",34,"Arapoanga1"
+"QWV812977",2,"CD",2020,2,"3","Noturno",13,"Santa Maria"
+"QXI716279",4,"SI",2020,2,"3","Noturno",22,"Sudoeste/Octogonal"
+"QYA932622",4,"SI",2022,2,"2","Vespertino",28,"Itapoã"
+"QYK094687",4,"SI",2022,1,"2","Vespertino",4,"Brazlândia"
+"QYM860221",4,"SI",2020,2,"3","Noturno",21,"Riacho Fundo 2"
+"QYN135415",3,"GTI",2020,1,"2","Vespertino",4,"Brazlândia"
+"QZC663708",2,"CD",2021,2,"1","Matutino",24,"Park Way"
+"RAC781896",1,"ADS",2022,2,"2","Vespertino",31,"Fercal"
+"RAV017504",2,"CD",2020,2,"1","Matutino",22,"Sudoeste/Octogonal"
+"RBB948243",3,"GTI",2022,1,"3","Noturno",5,"Sobradinho"
+"RBL215457",4,"SI",2021,1,"2","Vespertino",10,"Guará"
+"RCA328668",4,"SI",2020,1,"3","Noturno",25,"Estrutural/Scia"
+"RCD137904",4,"SI",2021,2,"1","Matutino",18,"Lago Norte"
+"RCN794034",1,"ADS",2020,1,"1","Matutino",14,"São Sebastião"
+"RCT276550",1,"ADS",2021,2,"2","Vespertino",24,"Park Way"
+"RDZ463041",5,"RH",2022,1,"1","Matutino",27,"Jardim Botânico"
+"REA833398",3,"GTI",2022,2,"2","Vespertino",19,"Candangolândia"
+"REO344684",3,"GTI",2020,2,"3","Noturno",34,"Arapoanga1"
+"RFX389932",5,"RH",2022,2,"1","Matutino",28,"Itapoã"
+"RFZ987298",3,"GTI",2020,1,"3","Noturno",13,"Santa Maria"
+"RIO907861",5,"RH",2020,1,"1","Matutino",2,"Gama"
+"RJO625119",1,"ADS",2022,1,"3","Noturno",19,"Candangolândia"
+"RMB943018",3,"GTI",2022,2,"2","Vespertino",26,"Sobradinho II"
+"RMO583804",3,"GTI",2022,2,"2","Vespertino",29,"SIA"
+"RMT050436",4,"SI",2021,1,"1","Matutino",34,"Arapoanga1"
+"ROA016518",4,"SI",2022,1,"2","Vespertino",30,"Vicente Pires"
+"ROU408133",1,"ADS",2022,2,"1","Matutino",6,"Planaltina"
+"RPK301146",4,"SI",2020,1,"2","Vespertino",23,"Varjão"
+"RPT459267",4,"SI",2021,1,"3","Noturno",12,"Samambaia"
+"RQP097266",3,"GTI",2020,1,"2","Vespertino",15,"Recanto das Emas"
+"RRM241703",2,"CD",2021,1,"2","Vespertino",30,"Vicente Pires"
+"RSW014662",4,"SI",2021,1,"3","Noturno",19,"Candangolândia"
+"RSW788935",2,"CD",2022,2,"1","Matutino",22,"Sudoeste/Octogonal"
+"RTG729180",3,"GTI",2020,2,"3","Noturno",18,"Lago Norte"
+"RTX631581",4,"SI",2021,1,"2","Vespertino",3,"Taguatinga"
+"RTY990596",3,"GTI",2020,2,"2","Vespertino",6,"Planaltina"
+"RUQ319447",4,"SI",2020,2,"1","Matutino",20,"Águas Claras"
+"RUZ291170",4,"SI",2022,2,"1","Matutino",29,"SIA"
+"RVB008253",3,"GTI",2022,1,"3","Noturno",12,"Samambaia"
+"RVI254144",1,"ADS",2020,2,"1","Matutino",10,"Guará"
+"RXQ378854",2,"CD",2021,1,"1","Matutino",32,"Sol Nascente/Pôr do Sol"
+"SAM765946",3,"GTI",2021,1,"3","Noturno",32,"Sol Nascente/Pôr do Sol"
+"SDK732330",2,"CD",2021,1,"3","Noturno",19,"Candangolândia"
+"SFD946964",3,"GTI",2022,1,"3","Noturno",15,"Recanto das Emas"
+"SFX425002",3,"GTI",2022,2,"3","Noturno",3,"Taguatinga"
+"SHJ869208",1,"ADS",2021,1,"3","Noturno",29,"SIA"
+"SHK810881",2,"CD",2021,2,"2","Vespertino",29,"SIA"
+"SHV629975",2,"CD",2022,2,"1","Matutino",31,"Fercal"
+"SIA628959",4,"SI",2022,1,"3","Noturno",22,"Sudoeste/Octogonal"
+"SIQ019235",4,"SI",2021,1,"2","Vespertino",5,"Sobradinho"
+"SJA426584",3,"GTI",2022,1,"2","Vespertino",24,"Park Way"
+"SKB629085",5,"RH",2022,1,"2","Vespertino",10,"Guará"
+"SKM070657",4,"SI",2021,1,"3","Noturno",30,"Vicente Pires"
+"SKQ197828",4,"SI",2021,1,"3","Noturno",23,"Varjão"
+"SKV604823",4,"SI",2021,2,"3","Noturno",20,"Águas Claras"
+"SLX992263",5,"RH",2021,2,"3","Noturno",1,"Plano Piloto"
+"SNA214207",5,"RH",2021,1,"1","Matutino",33,"Arniqueira"
+"SNR781255",2,"CD",2021,1,"1","Matutino",23,"Varjão"
+"SOF445784",4,"SI",2020,1,"2","Vespertino",4,"Brazlândia"
+"SOO013632",4,"SI",2021,1,"3","Noturno",32,"Sol Nascente/Pôr do Sol"
+"SPE390765",2,"CD",2022,2,"2","Vespertino",3,"Taguatinga"
+"SPL668524",4,"SI",2022,2,"3","Noturno",20,"Águas Claras"
+"SPQ803284",1,"ADS",2020,1,"2","Vespertino",27,"Jardim Botânico"
+"SQI579814",2,"CD",2021,1,"2","Vespertino",12,"Samambaia"
+"SQX708174",5,"RH",2021,1,"2","Vespertino",1,"Plano Piloto"
+"SRI664584",4,"SI",2022,2,"2","Vespertino",14,"São Sebastião"
+"SRN367690",1,"ADS",2022,2,"3","Noturno",10,"Guará"
+"SRQ408205",4,"SI",2022,2,"2","Vespertino",35,"Água Quente1"
+"SSB036367",3,"GTI",2021,1,"2","Vespertino",25,"Estrutural/Scia"
+"SSY758992",3,"GTI",2020,1,"1","Matutino",35,"Água Quente1"
+"STX841647",5,"RH",2021,1,"1","Matutino",1,"Plano Piloto"
+"SUG136519",4,"SI",2021,2,"2","Vespertino",17,"Riacho Fundo"
+"SUM054303",2,"CD",2022,2,"1","Matutino",34,"Arapoanga1"
+"SUU760447",5,"RH",2022,1,"1","Matutino",5,"Sobradinho"
+"SUU816684",5,"RH",2021,1,"3","Noturno",33,"Arniqueira"
+"SXE309712",1,"ADS",2022,2,"3","Noturno",14,"São Sebastião"
+"SXL485710",2,"CD",2021,1,"3","Noturno",27,"Jardim Botânico"
+"SYA445779",4,"SI",2020,2,"3","Noturno",32,"Sol Nascente/Pôr do Sol"
+"SYN690145",4,"SI",2022,1,"2","Vespertino",34,"Arapoanga1"
+"SZI476263",1,"ADS",2022,2,"2","Vespertino",12,"Samambaia"
+"SZQ281647",3,"GTI",2020,1,"1","Matutino",30,"Vicente Pires"
+"SZV348855",3,"GTI",2022,1,"3","Noturno",27,"Jardim Botânico"
+"SZX536592",5,"RH",2021,2,"3","Noturno",16,"Lago Sul"
+"TAA134574",5,"RH",2021,2,"2","Vespertino",15,"Recanto das Emas"
+"TAB691208",1,"ADS",2020,1,"2","Vespertino",26,"Sobradinho II"
+"TAX140330",1,"ADS",2022,1,"3","Noturno",24,"Park Way"
+"TBA281799",1,"ADS",2020,2,"3","Noturno",33,"Arniqueira"
+"TBT363160",4,"SI",2020,2,"2","Vespertino",30,"Vicente Pires"
+"TBV057693",1,"ADS",2022,1,"3","Noturno",25,"Estrutural/Scia"
+"TDK604390",4,"SI",2020,1,"1","Matutino",35,"Água Quente1"
+"TDQ501639",2,"CD",2021,2,"2","Vespertino",30,"Vicente Pires"
+"TFH812121",2,"CD",2022,1,"1","Matutino",16,"Lago Sul"
+"TGV641281",1,"ADS",2022,1,"2","Vespertino",10,"Guará"
+"TIW237090",4,"SI",2021,1,"3","Noturno",19,"Candangolândia"
+"TJP691853",3,"GTI",2020,1,"2","Vespertino",20,"Águas Claras"
+"TKM831060",3,"GTI",2020,1,"2","Vespertino",13,"Santa Maria"
+"TKV372439",1,"ADS",2020,2,"3","Noturno",17,"Riacho Fundo"
+"TKX404780",1,"ADS",2021,1,"2","Vespertino",6,"Planaltina"
+"TLF364594",1,"ADS",2022,1,"1","Matutino",9,"Ceilândia"
+"TLH433781",5,"RH",2020,2,"2","Vespertino",7,"Paranoá"
+"TLL242265",2,"CD",2021,2,"1","Matutino",12,"Samambaia"
+"TLS180438",5,"RH",2021,1,"1","Matutino",26,"Sobradinho II"
+"TMW331745",1,"ADS",2021,1,"3","Noturno",12,"Samambaia"
+"TNG535222",1,"ADS",2020,2,"2","Vespertino",4,"Brazlândia"
+"TOG104682",2,"CD",2022,2,"3","Noturno",20,"Águas Claras"
+"TPI519006",1,"ADS",2020,1,"3","Noturno",27,"Jardim Botânico"
+"TPZ514334",3,"GTI",2022,2,"2","Vespertino",6,"Planaltina"
+"TQV173587",4,"SI",2020,2,"3","Noturno",22,"Sudoeste/Octogonal"
+"TRD582013",3,"GTI",2022,2,"3","Noturno",12,"Samambaia"
+"TRN452069",2,"CD",2020,1,"3","Noturno",32,"Sol Nascente/Pôr do Sol"
+"TRV717874",1,"ADS",2020,2,"1","Matutino",18,"Lago Norte"
+"TSJ800397",5,"RH",2020,2,"3","Noturno",10,"Guará"
+"TSK803811",2,"CD",2021,1,"1","Matutino",23,"Varjão"
+"TSZ861855",1,"ADS",2021,2,"2","Vespertino",14,"São Sebastião"
+"TTV381364",4,"SI",2022,1,"3","Noturno",1,"Plano Piloto"
+"TTX336563",1,"ADS",2020,1,"1","Matutino",12,"Samambaia"
+"TVB642413",4,"SI",2022,1,"1","Matutino",19,"Candangolândia"
+"TWN558833",2,"CD",2021,1,"3","Noturno",3,"Taguatinga"
+"TWS384970",4,"SI",2022,2,"1","Matutino",2,"Gama"
+"TXC421285",3,"GTI",2021,1,"2","Vespertino",3,"Taguatinga"
+"TXL546383",4,"SI",2022,2,"3","Noturno",9,"Ceilândia"
+"TXZ165692",4,"SI",2021,2,"1","Matutino",31,"Fercal"
+"TYI295033",2,"CD",2021,2,"3","Noturno",4,"Brazlândia"
+"TZT925584",1,"ADS",2021,2,"3","Noturno",3,"Taguatinga"
+"UAJ497769",5,"RH",2022,2,"3","Noturno",9,"Ceilândia"
+"UAJ935201",2,"CD",2021,2,"2","Vespertino",7,"Paranoá"
+"UBU776182",1,"ADS",2021,2,"3","Noturno",20,"Águas Claras"
+"UCT227675",5,"RH",2020,1,"2","Vespertino",12,"Samambaia"
+"UCX771169",5,"RH",2021,2,"1","Matutino",14,"São Sebastião"
+"UDG116277",4,"SI",2022,2,"3","Noturno",6,"Planaltina"
+"UDN165765",4,"SI",2022,1,"1","Matutino",10,"Guará"
+"UEC276419",3,"GTI",2021,2,"2","Vespertino",10,"Guará"
+"UFN695935",5,"RH",2022,2,"3","Noturno",1,"Plano Piloto"
+"UFV675817",5,"RH",2022,2,"2","Vespertino",30,"Vicente Pires"
+"UGH027662",1,"ADS",2020,1,"1","Matutino",34,"Arapoanga1"
+"UHZ566616",5,"RH",2020,1,"2","Vespertino",25,"Estrutural/Scia"
+"UIZ630195",4,"SI",2022,2,"2","Vespertino",3,"Taguatinga"
+"UJN358085",4,"SI",2020,2,"3","Noturno",35,"Água Quente1"
+"UKP876015",1,"ADS",2020,2,"2","Vespertino",12,"Samambaia"
+"ULJ762578",2,"CD",2021,2,"1","Matutino",2,"Gama"
+"ULW585893",5,"RH",2021,1,"2","Vespertino",1,"Plano Piloto"
+"UMB900053",1,"ADS",2021,2,"1","Matutino",28,"Itapoã"
+"UMN024552",5,"RH",2021,2,"2","Vespertino",4,"Brazlândia"
+"UMZ589659",5,"RH",2022,2,"1","Matutino",2,"Gama"
+"UNN127375",5,"RH",2020,1,"2","Vespertino",20,"Águas Claras"
+"UOO122583",1,"ADS",2020,1,"3","Noturno",26,"Sobradinho II"
+"UOO580649",3,"GTI",2022,2,"1","Matutino",15,"Recanto das Emas"
+"UPD823874",4,"SI",2020,2,"1","Matutino",34,"Arapoanga1"
+"UPZ010199",5,"RH",2020,2,"2","Vespertino",9,"Ceilândia"
+"URF122252",3,"GTI",2021,1,"2","Vespertino",13,"Santa Maria"
+"URU481055",1,"ADS",2022,2,"2","Vespertino",7,"Paranoá"
+"USK314599",1,"ADS",2020,2,"3","Noturno",32,"Sol Nascente/Pôr do Sol"
+"USM686314",4,"SI",2021,1,"3","Noturno",27,"Jardim Botânico"
+"UTS780152",3,"GTI",2022,2,"2","Vespertino",4,"Brazlândia"
+"UTZ847743",3,"GTI",2022,2,"1","Matutino",1,"Plano Piloto"
+"UUB313117",4,"SI",2020,1,"1","Matutino",23,"Varjão"
+"UUH361635",5,"RH",2021,2,"1","Matutino",16,"Lago Sul"
+"UUU646184",1,"ADS",2020,1,"2","Vespertino",17,"Riacho Fundo"
+"UUY865719",1,"ADS",2020,1,"1","Matutino",9,"Ceilândia"
+"UVE774329",2,"CD",2021,1,"2","Vespertino",33,"Arniqueira"
+"UVH240981",4,"SI",2020,1,"1","Matutino",17,"Riacho Fundo"
+"UWO697285",4,"SI",2021,1,"2","Vespertino",34,"Arapoanga1"
+"UWQ101545",5,"RH",2020,1,"2","Vespertino",33,"Arniqueira"
+"UXO188360",1,"ADS",2022,1,"3","Noturno",23,"Varjão"
+"UYK950248",5,"RH",2020,1,"2","Vespertino",1,"Plano Piloto"
+"UZD343128",3,"GTI",2020,2,"2","Vespertino",8,"Núcleo Bandeirante"
+"VAZ069838",1,"ADS",2021,1,"1","Matutino",24,"Park Way"
+"VBX226910",2,"CD",2021,2,"1","Matutino",28,"Itapoã"
+"VCD605956",3,"GTI",2020,2,"1","Matutino",4,"Brazlândia"
+"VCD615143",2,"CD",2020,2,"3","Noturno",33,"Arniqueira"
+"VCK590490",2,"CD",2020,1,"2","Vespertino",21,"Riacho Fundo 2"
+"VDB039522",1,"ADS",2020,1,"1","Matutino",18,"Lago Norte"
+"VDM678590",4,"SI",2022,2,"3","Noturno",12,"Samambaia"
+"VDW631954",2,"CD",2020,2,"2","Vespertino",9,"Ceilândia"
+"VEJ521990",5,"RH",2020,2,"1","Matutino",19,"Candangolândia"
+"VFU643825",4,"SI",2022,2,"3","Noturno",2,"Gama"
+"VFX647108",4,"SI",2021,1,"2","Vespertino",28,"Itapoã"
+"VFY652840",4,"SI",2021,2,"2","Vespertino",22,"Sudoeste/Octogonal"
+"VGA679126",5,"RH",2021,1,"2","Vespertino",13,"Santa Maria"
+"VGF647064",3,"GTI",2022,1,"2","Vespertino",32,"Sol Nascente/Pôr do Sol"
+"VGG490704",2,"CD",2022,2,"3","Noturno",33,"Arniqueira"
+"VGH670646",3,"GTI",2022,2,"2","Vespertino",21,"Riacho Fundo 2"
+"VHK604203",2,"CD",2021,1,"3","Noturno",4,"Brazlândia"
+"VHN299384",2,"CD",2022,1,"3","Noturno",11,"Cruzeiro"
+"VIC870084",2,"CD",2021,2,"3","Noturno",10,"Guará"
+"VID323985",5,"RH",2020,2,"3","Noturno",6,"Planaltina"
+"VIG074400",4,"SI",2022,1,"3","Noturno",10,"Guará"
+"VIP446940",4,"SI",2020,1,"3","Noturno",21,"Riacho Fundo 2"
+"VIY409620",4,"SI",2021,1,"2","Vespertino",2,"Gama"
+"VKY715264",4,"SI",2021,2,"2","Vespertino",27,"Jardim Botânico"
+"VLT075004",2,"CD",2020,2,"1","Matutino",34,"Arapoanga1"
+"VLW352278",1,"ADS",2021,1,"2","Vespertino",14,"São Sebastião"
+"VMC452479",4,"SI",2022,1,"3","Noturno",7,"Paranoá"
+"VMF416518",1,"ADS",2021,2,"1","Matutino",7,"Paranoá"
+"VMW414769",1,"ADS",2021,1,"1","Matutino",20,"Águas Claras"
+"VNX758434",5,"RH",2020,1,"1","Matutino",28,"Itapoã"
+"VNY295143",5,"RH",2021,2,"3","Noturno",1,"Plano Piloto"
+"VOE132109",4,"SI",2020,2,"3","Noturno",24,"Park Way"
+"VOI501395",4,"SI",2022,1,"2","Vespertino",32,"Sol Nascente/Pôr do Sol"
+"VOI514083",4,"SI",2020,2,"3","Noturno",4,"Brazlândia"
+"VOS917767",5,"RH",2022,1,"2","Vespertino",1,"Plano Piloto"
+"VOZ954153",3,"GTI",2021,2,"2","Vespertino",3,"Taguatinga"
+"VPH556010",2,"CD",2021,1,"1","Matutino",13,"Santa Maria"
+"VQQ126950",2,"CD",2022,1,"1","Matutino",1,"Plano Piloto"
+"VQV509544",4,"SI",2022,2,"1","Matutino",28,"Itapoã"
+"VQW793786",2,"CD",2020,1,"1","Matutino",34,"Arapoanga1"
+"VRH839618",5,"RH",2020,1,"1","Matutino",18,"Lago Norte"
+"VRL981017",1,"ADS",2020,2,"3","Noturno",9,"Ceilândia"
+"VRV121120",1,"ADS",2022,1,"1","Matutino",15,"Recanto das Emas"
+"VSC785244",5,"RH",2021,2,"2","Vespertino",4,"Brazlândia"
+"VTA542111",4,"SI",2022,1,"1","Matutino",12,"Samambaia"
+"VTI720362",4,"SI",2021,2,"1","Matutino",5,"Sobradinho"
+"VTK254734",5,"RH",2020,1,"2","Vespertino",13,"Santa Maria"
+"VWD912985",4,"SI",2021,2,"3","Noturno",21,"Riacho Fundo 2"
+"VWY488471",1,"ADS",2020,2,"1","Matutino",9,"Ceilândia"
+"VXI786414",4,"SI",2020,2,"2","Vespertino",3,"Taguatinga"
+"VXM437132",1,"ADS",2020,2,"2","Vespertino",35,"Água Quente1"
+"VXN776648",1,"ADS",2020,2,"2","Vespertino",34,"Arapoanga1"
+"VYK055279",2,"CD",2022,1,"2","Vespertino",11,"Cruzeiro"
+"VYL174585",3,"GTI",2021,2,"3","Noturno",15,"Recanto das Emas"
+"VZH139248",2,"CD",2021,2,"3","Noturno",2,"Gama"
+"WAK195705",1,"ADS",2021,1,"3","Noturno",26,"Sobradinho II"
+"WBA277838",1,"ADS",2022,2,"1","Matutino",3,"Taguatinga"
+"WBV788760",3,"GTI",2021,2,"1","Matutino",22,"Sudoeste/Octogonal"
+"WCB927253",4,"SI",2021,1,"1","Matutino",7,"Paranoá"
+"WCN752441",1,"ADS",2022,1,"2","Vespertino",14,"São Sebastião"
+"WDQ173676",3,"GTI",2021,1,"1","Matutino",9,"Ceilândia"
+"WEL072684",1,"ADS",2022,2,"3","Noturno",30,"Vicente Pires"
+"WEO298403",2,"CD",2022,2,"3","Noturno",19,"Candangolândia"
+"WFV926708",4,"SI",2022,1,"1","Matutino",4,"Brazlândia"
+"WGP787300",2,"CD",2020,2,"2","Vespertino",7,"Paranoá"
+"WGQ761325",4,"SI",2022,2,"3","Noturno",14,"São Sebastião"
+"WHH892250",5,"RH",2021,2,"3","Noturno",21,"Riacho Fundo 2"
+"WHV186194",5,"RH",2022,2,"2","Vespertino",3,"Taguatinga"
+"WHY118009",2,"CD",2021,2,"2","Vespertino",2,"Gama"
+"WIS669784",1,"ADS",2022,1,"3","Noturno",19,"Candangolândia"
+"WKF468607",4,"SI",2022,2,"3","Noturno",12,"Samambaia"
+"WKW109765",5,"RH",2020,1,"2","Vespertino",19,"Candangolândia"
+"WKW336486",1,"ADS",2021,2,"2","Vespertino",25,"Estrutural/Scia"
+"WLS286932",3,"GTI",2020,2,"3","Noturno",24,"Park Way"
+"WMC726536",3,"GTI",2022,2,"2","Vespertino",29,"SIA"
+"WMH432194",5,"RH",2020,1,"3","Noturno",19,"Candangolândia"
+"WMI488819",1,"ADS",2022,1,"3","Noturno",27,"Jardim Botânico"
+"WMW480048",1,"ADS",2020,1,"3","Noturno",4,"Brazlândia"
+"WOC582473",3,"GTI",2020,2,"3","Noturno",34,"Arapoanga1"
+"WOS366434",2,"CD",2020,1,"2","Vespertino",5,"Sobradinho"
+"WOT469583",2,"CD",2022,2,"2","Vespertino",30,"Vicente Pires"
+"WPK984444",2,"CD",2021,2,"1","Matutino",5,"Sobradinho"
+"WPM631667",5,"RH",2020,2,"1","Matutino",5,"Sobradinho"
+"WPU867822",2,"CD",2021,1,"1","Matutino",10,"Guará"
+"WRW625221",1,"ADS",2020,2,"3","Noturno",32,"Sol Nascente/Pôr do Sol"
+"WRY612215",3,"GTI",2022,2,"1","Matutino",28,"Itapoã"
+"WTM553783",4,"SI",2020,1,"1","Matutino",25,"Estrutural/Scia"
+"WTQ208791",4,"SI",2020,2,"2","Vespertino",6,"Planaltina"
+"WTS319848",5,"RH",2021,1,"2","Vespertino",4,"Brazlândia"
+"WTV496233",5,"RH",2022,2,"1","Matutino",30,"Vicente Pires"
+"WVD949191",5,"RH",2020,2,"3","Noturno",12,"Samambaia"
+"WVI642646",4,"SI",2021,2,"1","Matutino",11,"Cruzeiro"
+"WXD374487",5,"RH",2021,1,"2","Vespertino",10,"Guará"
+"WXU263835",4,"SI",2020,2,"2","Vespertino",24,"Park Way"
+"WYU147889",2,"CD",2021,2,"1","Matutino",34,"Arapoanga1"
+"WZE601562",2,"CD",2022,1,"1","Matutino",35,"Água Quente1"
+"WZH417502",1,"ADS",2022,1,"2","Vespertino",8,"Núcleo Bandeirante"
+"WZJ959986",4,"SI",2021,1,"3","Noturno",15,"Recanto das Emas"
+"XBQ794463",3,"GTI",2020,2,"1","Matutino",11,"Cruzeiro"
+"XCJ046701",1,"ADS",2021,1,"3","Noturno",4,"Brazlândia"
+"XGA543365",2,"CD",2022,1,"1","Matutino",32,"Sol Nascente/Pôr do Sol"
+"XHA196463",2,"CD",2020,1,"1","Matutino",21,"Riacho Fundo 2"
+"XHS294247",5,"RH",2021,1,"3","Noturno",22,"Sudoeste/Octogonal"
+"XIN369973",4,"SI",2021,2,"2","Vespertino",1,"Plano Piloto"
+"XJA642037",3,"GTI",2022,2,"1","Matutino",21,"Riacho Fundo 2"
+"XKO442322",3,"GTI",2022,1,"1","Matutino",21,"Riacho Fundo 2"
+"XLU383219",1,"ADS",2022,1,"1","Matutino",26,"Sobradinho II"
+"XMQ436745",5,"RH",2022,2,"1","Matutino",34,"Arapoanga1"
+"XPD279103",3,"GTI",2020,1,"2","Vespertino",19,"Candangolândia"
+"XRW710759",4,"SI",2021,1,"1","Matutino",30,"Vicente Pires"
+"XSI428333",1,"ADS",2020,2,"2","Vespertino",21,"Riacho Fundo 2"
+"XSW877012",5,"RH",2020,2,"3","Noturno",14,"São Sebastião"
+"XUP040983",3,"GTI",2022,2,"3","Noturno",14,"São Sebastião"
+"XXS640375",5,"RH",2022,2,"1","Matutino",3,"Taguatinga"
+"XYA751224",2,"CD",2020,2,"3","Noturno",23,"Varjão"
+"XYH659345",5,"RH",2021,2,"3","Noturno",18,"Lago Norte"
+"XYW165025",1,"ADS",2020,1,"3","Noturno",11,"Cruzeiro"
+"YAP752864",1,"ADS",2021,1,"1","Matutino",5,"Sobradinho"
+"YAQ169944",1,"ADS",2021,2,"2","Vespertino",3,"Taguatinga"
+"YBX407112",4,"SI",2021,1,"1","Matutino",35,"Água Quente1"
+"YEA378103",1,"ADS",2020,1,"3","Noturno",3,"Taguatinga"
+"YED289041",1,"ADS",2020,2,"2","Vespertino",12,"Samambaia"
+"YEF782538",2,"CD",2020,2,"3","Noturno",18,"Lago Norte"
+"YEY969287",3,"GTI",2022,2,"1","Matutino",13,"Santa Maria"
+"YJA953708",3,"GTI",2020,1,"1","Matutino",5,"Sobradinho"
+"YJH000884",5,"RH",2022,2,"1","Matutino",18,"Lago Norte"
+"YJO687392",1,"ADS",2022,2,"2","Vespertino",5,"Sobradinho"
+"YKS069525",1,"ADS",2020,1,"3","Noturno",33,"Arniqueira"
+"YMH028954",3,"GTI",2021,1,"2","Vespertino",25,"Estrutural/Scia"
+"YNK399673",1,"ADS",2020,2,"3","Noturno",33,"Arniqueira"
+"YNQ794743",4,"SI",2021,1,"2","Vespertino",26,"Sobradinho II"
+"YOC140572",3,"GTI",2021,1,"1","Matutino",8,"Núcleo Bandeirante"
+"YOH172893",1,"ADS",2021,1,"3","Noturno",26,"Sobradinho II"
+"YOK728885",1,"ADS",2022,2,"3","Noturno",1,"Plano Piloto"
+"YOS400463",1,"ADS",2021,2,"3","Noturno",32,"Sol Nascente/Pôr do Sol"
+"YPC227447",5,"RH",2020,2,"2","Vespertino",35,"Água Quente1"
+"YPL699706",1,"ADS",2021,1,"3","Noturno",28,"Itapoã"
+"YQT936908",5,"RH",2021,1,"2","Vespertino",34,"Arapoanga1"
+"YRQ647282",2,"CD",2021,1,"1","Matutino",12,"Samambaia"
+"YSP134592",1,"ADS",2022,2,"3","Noturno",10,"Guará"
+"YUH813245",1,"ADS",2020,2,"3","Noturno",30,"Vicente Pires"
+"YUX301674",4,"SI",2020,1,"1","Matutino",21,"Riacho Fundo 2"
+"YUY128877",4,"SI",2021,2,"3","Noturno",33,"Arniqueira"
+"YUZ503394",2,"CD",2021,1,"2","Vespertino",7,"Paranoá"
+"YUZ874931",1,"ADS",2021,1,"2","Vespertino",25,"Estrutural/Scia"
+"YVA849184",1,"ADS",2022,2,"3","Noturno",30,"Vicente Pires"
+"YVH403912",1,"ADS",2021,2,"3","Noturno",14,"São Sebastião"
+"YWC438976",1,"ADS",2020,2,"1","Matutino",8,"Núcleo Bandeirante"
+"YXA970112",2,"CD",2022,1,"2","Vespertino",13,"Santa Maria"
+"YXE599488",4,"SI",2020,1,"3","Noturno",11,"Cruzeiro"
+"YXN812952",4,"SI",2022,2,"1","Matutino",35,"Água Quente1"
+"YXQ576231",3,"GTI",2021,1,"1","Matutino",11,"Cruzeiro"
+"YYC474587",5,"RH",2021,1,"3","Noturno",27,"Jardim Botânico"
+"YYX077679",4,"SI",2022,1,"2","Vespertino",11,"Cruzeiro"
+"YZE950560",1,"ADS",2021,2,"3","Noturno",6,"Planaltina"
+"YZN025691",5,"RH",2022,2,"3","Noturno",24,"Park Way"
+"YZT061442",5,"RH",2021,2,"1","Matutino",32,"Sol Nascente/Pôr do Sol"
+"ZBR035449",2,"CD",2022,2,"2","Vespertino",1,"Plano Piloto"
+"ZCP905432",5,"RH",2020,1,"1","Matutino",5,"Sobradinho"
+"ZCW070483",3,"GTI",2020,2,"1","Matutino",11,"Cruzeiro"
+"ZCX074509",4,"SI",2021,2,"1","Matutino",5,"Sobradinho"
+"ZDK684934",4,"SI",2021,2,"2","Vespertino",18,"Lago Norte"
+"ZEL595865",2,"CD",2022,1,"3","Noturno",23,"Varjão"
+"ZEW054182",3,"GTI",2020,2,"2","Vespertino",17,"Riacho Fundo"
+"ZFO039908",2,"CD",2021,2,"3","Noturno",34,"Arapoanga1"
+"ZHQ632194",5,"RH",2022,1,"3","Noturno",23,"Varjão"
+"ZIL332333",5,"RH",2022,1,"2","Vespertino",5,"Sobradinho"
+"ZIO079911",4,"SI",2022,2,"1","Matutino",23,"Varjão"
+"ZIQ108513",1,"ADS",2022,1,"3","Noturno",23,"Varjão"
+"ZJD329872",4,"SI",2020,2,"1","Matutino",20,"Águas Claras"
+"ZJH663426",3,"GTI",2021,2,"1","Matutino",10,"Guará"
+"ZJM299619",4,"SI",2020,2,"3","Noturno",9,"Ceilândia"
+"ZKC770489",4,"SI",2020,1,"1","Matutino",24,"Park Way"
+"ZKP732939",3,"GTI",2020,2,"3","Noturno",9,"Ceilândia"
+"ZLK101073",5,"RH",2020,1,"1","Matutino",21,"Riacho Fundo 2"
+"ZMK724107",2,"CD",2020,2,"3","Noturno",2,"Gama"
+"ZOB023173",2,"CD",2020,1,"1","Matutino",20,"Águas Claras"
+"ZPK465622",4,"SI",2021,2,"3","Noturno",27,"Jardim Botânico"
+"ZPU413754",5,"RH",2020,2,"3","Noturno",32,"Sol Nascente/Pôr do Sol"
+"ZQX688979",2,"CD",2022,1,"2","Vespertino",8,"Núcleo Bandeirante"
+"ZRS694200",5,"RH",2022,1,"2","Vespertino",27,"Jardim Botânico"
+"ZSC030309",2,"CD",2020,1,"2","Vespertino",5,"Sobradinho"
+"ZSQ285068",4,"SI",2020,2,"2","Vespertino",24,"Park Way"
+"ZUM958012",3,"GTI",2021,1,"2","Vespertino",23,"Varjão"
+"ZVW168390",4,"SI",2020,2,"2","Vespertino",25,"Estrutural/Scia"
+"ZWE489619",3,"GTI",2022,1,"2","Vespertino",28,"Itapoã"
+"ZWS727214",5,"RH",2020,1,"3","Noturno",19,"Candangolândia"
+"ZXF696043",2,"CD",2020,2,"2","Vespertino",13,"Santa Maria"
+"ZXO475271",3,"GTI",2020,1,"3","Noturno",32,"Sol Nascente/Pôr do Sol"
+"ZYT992397",1,"ADS",2022,2,"3","Noturno",15,"Recanto das Emas"
+"ZYY510859",2,"CD",2022,1,"1","Matutino",25,"Estrutural/Scia"
+"ZZM039187",4,"SI",2021,1,"3","Noturno",25,"Estrutural/Scia"

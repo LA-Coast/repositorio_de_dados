@@ -1,0 +1,1001 @@
+"id_matricula","curso","sigla_curso","ano","semestre","turno","nome_turno","ingresso","nome_ingresso"
+"ACB029015",3,"GTI",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"ACK244514",4,"SI",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"ACP464029",2,"CD",2021,2,"3","Noturno",2,"Segunda Graduação"
+"ADG785780",3,"GTI",2022,2,"1","Matutino",3,"Transferência"
+"ADP716178",1,"ADS",2022,2,"2","Vespertino",1,"Vestibular"
+"ADW672440",4,"SI",2021,2,"2","Vespertino",3,"Transferência"
+"AEC482431",3,"GTI",2021,1,"2","Vespertino",3,"Transferência"
+"AEP373753",3,"GTI",2022,2,"3","Noturno",1,"Vestibular"
+"AFT325852",2,"CD",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"AFW584209",4,"SI",2022,1,"1","Matutino",1,"Vestibular"
+"AGC428078",4,"SI",2021,1,"1","Matutino",1,"Vestibular"
+"AGJ569243",3,"GTI",2022,1,"2","Vespertino",1,"Vestibular"
+"AGN513482",4,"SI",2021,2,"3","Noturno",3,"Transferência"
+"AGY507689",3,"GTI",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"AHE295061",4,"SI",2022,2,"3","Noturno",3,"Transferência"
+"AHO643798",2,"CD",2021,1,"2","Vespertino",3,"Transferência"
+"AIY538708",5,"RH",2022,1,"3","Noturno",2,"Segunda Graduação"
+"AJE406685",1,"ADS",2021,1,"3","Noturno",2,"Segunda Graduação"
+"AJV384212",4,"SI",2020,1,"3","Noturno",1,"Vestibular"
+"AKU908507",1,"ADS",2020,2,"2","Vespertino",2,"Segunda Graduação"
+"ALW868404",4,"SI",2020,1,"1","Matutino",2,"Segunda Graduação"
+"ALW869953",3,"GTI",2022,1,"1","Matutino",2,"Segunda Graduação"
+"ANX052694",3,"GTI",2021,2,"3","Noturno",1,"Vestibular"
+"AOD895291",2,"CD",2020,2,"1","Matutino",3,"Transferência"
+"AOH344845",4,"SI",2021,1,"1","Matutino",1,"Vestibular"
+"AOZ927186",5,"RH",2022,2,"2","Vespertino",3,"Transferência"
+"API825196",3,"GTI",2022,1,"3","Noturno",2,"Segunda Graduação"
+"AQP533900",2,"CD",2021,2,"3","Noturno",3,"Transferência"
+"AQQ153374",2,"CD",2021,1,"2","Vespertino",1,"Vestibular"
+"AQQ697265",4,"SI",2020,1,"3","Noturno",2,"Segunda Graduação"
+"ARA422407",3,"GTI",2022,1,"3","Noturno",2,"Segunda Graduação"
+"ASL353896",3,"GTI",2022,1,"1","Matutino",3,"Transferência"
+"ASV988932",1,"ADS",2021,2,"1","Matutino",3,"Transferência"
+"ASW063474",5,"RH",2021,2,"2","Vespertino",1,"Vestibular"
+"AUE423714",3,"GTI",2022,1,"3","Noturno",2,"Segunda Graduação"
+"AUV705318",4,"SI",2020,1,"2","Vespertino",1,"Vestibular"
+"AVF403847",2,"CD",2021,1,"3","Noturno",3,"Transferência"
+"AVN016829",4,"SI",2021,1,"1","Matutino",3,"Transferência"
+"AVV961987",2,"CD",2022,2,"1","Matutino",1,"Vestibular"
+"AVY386089",5,"RH",2020,2,"1","Matutino",2,"Segunda Graduação"
+"AWU746413",1,"ADS",2020,2,"1","Matutino",3,"Transferência"
+"AXU385250",5,"RH",2021,1,"1","Matutino",3,"Transferência"
+"BAR201650",4,"SI",2020,2,"2","Vespertino",3,"Transferência"
+"BAU113983",2,"CD",2020,2,"2","Vespertino",2,"Segunda Graduação"
+"BAX758197",1,"ADS",2021,2,"1","Matutino",3,"Transferência"
+"BBM017309",4,"SI",2022,1,"1","Matutino",3,"Transferência"
+"BCB887837",5,"RH",2021,2,"2","Vespertino",3,"Transferência"
+"BCT003544",2,"CD",2020,1,"3","Noturno",2,"Segunda Graduação"
+"BCZ300025",4,"SI",2022,1,"3","Noturno",2,"Segunda Graduação"
+"BDM202447",1,"ADS",2020,2,"2","Vespertino",2,"Segunda Graduação"
+"BDO171562",3,"GTI",2022,1,"3","Noturno",3,"Transferência"
+"BEQ809570",1,"ADS",2022,1,"1","Matutino",2,"Segunda Graduação"
+"BHE536530",4,"SI",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"BHP658365",5,"RH",2022,1,"1","Matutino",1,"Vestibular"
+"BHT060480",4,"SI",2020,2,"1","Matutino",3,"Transferência"
+"BHW551919",4,"SI",2021,2,"3","Noturno",1,"Vestibular"
+"BJU564065",5,"RH",2021,1,"3","Noturno",1,"Vestibular"
+"BKW370764",4,"SI",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"BKZ871100",3,"GTI",2020,2,"1","Matutino",2,"Segunda Graduação"
+"BMI305476",2,"CD",2022,2,"3","Noturno",3,"Transferência"
+"BMO426012",2,"CD",2020,2,"1","Matutino",1,"Vestibular"
+"BNN656837",2,"CD",2021,2,"3","Noturno",3,"Transferência"
+"BOJ934977",5,"RH",2020,2,"1","Matutino",3,"Transferência"
+"BOO834626",5,"RH",2022,2,"2","Vespertino",1,"Vestibular"
+"BQR667066",2,"CD",2022,2,"1","Matutino",2,"Segunda Graduação"
+"BQY832283",3,"GTI",2021,1,"1","Matutino",1,"Vestibular"
+"BRA308064",3,"GTI",2022,2,"1","Matutino",1,"Vestibular"
+"BRE245397",3,"GTI",2022,1,"3","Noturno",3,"Transferência"
+"BSQ620246",3,"GTI",2021,2,"1","Matutino",1,"Vestibular"
+"BTU756278",3,"GTI",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"BUH646551",4,"SI",2020,2,"2","Vespertino",3,"Transferência"
+"BVI686266",3,"GTI",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"BWJ448436",1,"ADS",2021,1,"3","Noturno",2,"Segunda Graduação"
+"BWR542577",3,"GTI",2021,2,"1","Matutino",2,"Segunda Graduação"
+"BWS946132",3,"GTI",2022,2,"2","Vespertino",2,"Segunda Graduação"
+"BXO877936",5,"RH",2020,1,"3","Noturno",1,"Vestibular"
+"BXX624612",3,"GTI",2020,1,"1","Matutino",1,"Vestibular"
+"BYF113519",5,"RH",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"BYP825518",2,"CD",2022,2,"2","Vespertino",3,"Transferência"
+"BYV939972",3,"GTI",2020,1,"1","Matutino",1,"Vestibular"
+"BYZ889681",3,"GTI",2021,1,"1","Matutino",1,"Vestibular"
+"CAF832495",4,"SI",2022,1,"1","Matutino",2,"Segunda Graduação"
+"CAH074884",2,"CD",2021,1,"1","Matutino",3,"Transferência"
+"CAW459967",4,"SI",2020,2,"2","Vespertino",1,"Vestibular"
+"CCF668823",5,"RH",2022,2,"2","Vespertino",2,"Segunda Graduação"
+"CCM996173",2,"CD",2022,2,"2","Vespertino",1,"Vestibular"
+"CCS317816",5,"RH",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"CDE351780",2,"CD",2022,1,"2","Vespertino",1,"Vestibular"
+"CDV188150",5,"RH",2022,2,"3","Noturno",3,"Transferência"
+"CDY570071",5,"RH",2021,1,"3","Noturno",3,"Transferência"
+"CEO035280",1,"ADS",2021,2,"3","Noturno",3,"Transferência"
+"CEW141617",4,"SI",2022,1,"1","Matutino",1,"Vestibular"
+"CFB372957",5,"RH",2022,2,"3","Noturno",2,"Segunda Graduação"
+"CFD305031",5,"RH",2020,1,"3","Noturno",1,"Vestibular"
+"CGB742959",3,"GTI",2021,1,"3","Noturno",3,"Transferência"
+"CJK599566",4,"SI",2020,1,"1","Matutino",3,"Transferência"
+"CKP761838",5,"RH",2020,2,"3","Noturno",1,"Vestibular"
+"CLC031292",5,"RH",2020,1,"2","Vespertino",1,"Vestibular"
+"CND671225",3,"GTI",2021,2,"2","Vespertino",3,"Transferência"
+"CNY203784",5,"RH",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"COJ785802",2,"CD",2021,2,"1","Matutino",1,"Vestibular"
+"CPE898327",4,"SI",2020,1,"1","Matutino",3,"Transferência"
+"CPU630493",1,"ADS",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"CRW377064",3,"GTI",2021,1,"2","Vespertino",1,"Vestibular"
+"CRZ376442",3,"GTI",2020,2,"2","Vespertino",1,"Vestibular"
+"CSJ532803",3,"GTI",2022,1,"1","Matutino",2,"Segunda Graduação"
+"CSW438431",2,"CD",2021,2,"1","Matutino",3,"Transferência"
+"CTH541162",2,"CD",2021,2,"3","Noturno",2,"Segunda Graduação"
+"CTJ336883",1,"ADS",2022,1,"1","Matutino",2,"Segunda Graduação"
+"CTR843775",1,"ADS",2020,2,"1","Matutino",3,"Transferência"
+"CTW722523",4,"SI",2021,2,"1","Matutino",2,"Segunda Graduação"
+"CUF941621",5,"RH",2021,2,"1","Matutino",3,"Transferência"
+"CVM641518",2,"CD",2021,2,"2","Vespertino",1,"Vestibular"
+"CWB200831",5,"RH",2020,2,"1","Matutino",1,"Vestibular"
+"CWK024781",1,"ADS",2021,1,"1","Matutino",3,"Transferência"
+"CXM666704",2,"CD",2021,1,"2","Vespertino",1,"Vestibular"
+"CYN762600",3,"GTI",2022,2,"1","Matutino",2,"Segunda Graduação"
+"CYT126928",1,"ADS",2022,1,"3","Noturno",3,"Transferência"
+"CZW537505",3,"GTI",2021,2,"1","Matutino",3,"Transferência"
+"DAD809216",2,"CD",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"DAK308598",1,"ADS",2021,1,"1","Matutino",3,"Transferência"
+"DCF112585",5,"RH",2020,1,"3","Noturno",1,"Vestibular"
+"DDZ664389",1,"ADS",2022,2,"2","Vespertino",1,"Vestibular"
+"DEB203152",3,"GTI",2021,1,"1","Matutino",2,"Segunda Graduação"
+"DFM372086",2,"CD",2020,2,"2","Vespertino",3,"Transferência"
+"DHU190555",4,"SI",2022,2,"1","Matutino",1,"Vestibular"
+"DHV004487",1,"ADS",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"DIL863825",2,"CD",2022,2,"3","Noturno",3,"Transferência"
+"DJE660458",1,"ADS",2021,1,"3","Noturno",3,"Transferência"
+"DJN283238",4,"SI",2022,2,"3","Noturno",3,"Transferência"
+"DJW505082",3,"GTI",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"DJW896846",2,"CD",2022,1,"1","Matutino",1,"Vestibular"
+"DKR588588",4,"SI",2022,1,"3","Noturno",2,"Segunda Graduação"
+"DLA233381",3,"GTI",2020,2,"3","Noturno",2,"Segunda Graduação"
+"DOD992309",2,"CD",2020,2,"3","Noturno",3,"Transferência"
+"DOG028489",2,"CD",2022,1,"1","Matutino",2,"Segunda Graduação"
+"DOQ304382",2,"CD",2020,2,"2","Vespertino",1,"Vestibular"
+"DPB323450",1,"ADS",2021,1,"2","Vespertino",1,"Vestibular"
+"DPG870900",2,"CD",2020,2,"1","Matutino",3,"Transferência"
+"DPP750845",5,"RH",2020,2,"2","Vespertino",1,"Vestibular"
+"DPX034698",1,"ADS",2020,2,"1","Matutino",3,"Transferência"
+"DQM350940",4,"SI",2021,2,"1","Matutino",2,"Segunda Graduação"
+"DQN801322",3,"GTI",2022,1,"3","Noturno",2,"Segunda Graduação"
+"DRH191358",5,"RH",2022,1,"1","Matutino",2,"Segunda Graduação"
+"DRJ444636",5,"RH",2020,2,"2","Vespertino",3,"Transferência"
+"DRZ595568",3,"GTI",2020,2,"1","Matutino",1,"Vestibular"
+"DSO544136",5,"RH",2021,1,"1","Matutino",1,"Vestibular"
+"DSZ994605",1,"ADS",2020,1,"3","Noturno",3,"Transferência"
+"DTI082750",2,"CD",2022,1,"3","Noturno",1,"Vestibular"
+"DTI315403",1,"ADS",2021,2,"3","Noturno",2,"Segunda Graduação"
+"DTS611441",4,"SI",2022,1,"2","Vespertino",3,"Transferência"
+"DTT934587",5,"RH",2020,2,"3","Noturno",1,"Vestibular"
+"DUF262316",4,"SI",2021,2,"2","Vespertino",3,"Transferência"
+"DUT932945",3,"GTI",2021,1,"3","Noturno",1,"Vestibular"
+"DXE496501",1,"ADS",2021,1,"3","Noturno",3,"Transferência"
+"DXG025671",2,"CD",2020,2,"2","Vespertino",3,"Transferência"
+"DXM434353",4,"SI",2022,2,"3","Noturno",2,"Segunda Graduação"
+"DXU986857",2,"CD",2020,1,"1","Matutino",1,"Vestibular"
+"DYF045065",3,"GTI",2021,1,"1","Matutino",1,"Vestibular"
+"DYG734757",2,"CD",2020,2,"2","Vespertino",3,"Transferência"
+"DZB363022",4,"SI",2020,1,"3","Noturno",2,"Segunda Graduação"
+"DZR296380",4,"SI",2020,2,"2","Vespertino",3,"Transferência"
+"EAP795662",5,"RH",2020,2,"1","Matutino",2,"Segunda Graduação"
+"EBD328319",5,"RH",2022,1,"3","Noturno",2,"Segunda Graduação"
+"EBY026573",3,"GTI",2020,1,"1","Matutino",3,"Transferência"
+"EDO229195",1,"ADS",2022,1,"2","Vespertino",1,"Vestibular"
+"EEF768191",5,"RH",2022,1,"3","Noturno",2,"Segunda Graduação"
+"EEI543063",5,"RH",2020,1,"2","Vespertino",1,"Vestibular"
+"EER115767",3,"GTI",2022,1,"3","Noturno",2,"Segunda Graduação"
+"EES259378",2,"CD",2022,2,"2","Vespertino",1,"Vestibular"
+"EFE672218",1,"ADS",2021,2,"3","Noturno",1,"Vestibular"
+"EGL608628",4,"SI",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"EHV368525",5,"RH",2022,2,"2","Vespertino",1,"Vestibular"
+"EIZ407996",5,"RH",2022,2,"1","Matutino",1,"Vestibular"
+"EIZ734257",4,"SI",2020,1,"1","Matutino",3,"Transferência"
+"EJR659856",5,"RH",2022,1,"2","Vespertino",3,"Transferência"
+"EKH849795",3,"GTI",2020,1,"1","Matutino",3,"Transferência"
+"EKI760151",3,"GTI",2021,2,"1","Matutino",3,"Transferência"
+"ELG494088",1,"ADS",2020,2,"1","Matutino",2,"Segunda Graduação"
+"EMD893452",2,"CD",2022,2,"2","Vespertino",3,"Transferência"
+"EMH515069",3,"GTI",2020,2,"1","Matutino",1,"Vestibular"
+"EMP300840",5,"RH",2022,2,"3","Noturno",1,"Vestibular"
+"EMW233365",3,"GTI",2022,2,"2","Vespertino",1,"Vestibular"
+"ENB583878",5,"RH",2021,2,"1","Matutino",1,"Vestibular"
+"ENX244804",2,"CD",2021,2,"3","Noturno",3,"Transferência"
+"EOC564369",3,"GTI",2020,1,"1","Matutino",1,"Vestibular"
+"EPH624627",4,"SI",2022,2,"1","Matutino",1,"Vestibular"
+"EQB714762",1,"ADS",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"EQQ154278",1,"ADS",2021,2,"2","Vespertino",1,"Vestibular"
+"EQR575966",5,"RH",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"ERT670449",2,"CD",2022,2,"2","Vespertino",3,"Transferência"
+"ETU685739",5,"RH",2021,1,"3","Noturno",1,"Vestibular"
+"EUL747009",3,"GTI",2020,2,"1","Matutino",3,"Transferência"
+"EUR109564",3,"GTI",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"EUU871695",2,"CD",2021,1,"1","Matutino",1,"Vestibular"
+"EVB070709",2,"CD",2021,1,"1","Matutino",2,"Segunda Graduação"
+"EVZ861569",3,"GTI",2022,1,"2","Vespertino",1,"Vestibular"
+"EWU078865",5,"RH",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"EWY321955",3,"GTI",2020,2,"2","Vespertino",3,"Transferência"
+"EYC989790",5,"RH",2021,2,"2","Vespertino",3,"Transferência"
+"EYE483662",4,"SI",2021,1,"1","Matutino",3,"Transferência"
+"EYV490637",1,"ADS",2021,2,"3","Noturno",3,"Transferência"
+"FAG468237",5,"RH",2022,2,"2","Vespertino",3,"Transferência"
+"FAK520740",5,"RH",2022,2,"1","Matutino",3,"Transferência"
+"FAX801293",1,"ADS",2020,2,"3","Noturno",2,"Segunda Graduação"
+"FEL565201",4,"SI",2022,2,"2","Vespertino",1,"Vestibular"
+"FFT467673",2,"CD",2021,1,"3","Noturno",1,"Vestibular"
+"FFV644195",5,"RH",2021,2,"1","Matutino",2,"Segunda Graduação"
+"FGU062679",5,"RH",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"FIB657458",5,"RH",2020,2,"2","Vespertino",2,"Segunda Graduação"
+"FIJ618400",4,"SI",2020,1,"2","Vespertino",3,"Transferência"
+"FIL594852",3,"GTI",2022,2,"1","Matutino",3,"Transferência"
+"FIM570780",3,"GTI",2020,1,"3","Noturno",2,"Segunda Graduação"
+"FIU818272",2,"CD",2021,2,"2","Vespertino",1,"Vestibular"
+"FJT419984",3,"GTI",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"FJT891690",2,"CD",2021,1,"1","Matutino",1,"Vestibular"
+"FKN347096",5,"RH",2020,2,"3","Noturno",1,"Vestibular"
+"FLB026753",1,"ADS",2022,2,"1","Matutino",1,"Vestibular"
+"FMU022269",5,"RH",2021,1,"1","Matutino",3,"Transferência"
+"FOQ436286",4,"SI",2020,1,"1","Matutino",3,"Transferência"
+"FPL218099",5,"RH",2020,1,"1","Matutino",3,"Transferência"
+"FPU434709",3,"GTI",2021,2,"1","Matutino",2,"Segunda Graduação"
+"FQX668064",1,"ADS",2020,1,"1","Matutino",3,"Transferência"
+"FRW746983",4,"SI",2022,1,"1","Matutino",2,"Segunda Graduação"
+"FSH604656",4,"SI",2020,2,"3","Noturno",1,"Vestibular"
+"FSO110166",4,"SI",2020,2,"2","Vespertino",1,"Vestibular"
+"FUE655174",1,"ADS",2020,2,"1","Matutino",2,"Segunda Graduação"
+"FVG562621",1,"ADS",2020,1,"3","Noturno",1,"Vestibular"
+"GAD047052",1,"ADS",2020,1,"3","Noturno",2,"Segunda Graduação"
+"GAE328043",1,"ADS",2022,1,"3","Noturno",3,"Transferência"
+"GAR797693",4,"SI",2022,2,"3","Noturno",2,"Segunda Graduação"
+"GBE061769",1,"ADS",2022,2,"1","Matutino",3,"Transferência"
+"GBJ016917",1,"ADS",2022,2,"1","Matutino",2,"Segunda Graduação"
+"GBT462786",3,"GTI",2022,2,"1","Matutino",1,"Vestibular"
+"GBW934806",5,"RH",2022,2,"3","Noturno",3,"Transferência"
+"GCM147588",3,"GTI",2020,1,"2","Vespertino",3,"Transferência"
+"GDB557644",5,"RH",2020,1,"3","Noturno",1,"Vestibular"
+"GDF208204",4,"SI",2020,2,"2","Vespertino",3,"Transferência"
+"GDN504694",4,"SI",2020,2,"1","Matutino",1,"Vestibular"
+"GDS012249",4,"SI",2022,2,"3","Noturno",1,"Vestibular"
+"GEV297814",5,"RH",2021,1,"1","Matutino",1,"Vestibular"
+"GFB850447",4,"SI",2022,2,"2","Vespertino",1,"Vestibular"
+"GFF065152",1,"ADS",2021,1,"3","Noturno",1,"Vestibular"
+"GFQ315019",2,"CD",2020,1,"2","Vespertino",1,"Vestibular"
+"GFW481509",1,"ADS",2021,2,"1","Matutino",1,"Vestibular"
+"GGL474811",2,"CD",2022,1,"3","Noturno",1,"Vestibular"
+"GHL979559",4,"SI",2022,1,"1","Matutino",2,"Segunda Graduação"
+"GHZ135813",3,"GTI",2022,2,"3","Noturno",1,"Vestibular"
+"GIE001068",2,"CD",2022,2,"1","Matutino",2,"Segunda Graduação"
+"GII957337",1,"ADS",2020,1,"3","Noturno",2,"Segunda Graduação"
+"GIQ317557",3,"GTI",2022,2,"1","Matutino",3,"Transferência"
+"GIR705080",4,"SI",2020,2,"1","Matutino",3,"Transferência"
+"GIX194650",5,"RH",2020,1,"1","Matutino",2,"Segunda Graduação"
+"GJH963132",2,"CD",2022,2,"2","Vespertino",1,"Vestibular"
+"GKP285680",3,"GTI",2022,2,"1","Matutino",2,"Segunda Graduação"
+"GKQ067865",2,"CD",2021,2,"1","Matutino",1,"Vestibular"
+"GKV384714",3,"GTI",2021,2,"3","Noturno",3,"Transferência"
+"GMP225402",3,"GTI",2020,1,"3","Noturno",3,"Transferência"
+"GMW817164",5,"RH",2020,1,"1","Matutino",1,"Vestibular"
+"GMZ876457",1,"ADS",2020,2,"3","Noturno",3,"Transferência"
+"GNB484510",2,"CD",2021,1,"3","Noturno",1,"Vestibular"
+"GNM001465",1,"ADS",2021,2,"2","Vespertino",1,"Vestibular"
+"GNP312279",5,"RH",2022,2,"2","Vespertino",1,"Vestibular"
+"GOT636604",2,"CD",2022,1,"3","Noturno",3,"Transferência"
+"GOW327073",4,"SI",2022,2,"2","Vespertino",1,"Vestibular"
+"GOW512928",4,"SI",2020,2,"2","Vespertino",3,"Transferência"
+"GPL590848",1,"ADS",2020,2,"3","Noturno",1,"Vestibular"
+"GQJ854474",1,"ADS",2020,2,"3","Noturno",1,"Vestibular"
+"GRG085823",1,"ADS",2022,2,"1","Matutino",2,"Segunda Graduação"
+"GUA891193",3,"GTI",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"GVO563778",2,"CD",2020,1,"3","Noturno",1,"Vestibular"
+"GVV964909",4,"SI",2022,1,"2","Vespertino",3,"Transferência"
+"GXV510146",3,"GTI",2021,2,"3","Noturno",2,"Segunda Graduação"
+"GYO743841",3,"GTI",2020,2,"1","Matutino",2,"Segunda Graduação"
+"GZA343777",2,"CD",2020,2,"1","Matutino",2,"Segunda Graduação"
+"HBV038747",2,"CD",2020,1,"2","Vespertino",1,"Vestibular"
+"HCF549158",1,"ADS",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"HDE469628",4,"SI",2022,2,"1","Matutino",3,"Transferência"
+"HDF322046",4,"SI",2022,2,"2","Vespertino",2,"Segunda Graduação"
+"HDG374243",3,"GTI",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"HDG542651",1,"ADS",2021,1,"3","Noturno",2,"Segunda Graduação"
+"HDH039694",4,"SI",2022,1,"1","Matutino",1,"Vestibular"
+"HDI065101",3,"GTI",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"HDP219261",5,"RH",2021,1,"1","Matutino",1,"Vestibular"
+"HEF579776",5,"RH",2022,2,"2","Vespertino",2,"Segunda Graduação"
+"HEW930477",2,"CD",2022,2,"1","Matutino",1,"Vestibular"
+"HGK060700",1,"ADS",2022,2,"3","Noturno",1,"Vestibular"
+"HHD747319",2,"CD",2021,1,"3","Noturno",3,"Transferência"
+"HHI148573",5,"RH",2021,1,"2","Vespertino",3,"Transferência"
+"HHS360049",3,"GTI",2021,2,"2","Vespertino",3,"Transferência"
+"HJG928060",5,"RH",2020,2,"1","Matutino",1,"Vestibular"
+"HJP836360",3,"GTI",2021,2,"1","Matutino",1,"Vestibular"
+"HJS137388",1,"ADS",2021,2,"2","Vespertino",3,"Transferência"
+"HJT988312",5,"RH",2021,1,"3","Noturno",1,"Vestibular"
+"HKB100045",3,"GTI",2021,2,"1","Matutino",2,"Segunda Graduação"
+"HKB796570",2,"CD",2021,2,"2","Vespertino",3,"Transferência"
+"HKW559541",3,"GTI",2021,2,"3","Noturno",3,"Transferência"
+"HLA287065",5,"RH",2021,1,"1","Matutino",2,"Segunda Graduação"
+"HLY048118",1,"ADS",2020,1,"1","Matutino",3,"Transferência"
+"HMG015043",1,"ADS",2022,2,"2","Vespertino",2,"Segunda Graduação"
+"HMX906267",5,"RH",2020,1,"1","Matutino",3,"Transferência"
+"HOR743742",4,"SI",2021,2,"2","Vespertino",1,"Vestibular"
+"HPI130590",1,"ADS",2020,1,"1","Matutino",2,"Segunda Graduação"
+"HQO552603",4,"SI",2020,1,"2","Vespertino",1,"Vestibular"
+"HQQ115831",5,"RH",2020,1,"2","Vespertino",1,"Vestibular"
+"HRA960052",2,"CD",2020,2,"2","Vespertino",3,"Transferência"
+"HRF539925",4,"SI",2021,2,"1","Matutino",1,"Vestibular"
+"HSA185364",2,"CD",2021,1,"2","Vespertino",1,"Vestibular"
+"HSD597990",3,"GTI",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"HTB580558",4,"SI",2020,2,"2","Vespertino",2,"Segunda Graduação"
+"HUH083406",1,"ADS",2020,2,"2","Vespertino",2,"Segunda Graduação"
+"HUV591373",4,"SI",2020,2,"1","Matutino",1,"Vestibular"
+"HUX097960",3,"GTI",2020,1,"2","Vespertino",1,"Vestibular"
+"HVR363677",1,"ADS",2021,2,"3","Noturno",1,"Vestibular"
+"HXC536813",4,"SI",2022,2,"2","Vespertino",3,"Transferência"
+"HXO235923",3,"GTI",2020,2,"2","Vespertino",1,"Vestibular"
+"HXV474735",4,"SI",2022,2,"2","Vespertino",2,"Segunda Graduação"
+"HYJ435521",4,"SI",2022,1,"3","Noturno",2,"Segunda Graduação"
+"HYW252967",2,"CD",2022,2,"3","Noturno",2,"Segunda Graduação"
+"IAB325126",2,"CD",2020,1,"2","Vespertino",1,"Vestibular"
+"IAD584451",1,"ADS",2020,2,"3","Noturno",1,"Vestibular"
+"IBH293239",5,"RH",2022,1,"1","Matutino",1,"Vestibular"
+"IBK233550",2,"CD",2021,1,"2","Vespertino",1,"Vestibular"
+"IBM640075",2,"CD",2021,1,"3","Noturno",2,"Segunda Graduação"
+"ICD841454",1,"ADS",2021,1,"1","Matutino",2,"Segunda Graduação"
+"ICO233729",2,"CD",2021,2,"3","Noturno",2,"Segunda Graduação"
+"ICO861223",2,"CD",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"ICZ488525",2,"CD",2020,2,"1","Matutino",3,"Transferência"
+"IDH746262",2,"CD",2021,2,"1","Matutino",2,"Segunda Graduação"
+"IEK844751",5,"RH",2020,1,"3","Noturno",1,"Vestibular"
+"IEO400224",5,"RH",2020,2,"3","Noturno",2,"Segunda Graduação"
+"IEV161821",4,"SI",2022,1,"3","Noturno",1,"Vestibular"
+"IFT978421",3,"GTI",2020,1,"2","Vespertino",1,"Vestibular"
+"IFX716838",1,"ADS",2020,1,"2","Vespertino",3,"Transferência"
+"IHT801038",2,"CD",2020,1,"1","Matutino",1,"Vestibular"
+"IIP054596",5,"RH",2021,2,"2","Vespertino",1,"Vestibular"
+"IIR862819",2,"CD",2021,1,"3","Noturno",1,"Vestibular"
+"IIW586230",3,"GTI",2020,2,"3","Noturno",3,"Transferência"
+"IJK440268",5,"RH",2021,1,"3","Noturno",1,"Vestibular"
+"IMN963801",4,"SI",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"IMQ453161",3,"GTI",2022,1,"2","Vespertino",1,"Vestibular"
+"IPE342866",1,"ADS",2020,1,"3","Noturno",3,"Transferência"
+"IPQ016704",5,"RH",2020,2,"1","Matutino",2,"Segunda Graduação"
+"IRC887871",2,"CD",2021,2,"1","Matutino",3,"Transferência"
+"IRV522174",1,"ADS",2022,1,"1","Matutino",3,"Transferência"
+"ISY062179",4,"SI",2020,1,"3","Noturno",3,"Transferência"
+"ITA859363",4,"SI",2020,2,"3","Noturno",2,"Segunda Graduação"
+"ITZ441680",5,"RH",2022,2,"2","Vespertino",1,"Vestibular"
+"IUE669847",4,"SI",2022,2,"2","Vespertino",2,"Segunda Graduação"
+"IUF445179",1,"ADS",2022,1,"2","Vespertino",3,"Transferência"
+"IUX347725",3,"GTI",2021,2,"1","Matutino",2,"Segunda Graduação"
+"IVG016509",1,"ADS",2022,1,"1","Matutino",3,"Transferência"
+"IWJ087501",4,"SI",2022,1,"2","Vespertino",1,"Vestibular"
+"IWU585290",2,"CD",2020,1,"2","Vespertino",3,"Transferência"
+"IXF163356",2,"CD",2021,1,"3","Noturno",1,"Vestibular"
+"IXO975264",4,"SI",2021,2,"1","Matutino",2,"Segunda Graduação"
+"IXW426797",5,"RH",2022,1,"3","Noturno",1,"Vestibular"
+"IZP470558",5,"RH",2020,1,"3","Noturno",2,"Segunda Graduação"
+"IZY576398",3,"GTI",2022,1,"1","Matutino",2,"Segunda Graduação"
+"JAP811391",2,"CD",2020,2,"2","Vespertino",1,"Vestibular"
+"JBD941702",4,"SI",2021,1,"2","Vespertino",1,"Vestibular"
+"JBZ275079",1,"ADS",2022,2,"1","Matutino",2,"Segunda Graduação"
+"JDP143076",5,"RH",2022,1,"3","Noturno",3,"Transferência"
+"JEO119628",3,"GTI",2022,2,"3","Noturno",1,"Vestibular"
+"JHG988098",5,"RH",2020,1,"3","Noturno",2,"Segunda Graduação"
+"JHL242004",5,"RH",2021,1,"1","Matutino",1,"Vestibular"
+"JIB074193",3,"GTI",2020,2,"2","Vespertino",3,"Transferência"
+"JJN758066",1,"ADS",2022,1,"1","Matutino",2,"Segunda Graduação"
+"JKB558319",2,"CD",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"JKH794141",5,"RH",2022,2,"3","Noturno",3,"Transferência"
+"JKX610440",3,"GTI",2022,1,"1","Matutino",1,"Vestibular"
+"JLS027603",5,"RH",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"JLV598130",4,"SI",2020,1,"2","Vespertino",1,"Vestibular"
+"JML774150",1,"ADS",2021,1,"3","Noturno",1,"Vestibular"
+"JMO959983",2,"CD",2020,2,"1","Matutino",2,"Segunda Graduação"
+"JMP534859",5,"RH",2021,2,"1","Matutino",2,"Segunda Graduação"
+"JMY019445",1,"ADS",2020,2,"2","Vespertino",2,"Segunda Graduação"
+"JNO081108",4,"SI",2021,1,"1","Matutino",1,"Vestibular"
+"JOT106002",3,"GTI",2022,1,"1","Matutino",2,"Segunda Graduação"
+"JPP179733",5,"RH",2021,1,"3","Noturno",1,"Vestibular"
+"JRF603460",2,"CD",2020,1,"1","Matutino",3,"Transferência"
+"JRL542956",3,"GTI",2022,2,"1","Matutino",3,"Transferência"
+"JRS487943",1,"ADS",2021,1,"1","Matutino",3,"Transferência"
+"JUB634234",3,"GTI",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"JUW679581",4,"SI",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"JVK876093",2,"CD",2021,2,"3","Noturno",3,"Transferência"
+"JVM726948",5,"RH",2022,2,"3","Noturno",2,"Segunda Graduação"
+"JWP119221",3,"GTI",2022,1,"1","Matutino",1,"Vestibular"
+"JWQ583389",2,"CD",2022,1,"2","Vespertino",1,"Vestibular"
+"JWW954209",2,"CD",2020,1,"3","Noturno",3,"Transferência"
+"JXE753900",5,"RH",2020,2,"1","Matutino",1,"Vestibular"
+"JXI599932",4,"SI",2022,2,"2","Vespertino",3,"Transferência"
+"JXJ559926",4,"SI",2021,2,"3","Noturno",3,"Transferência"
+"JYA132685",3,"GTI",2020,1,"1","Matutino",2,"Segunda Graduação"
+"JYO468205",3,"GTI",2021,1,"3","Noturno",2,"Segunda Graduação"
+"JYV887939",5,"RH",2022,2,"2","Vespertino",2,"Segunda Graduação"
+"JZB188188",1,"ADS",2020,2,"1","Matutino",2,"Segunda Graduação"
+"KAO638945",5,"RH",2021,1,"3","Noturno",1,"Vestibular"
+"KBI889534",2,"CD",2022,1,"1","Matutino",1,"Vestibular"
+"KCU704609",2,"CD",2020,2,"1","Matutino",1,"Vestibular"
+"KCW825174",1,"ADS",2021,1,"3","Noturno",1,"Vestibular"
+"KCX489346",2,"CD",2020,2,"3","Noturno",1,"Vestibular"
+"KDF170747",3,"GTI",2021,2,"2","Vespertino",1,"Vestibular"
+"KDR197739",3,"GTI",2021,2,"3","Noturno",2,"Segunda Graduação"
+"KEL987620",3,"GTI",2022,2,"3","Noturno",1,"Vestibular"
+"KGJ667219",5,"RH",2020,1,"1","Matutino",2,"Segunda Graduação"
+"KGM681876",2,"CD",2020,2,"3","Noturno",3,"Transferência"
+"KGQ894709",3,"GTI",2021,1,"1","Matutino",3,"Transferência"
+"KGY755037",2,"CD",2020,1,"2","Vespertino",1,"Vestibular"
+"KHL472977",4,"SI",2020,1,"1","Matutino",2,"Segunda Graduação"
+"KHN565464",5,"RH",2021,1,"3","Noturno",1,"Vestibular"
+"KIG845434",1,"ADS",2020,2,"1","Matutino",1,"Vestibular"
+"KIJ835183",2,"CD",2022,2,"3","Noturno",1,"Vestibular"
+"KJH295889",2,"CD",2020,2,"2","Vespertino",1,"Vestibular"
+"KJW175547",2,"CD",2020,1,"1","Matutino",3,"Transferência"
+"KKB758747",1,"ADS",2021,1,"2","Vespertino",3,"Transferência"
+"KKF786588",1,"ADS",2020,1,"3","Noturno",1,"Vestibular"
+"KKS322497",1,"ADS",2021,2,"3","Noturno",2,"Segunda Graduação"
+"KLK154763",2,"CD",2021,2,"3","Noturno",2,"Segunda Graduação"
+"KMJ357670",2,"CD",2021,1,"2","Vespertino",3,"Transferência"
+"KNQ814110",1,"ADS",2022,1,"3","Noturno",2,"Segunda Graduação"
+"KOA250152",4,"SI",2020,1,"1","Matutino",3,"Transferência"
+"KOG347155",3,"GTI",2021,1,"3","Noturno",2,"Segunda Graduação"
+"KPK053798",1,"ADS",2021,1,"1","Matutino",2,"Segunda Graduação"
+"KPN970655",3,"GTI",2022,2,"1","Matutino",2,"Segunda Graduação"
+"KTI772908",1,"ADS",2020,2,"3","Noturno",3,"Transferência"
+"KTJ421303",3,"GTI",2021,2,"1","Matutino",1,"Vestibular"
+"KUR884147",4,"SI",2022,2,"3","Noturno",1,"Vestibular"
+"KVO164622",2,"CD",2020,1,"1","Matutino",2,"Segunda Graduação"
+"KWA481730",1,"ADS",2022,2,"3","Noturno",1,"Vestibular"
+"KXL318734",2,"CD",2020,1,"1","Matutino",2,"Segunda Graduação"
+"KXO520901",1,"ADS",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"KXO849222",3,"GTI",2022,2,"1","Matutino",1,"Vestibular"
+"KYL289184",5,"RH",2021,1,"1","Matutino",1,"Vestibular"
+"LAF664943",1,"ADS",2022,2,"2","Vespertino",1,"Vestibular"
+"LAJ417117",4,"SI",2022,1,"1","Matutino",3,"Transferência"
+"LFQ248668",3,"GTI",2021,2,"1","Matutino",3,"Transferência"
+"LFS269204",5,"RH",2020,2,"2","Vespertino",2,"Segunda Graduação"
+"LGE979055",4,"SI",2022,2,"3","Noturno",1,"Vestibular"
+"LGG562393",1,"ADS",2020,2,"2","Vespertino",3,"Transferência"
+"LHT896396",2,"CD",2022,2,"3","Noturno",1,"Vestibular"
+"LIA170089",1,"ADS",2020,1,"3","Noturno",3,"Transferência"
+"LIN387317",2,"CD",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"LKQ651843",2,"CD",2022,2,"3","Noturno",1,"Vestibular"
+"LKZ508241",5,"RH",2022,1,"2","Vespertino",1,"Vestibular"
+"LMF363589",1,"ADS",2022,2,"2","Vespertino",1,"Vestibular"
+"LMH629825",2,"CD",2021,2,"1","Matutino",2,"Segunda Graduação"
+"LMH893635",4,"SI",2021,2,"2","Vespertino",3,"Transferência"
+"LMV155600",5,"RH",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"LON108901",1,"ADS",2021,2,"3","Noturno",1,"Vestibular"
+"LQB794021",3,"GTI",2022,2,"1","Matutino",2,"Segunda Graduação"
+"LQO510391",4,"SI",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"LRB371521",3,"GTI",2022,2,"2","Vespertino",2,"Segunda Graduação"
+"LRJ435916",5,"RH",2020,1,"3","Noturno",3,"Transferência"
+"LRJ845954",1,"ADS",2020,1,"3","Noturno",1,"Vestibular"
+"LRO783602",2,"CD",2022,1,"2","Vespertino",1,"Vestibular"
+"LSB894100",1,"ADS",2021,2,"2","Vespertino",3,"Transferência"
+"LSE784779",5,"RH",2021,1,"1","Matutino",3,"Transferência"
+"LSO680829",3,"GTI",2022,2,"2","Vespertino",1,"Vestibular"
+"LTL561259",3,"GTI",2021,1,"3","Noturno",1,"Vestibular"
+"LUM767826",4,"SI",2020,2,"2","Vespertino",3,"Transferência"
+"LWA547917",4,"SI",2021,1,"3","Noturno",2,"Segunda Graduação"
+"LWR961460",1,"ADS",2020,2,"3","Noturno",3,"Transferência"
+"LXJ059526",2,"CD",2022,2,"2","Vespertino",1,"Vestibular"
+"LXM691794",3,"GTI",2020,2,"3","Noturno",1,"Vestibular"
+"LYA167343",2,"CD",2020,2,"3","Noturno",2,"Segunda Graduação"
+"LYD464206",5,"RH",2021,2,"1","Matutino",1,"Vestibular"
+"LZO989264",4,"SI",2020,2,"1","Matutino",1,"Vestibular"
+"LZS998564",4,"SI",2021,2,"3","Noturno",1,"Vestibular"
+"MCB878260",3,"GTI",2021,2,"3","Noturno",1,"Vestibular"
+"MDP958618",3,"GTI",2022,2,"1","Matutino",1,"Vestibular"
+"MDR226275",3,"GTI",2022,1,"1","Matutino",2,"Segunda Graduação"
+"MEE015113",2,"CD",2021,2,"1","Matutino",1,"Vestibular"
+"MEI618045",4,"SI",2021,1,"3","Noturno",2,"Segunda Graduação"
+"MEM071356",5,"RH",2021,1,"1","Matutino",2,"Segunda Graduação"
+"MFK043486",2,"CD",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"MFY453402",5,"RH",2020,1,"1","Matutino",1,"Vestibular"
+"MGW039590",4,"SI",2021,1,"2","Vespertino",3,"Transferência"
+"MGW572944",5,"RH",2020,1,"2","Vespertino",3,"Transferência"
+"MHN761785",5,"RH",2020,1,"3","Noturno",3,"Transferência"
+"MHR391693",4,"SI",2021,2,"3","Noturno",3,"Transferência"
+"MHY856083",4,"SI",2021,2,"3","Noturno",2,"Segunda Graduação"
+"MIE502583",2,"CD",2020,1,"3","Noturno",1,"Vestibular"
+"MIS046978",5,"RH",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"MIT566230",2,"CD",2020,1,"1","Matutino",2,"Segunda Graduação"
+"MKZ319763",4,"SI",2020,1,"1","Matutino",1,"Vestibular"
+"MLT909732",4,"SI",2020,1,"3","Noturno",1,"Vestibular"
+"MMC610293",5,"RH",2020,1,"2","Vespertino",3,"Transferência"
+"MNB530115",4,"SI",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"MNR492090",5,"RH",2021,1,"3","Noturno",1,"Vestibular"
+"MNS928417",2,"CD",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"MOY764527",3,"GTI",2020,1,"1","Matutino",3,"Transferência"
+"MPH149270",5,"RH",2021,1,"2","Vespertino",1,"Vestibular"
+"MQA871996",1,"ADS",2022,1,"3","Noturno",2,"Segunda Graduação"
+"MQB468033",4,"SI",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"MQV271273",5,"RH",2020,2,"1","Matutino",3,"Transferência"
+"MRF623988",4,"SI",2022,1,"3","Noturno",1,"Vestibular"
+"MRJ943479",1,"ADS",2020,2,"2","Vespertino",2,"Segunda Graduação"
+"MTT068874",5,"RH",2021,1,"2","Vespertino",3,"Transferência"
+"MWH993110",2,"CD",2022,1,"3","Noturno",2,"Segunda Graduação"
+"MXE042857",5,"RH",2020,1,"1","Matutino",3,"Transferência"
+"MXS889141",2,"CD",2022,2,"1","Matutino",3,"Transferência"
+"MXY652088",3,"GTI",2020,1,"2","Vespertino",3,"Transferência"
+"MYB783223",2,"CD",2020,1,"3","Noturno",3,"Transferência"
+"MYJ427938",2,"CD",2021,2,"3","Noturno",2,"Segunda Graduação"
+"MYV771549",2,"CD",2021,2,"1","Matutino",2,"Segunda Graduação"
+"NBL182309",4,"SI",2022,2,"3","Noturno",2,"Segunda Graduação"
+"NBN757257",5,"RH",2021,2,"3","Noturno",2,"Segunda Graduação"
+"NBW676006",5,"RH",2021,2,"1","Matutino",1,"Vestibular"
+"NBZ278133",1,"ADS",2020,2,"1","Matutino",3,"Transferência"
+"NDB135655",5,"RH",2021,1,"1","Matutino",1,"Vestibular"
+"NDG528235",4,"SI",2021,2,"1","Matutino",2,"Segunda Graduação"
+"NDO795256",2,"CD",2022,1,"1","Matutino",3,"Transferência"
+"NGJ444868",5,"RH",2020,1,"2","Vespertino",3,"Transferência"
+"NIS381954",2,"CD",2022,1,"3","Noturno",1,"Vestibular"
+"NJF911166",1,"ADS",2021,1,"2","Vespertino",3,"Transferência"
+"NJL454099",2,"CD",2020,2,"3","Noturno",2,"Segunda Graduação"
+"NKO172872",4,"SI",2022,2,"3","Noturno",3,"Transferência"
+"NMD008099",3,"GTI",2020,1,"3","Noturno",2,"Segunda Graduação"
+"NMI603829",4,"SI",2021,2,"1","Matutino",3,"Transferência"
+"NNE588927",3,"GTI",2022,1,"1","Matutino",3,"Transferência"
+"NNI231078",1,"ADS",2021,1,"2","Vespertino",1,"Vestibular"
+"NNQ775327",3,"GTI",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"NPF740138",1,"ADS",2022,2,"1","Matutino",2,"Segunda Graduação"
+"NPU646996",5,"RH",2021,2,"3","Noturno",2,"Segunda Graduação"
+"NPY890806",5,"RH",2022,1,"1","Matutino",2,"Segunda Graduação"
+"NQI693030",3,"GTI",2022,1,"2","Vespertino",1,"Vestibular"
+"NQJ820065",2,"CD",2020,1,"1","Matutino",3,"Transferência"
+"NQM166554",2,"CD",2022,1,"2","Vespertino",1,"Vestibular"
+"NRD478134",3,"GTI",2022,2,"2","Vespertino",1,"Vestibular"
+"NRH562083",1,"ADS",2022,1,"2","Vespertino",1,"Vestibular"
+"NRO503348",3,"GTI",2022,1,"1","Matutino",2,"Segunda Graduação"
+"NRR759360",4,"SI",2021,2,"3","Noturno",2,"Segunda Graduação"
+"NSQ858078",4,"SI",2021,1,"2","Vespertino",3,"Transferência"
+"NTD388208",4,"SI",2021,2,"2","Vespertino",1,"Vestibular"
+"NTV074813",3,"GTI",2021,1,"2","Vespertino",3,"Transferência"
+"NUD488575",3,"GTI",2022,1,"3","Noturno",3,"Transferência"
+"NUJ555432",5,"RH",2021,2,"3","Noturno",2,"Segunda Graduação"
+"NUO273024",4,"SI",2021,2,"2","Vespertino",3,"Transferência"
+"NUP937521",3,"GTI",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"NYC575859",4,"SI",2021,2,"3","Noturno",3,"Transferência"
+"NYI676719",5,"RH",2020,2,"3","Noturno",3,"Transferência"
+"NYY995472",3,"GTI",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"NZE948398",4,"SI",2020,1,"1","Matutino",1,"Vestibular"
+"NZS769924",1,"ADS",2021,1,"1","Matutino",1,"Vestibular"
+"OAD809676",5,"RH",2020,1,"3","Noturno",1,"Vestibular"
+"OAK494050",3,"GTI",2021,1,"1","Matutino",3,"Transferência"
+"OAL060760",4,"SI",2021,2,"3","Noturno",1,"Vestibular"
+"OCJ143386",2,"CD",2021,2,"2","Vespertino",3,"Transferência"
+"ODA655443",2,"CD",2022,1,"3","Noturno",3,"Transferência"
+"OEU582196",2,"CD",2022,1,"1","Matutino",1,"Vestibular"
+"OFH465221",3,"GTI",2021,2,"3","Noturno",3,"Transferência"
+"OFO489952",1,"ADS",2020,2,"2","Vespertino",3,"Transferência"
+"OFV484026",2,"CD",2021,2,"2","Vespertino",1,"Vestibular"
+"OHV670321",3,"GTI",2021,1,"3","Noturno",3,"Transferência"
+"OIY323010",5,"RH",2021,1,"3","Noturno",1,"Vestibular"
+"OIZ264127",5,"RH",2021,1,"2","Vespertino",1,"Vestibular"
+"OKA277293",5,"RH",2021,2,"1","Matutino",2,"Segunda Graduação"
+"OKK452983",4,"SI",2021,1,"3","Noturno",3,"Transferência"
+"OLQ896523",1,"ADS",2020,1,"3","Noturno",2,"Segunda Graduação"
+"OML531996",3,"GTI",2020,2,"1","Matutino",2,"Segunda Graduação"
+"ONA642566",2,"CD",2020,2,"1","Matutino",1,"Vestibular"
+"ONI382507",2,"CD",2021,2,"2","Vespertino",3,"Transferência"
+"OOB344368",3,"GTI",2022,2,"1","Matutino",1,"Vestibular"
+"OOG209794",1,"ADS",2022,1,"1","Matutino",3,"Transferência"
+"OOR903459",1,"ADS",2020,2,"1","Matutino",2,"Segunda Graduação"
+"OOU721120",2,"CD",2021,2,"2","Vespertino",3,"Transferência"
+"OQU674036",1,"ADS",2022,2,"2","Vespertino",3,"Transferência"
+"ORW564562",2,"CD",2022,1,"1","Matutino",1,"Vestibular"
+"OSF017179",4,"SI",2022,1,"1","Matutino",2,"Segunda Graduação"
+"OSQ092459",2,"CD",2021,1,"2","Vespertino",1,"Vestibular"
+"OSR456004",5,"RH",2022,2,"3","Noturno",1,"Vestibular"
+"OUI414708",1,"ADS",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"OVC891888",1,"ADS",2021,2,"3","Noturno",1,"Vestibular"
+"OXY053544",1,"ADS",2021,1,"2","Vespertino",3,"Transferência"
+"OYZ659017",1,"ADS",2022,1,"1","Matutino",3,"Transferência"
+"OZC357866",4,"SI",2020,1,"2","Vespertino",3,"Transferência"
+"PAD403213",4,"SI",2020,1,"3","Noturno",3,"Transferência"
+"PAI726945",2,"CD",2020,2,"2","Vespertino",1,"Vestibular"
+"PAU335291",4,"SI",2020,1,"3","Noturno",1,"Vestibular"
+"PAY554777",1,"ADS",2020,2,"3","Noturno",1,"Vestibular"
+"PAY679152",3,"GTI",2022,2,"3","Noturno",2,"Segunda Graduação"
+"PBC321999",2,"CD",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"PBK201061",5,"RH",2021,2,"3","Noturno",2,"Segunda Graduação"
+"PCA027376",4,"SI",2020,1,"2","Vespertino",3,"Transferência"
+"PCO822722",1,"ADS",2021,1,"1","Matutino",1,"Vestibular"
+"PDG955793",4,"SI",2020,2,"2","Vespertino",1,"Vestibular"
+"PDY160217",1,"ADS",2021,2,"1","Matutino",2,"Segunda Graduação"
+"PFK188696",3,"GTI",2022,2,"3","Noturno",3,"Transferência"
+"PFZ849064",5,"RH",2021,1,"3","Noturno",3,"Transferência"
+"PHE827328",5,"RH",2020,1,"2","Vespertino",3,"Transferência"
+"PHN487872",5,"RH",2020,2,"2","Vespertino",1,"Vestibular"
+"PIP741824",4,"SI",2021,2,"3","Noturno",2,"Segunda Graduação"
+"PKO748990",1,"ADS",2022,2,"1","Matutino",3,"Transferência"
+"PLK238499",3,"GTI",2020,2,"3","Noturno",3,"Transferência"
+"PMN735796",1,"ADS",2020,1,"3","Noturno",1,"Vestibular"
+"PMR968823",3,"GTI",2022,1,"1","Matutino",1,"Vestibular"
+"PNY978675",2,"CD",2020,1,"2","Vespertino",1,"Vestibular"
+"POE190837",2,"CD",2021,2,"1","Matutino",1,"Vestibular"
+"PPL535211",3,"GTI",2022,1,"2","Vespertino",1,"Vestibular"
+"PPS528346",4,"SI",2022,1,"3","Noturno",2,"Segunda Graduação"
+"PRK392743",1,"ADS",2021,1,"1","Matutino",1,"Vestibular"
+"PRM078988",5,"RH",2022,2,"3","Noturno",3,"Transferência"
+"PRM476340",3,"GTI",2021,2,"3","Noturno",3,"Transferência"
+"PSU326267",4,"SI",2022,2,"3","Noturno",1,"Vestibular"
+"PUC046770",3,"GTI",2022,2,"3","Noturno",1,"Vestibular"
+"PUK523844",4,"SI",2020,2,"3","Noturno",3,"Transferência"
+"PUR200836",3,"GTI",2022,1,"3","Noturno",1,"Vestibular"
+"PUW775166",5,"RH",2021,1,"1","Matutino",3,"Transferência"
+"PXC930392",3,"GTI",2021,1,"1","Matutino",2,"Segunda Graduação"
+"PXN276299",1,"ADS",2022,1,"1","Matutino",1,"Vestibular"
+"PXZ482850",4,"SI",2021,1,"3","Noturno",2,"Segunda Graduação"
+"PYD020538",3,"GTI",2022,2,"2","Vespertino",2,"Segunda Graduação"
+"PZX992902",4,"SI",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"QAA985408",1,"ADS",2021,1,"3","Noturno",1,"Vestibular"
+"QAH765174",2,"CD",2022,2,"1","Matutino",1,"Vestibular"
+"QAZ242985",2,"CD",2022,1,"3","Noturno",1,"Vestibular"
+"QBH247597",5,"RH",2022,1,"3","Noturno",3,"Transferência"
+"QBR002872",1,"ADS",2021,2,"3","Noturno",2,"Segunda Graduação"
+"QBV888182",1,"ADS",2020,1,"1","Matutino",2,"Segunda Graduação"
+"QCE221401",4,"SI",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"QCS946327",3,"GTI",2021,2,"1","Matutino",3,"Transferência"
+"QDH607956",2,"CD",2020,1,"3","Noturno",1,"Vestibular"
+"QDK919358",2,"CD",2022,2,"3","Noturno",2,"Segunda Graduação"
+"QEF554862",4,"SI",2020,1,"1","Matutino",2,"Segunda Graduação"
+"QFA086961",4,"SI",2022,1,"3","Noturno",2,"Segunda Graduação"
+"QFD620785",3,"GTI",2020,2,"1","Matutino",2,"Segunda Graduação"
+"QGE202257",3,"GTI",2020,1,"3","Noturno",1,"Vestibular"
+"QGK829855",1,"ADS",2021,1,"2","Vespertino",3,"Transferência"
+"QGQ933436",1,"ADS",2021,1,"1","Matutino",2,"Segunda Graduação"
+"QHL364169",2,"CD",2021,1,"2","Vespertino",1,"Vestibular"
+"QIQ177564",1,"ADS",2022,2,"1","Matutino",3,"Transferência"
+"QJE908199",1,"ADS",2021,1,"2","Vespertino",1,"Vestibular"
+"QJN250137",4,"SI",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"QKD222922",4,"SI",2022,2,"3","Noturno",2,"Segunda Graduação"
+"QLQ934703",4,"SI",2020,2,"3","Noturno",2,"Segunda Graduação"
+"QOS473102",2,"CD",2021,2,"3","Noturno",1,"Vestibular"
+"QQS346013",4,"SI",2022,1,"1","Matutino",1,"Vestibular"
+"QSG132455",2,"CD",2022,2,"3","Noturno",1,"Vestibular"
+"QUL485756",5,"RH",2022,1,"2","Vespertino",3,"Transferência"
+"QVP005273",1,"ADS",2020,1,"2","Vespertino",1,"Vestibular"
+"QVS540825",5,"RH",2022,1,"1","Matutino",3,"Transferência"
+"QWV812977",2,"CD",2020,2,"3","Noturno",3,"Transferência"
+"QXI716279",4,"SI",2020,2,"3","Noturno",1,"Vestibular"
+"QYA932622",4,"SI",2022,2,"2","Vespertino",2,"Segunda Graduação"
+"QYK094687",4,"SI",2022,1,"2","Vespertino",1,"Vestibular"
+"QYM860221",4,"SI",2020,2,"3","Noturno",1,"Vestibular"
+"QYN135415",3,"GTI",2020,1,"2","Vespertino",3,"Transferência"
+"QZC663708",2,"CD",2021,2,"1","Matutino",2,"Segunda Graduação"
+"RAC781896",1,"ADS",2022,2,"2","Vespertino",1,"Vestibular"
+"RAV017504",2,"CD",2020,2,"1","Matutino",3,"Transferência"
+"RBB948243",3,"GTI",2022,1,"3","Noturno",3,"Transferência"
+"RBL215457",4,"SI",2021,1,"2","Vespertino",3,"Transferência"
+"RCA328668",4,"SI",2020,1,"3","Noturno",3,"Transferência"
+"RCD137904",4,"SI",2021,2,"1","Matutino",1,"Vestibular"
+"RCN794034",1,"ADS",2020,1,"1","Matutino",1,"Vestibular"
+"RCT276550",1,"ADS",2021,2,"2","Vespertino",3,"Transferência"
+"RDZ463041",5,"RH",2022,1,"1","Matutino",3,"Transferência"
+"REA833398",3,"GTI",2022,2,"2","Vespertino",1,"Vestibular"
+"REO344684",3,"GTI",2020,2,"3","Noturno",3,"Transferência"
+"RFX389932",5,"RH",2022,2,"1","Matutino",1,"Vestibular"
+"RFZ987298",3,"GTI",2020,1,"3","Noturno",2,"Segunda Graduação"
+"RIO907861",5,"RH",2020,1,"1","Matutino",1,"Vestibular"
+"RJO625119",1,"ADS",2022,1,"3","Noturno",1,"Vestibular"
+"RMB943018",3,"GTI",2022,2,"2","Vespertino",3,"Transferência"
+"RMO583804",3,"GTI",2022,2,"2","Vespertino",3,"Transferência"
+"RMT050436",4,"SI",2021,1,"1","Matutino",1,"Vestibular"
+"ROA016518",4,"SI",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"ROU408133",1,"ADS",2022,2,"1","Matutino",2,"Segunda Graduação"
+"RPK301146",4,"SI",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"RPT459267",4,"SI",2021,1,"3","Noturno",3,"Transferência"
+"RQP097266",3,"GTI",2020,1,"2","Vespertino",3,"Transferência"
+"RRM241703",2,"CD",2021,1,"2","Vespertino",3,"Transferência"
+"RSW014662",4,"SI",2021,1,"3","Noturno",2,"Segunda Graduação"
+"RSW788935",2,"CD",2022,2,"1","Matutino",1,"Vestibular"
+"RTG729180",3,"GTI",2020,2,"3","Noturno",1,"Vestibular"
+"RTX631581",4,"SI",2021,1,"2","Vespertino",3,"Transferência"
+"RTY990596",3,"GTI",2020,2,"2","Vespertino",3,"Transferência"
+"RUQ319447",4,"SI",2020,2,"1","Matutino",1,"Vestibular"
+"RUZ291170",4,"SI",2022,2,"1","Matutino",2,"Segunda Graduação"
+"RVB008253",3,"GTI",2022,1,"3","Noturno",2,"Segunda Graduação"
+"RVI254144",1,"ADS",2020,2,"1","Matutino",2,"Segunda Graduação"
+"RXQ378854",2,"CD",2021,1,"1","Matutino",1,"Vestibular"
+"SAM765946",3,"GTI",2021,1,"3","Noturno",2,"Segunda Graduação"
+"SDK732330",2,"CD",2021,1,"3","Noturno",1,"Vestibular"
+"SFD946964",3,"GTI",2022,1,"3","Noturno",1,"Vestibular"
+"SFX425002",3,"GTI",2022,2,"3","Noturno",3,"Transferência"
+"SHJ869208",1,"ADS",2021,1,"3","Noturno",1,"Vestibular"
+"SHK810881",2,"CD",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"SHV629975",2,"CD",2022,2,"1","Matutino",2,"Segunda Graduação"
+"SIA628959",4,"SI",2022,1,"3","Noturno",1,"Vestibular"
+"SIQ019235",4,"SI",2021,1,"2","Vespertino",1,"Vestibular"
+"SJA426584",3,"GTI",2022,1,"2","Vespertino",3,"Transferência"
+"SKB629085",5,"RH",2022,1,"2","Vespertino",3,"Transferência"
+"SKM070657",4,"SI",2021,1,"3","Noturno",1,"Vestibular"
+"SKQ197828",4,"SI",2021,1,"3","Noturno",1,"Vestibular"
+"SKV604823",4,"SI",2021,2,"3","Noturno",1,"Vestibular"
+"SLX992263",5,"RH",2021,2,"3","Noturno",3,"Transferência"
+"SNA214207",5,"RH",2021,1,"1","Matutino",2,"Segunda Graduação"
+"SNR781255",2,"CD",2021,1,"1","Matutino",2,"Segunda Graduação"
+"SOF445784",4,"SI",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"SOO013632",4,"SI",2021,1,"3","Noturno",3,"Transferência"
+"SPE390765",2,"CD",2022,2,"2","Vespertino",2,"Segunda Graduação"
+"SPL668524",4,"SI",2022,2,"3","Noturno",1,"Vestibular"
+"SPQ803284",1,"ADS",2020,1,"2","Vespertino",1,"Vestibular"
+"SQI579814",2,"CD",2021,1,"2","Vespertino",3,"Transferência"
+"SQX708174",5,"RH",2021,1,"2","Vespertino",1,"Vestibular"
+"SRI664584",4,"SI",2022,2,"2","Vespertino",2,"Segunda Graduação"
+"SRN367690",1,"ADS",2022,2,"3","Noturno",2,"Segunda Graduação"
+"SRQ408205",4,"SI",2022,2,"2","Vespertino",3,"Transferência"
+"SSB036367",3,"GTI",2021,1,"2","Vespertino",1,"Vestibular"
+"SSY758992",3,"GTI",2020,1,"1","Matutino",3,"Transferência"
+"STX841647",5,"RH",2021,1,"1","Matutino",3,"Transferência"
+"SUG136519",4,"SI",2021,2,"2","Vespertino",3,"Transferência"
+"SUM054303",2,"CD",2022,2,"1","Matutino",3,"Transferência"
+"SUU760447",5,"RH",2022,1,"1","Matutino",1,"Vestibular"
+"SUU816684",5,"RH",2021,1,"3","Noturno",2,"Segunda Graduação"
+"SXE309712",1,"ADS",2022,2,"3","Noturno",3,"Transferência"
+"SXL485710",2,"CD",2021,1,"3","Noturno",3,"Transferência"
+"SYA445779",4,"SI",2020,2,"3","Noturno",2,"Segunda Graduação"
+"SYN690145",4,"SI",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"SZI476263",1,"ADS",2022,2,"2","Vespertino",1,"Vestibular"
+"SZQ281647",3,"GTI",2020,1,"1","Matutino",1,"Vestibular"
+"SZV348855",3,"GTI",2022,1,"3","Noturno",2,"Segunda Graduação"
+"SZX536592",5,"RH",2021,2,"3","Noturno",1,"Vestibular"
+"TAA134574",5,"RH",2021,2,"2","Vespertino",3,"Transferência"
+"TAB691208",1,"ADS",2020,1,"2","Vespertino",3,"Transferência"
+"TAX140330",1,"ADS",2022,1,"3","Noturno",1,"Vestibular"
+"TBA281799",1,"ADS",2020,2,"3","Noturno",1,"Vestibular"
+"TBT363160",4,"SI",2020,2,"2","Vespertino",3,"Transferência"
+"TBV057693",1,"ADS",2022,1,"3","Noturno",1,"Vestibular"
+"TDK604390",4,"SI",2020,1,"1","Matutino",3,"Transferência"
+"TDQ501639",2,"CD",2021,2,"2","Vespertino",1,"Vestibular"
+"TFH812121",2,"CD",2022,1,"1","Matutino",3,"Transferência"
+"TGV641281",1,"ADS",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"TIW237090",4,"SI",2021,1,"3","Noturno",1,"Vestibular"
+"TJP691853",3,"GTI",2020,1,"2","Vespertino",1,"Vestibular"
+"TKM831060",3,"GTI",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"TKV372439",1,"ADS",2020,2,"3","Noturno",2,"Segunda Graduação"
+"TKX404780",1,"ADS",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"TLF364594",1,"ADS",2022,1,"1","Matutino",1,"Vestibular"
+"TLH433781",5,"RH",2020,2,"2","Vespertino",2,"Segunda Graduação"
+"TLL242265",2,"CD",2021,2,"1","Matutino",3,"Transferência"
+"TLS180438",5,"RH",2021,1,"1","Matutino",1,"Vestibular"
+"TMW331745",1,"ADS",2021,1,"3","Noturno",2,"Segunda Graduação"
+"TNG535222",1,"ADS",2020,2,"2","Vespertino",2,"Segunda Graduação"
+"TOG104682",2,"CD",2022,2,"3","Noturno",2,"Segunda Graduação"
+"TPI519006",1,"ADS",2020,1,"3","Noturno",3,"Transferência"
+"TPZ514334",3,"GTI",2022,2,"2","Vespertino",3,"Transferência"
+"TQV173587",4,"SI",2020,2,"3","Noturno",2,"Segunda Graduação"
+"TRD582013",3,"GTI",2022,2,"3","Noturno",2,"Segunda Graduação"
+"TRN452069",2,"CD",2020,1,"3","Noturno",2,"Segunda Graduação"
+"TRV717874",1,"ADS",2020,2,"1","Matutino",2,"Segunda Graduação"
+"TSJ800397",5,"RH",2020,2,"3","Noturno",2,"Segunda Graduação"
+"TSK803811",2,"CD",2021,1,"1","Matutino",3,"Transferência"
+"TSZ861855",1,"ADS",2021,2,"2","Vespertino",3,"Transferência"
+"TTV381364",4,"SI",2022,1,"3","Noturno",3,"Transferência"
+"TTX336563",1,"ADS",2020,1,"1","Matutino",1,"Vestibular"
+"TVB642413",4,"SI",2022,1,"1","Matutino",1,"Vestibular"
+"TWN558833",2,"CD",2021,1,"3","Noturno",1,"Vestibular"
+"TWS384970",4,"SI",2022,2,"1","Matutino",2,"Segunda Graduação"
+"TXC421285",3,"GTI",2021,1,"2","Vespertino",3,"Transferência"
+"TXL546383",4,"SI",2022,2,"3","Noturno",3,"Transferência"
+"TXZ165692",4,"SI",2021,2,"1","Matutino",2,"Segunda Graduação"
+"TYI295033",2,"CD",2021,2,"3","Noturno",1,"Vestibular"
+"TZT925584",1,"ADS",2021,2,"3","Noturno",2,"Segunda Graduação"
+"UAJ497769",5,"RH",2022,2,"3","Noturno",3,"Transferência"
+"UAJ935201",2,"CD",2021,2,"2","Vespertino",3,"Transferência"
+"UBU776182",1,"ADS",2021,2,"3","Noturno",2,"Segunda Graduação"
+"UCT227675",5,"RH",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"UCX771169",5,"RH",2021,2,"1","Matutino",2,"Segunda Graduação"
+"UDG116277",4,"SI",2022,2,"3","Noturno",2,"Segunda Graduação"
+"UDN165765",4,"SI",2022,1,"1","Matutino",3,"Transferência"
+"UEC276419",3,"GTI",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"UFN695935",5,"RH",2022,2,"3","Noturno",1,"Vestibular"
+"UFV675817",5,"RH",2022,2,"2","Vespertino",1,"Vestibular"
+"UGH027662",1,"ADS",2020,1,"1","Matutino",1,"Vestibular"
+"UHZ566616",5,"RH",2020,1,"2","Vespertino",1,"Vestibular"
+"UIZ630195",4,"SI",2022,2,"2","Vespertino",1,"Vestibular"
+"UJN358085",4,"SI",2020,2,"3","Noturno",2,"Segunda Graduação"
+"UKP876015",1,"ADS",2020,2,"2","Vespertino",2,"Segunda Graduação"
+"ULJ762578",2,"CD",2021,2,"1","Matutino",2,"Segunda Graduação"
+"ULW585893",5,"RH",2021,1,"2","Vespertino",1,"Vestibular"
+"UMB900053",1,"ADS",2021,2,"1","Matutino",2,"Segunda Graduação"
+"UMN024552",5,"RH",2021,2,"2","Vespertino",1,"Vestibular"
+"UMZ589659",5,"RH",2022,2,"1","Matutino",2,"Segunda Graduação"
+"UNN127375",5,"RH",2020,1,"2","Vespertino",3,"Transferência"
+"UOO122583",1,"ADS",2020,1,"3","Noturno",2,"Segunda Graduação"
+"UOO580649",3,"GTI",2022,2,"1","Matutino",1,"Vestibular"
+"UPD823874",4,"SI",2020,2,"1","Matutino",2,"Segunda Graduação"
+"UPZ010199",5,"RH",2020,2,"2","Vespertino",2,"Segunda Graduação"
+"URF122252",3,"GTI",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"URU481055",1,"ADS",2022,2,"2","Vespertino",3,"Transferência"
+"USK314599",1,"ADS",2020,2,"3","Noturno",3,"Transferência"
+"USM686314",4,"SI",2021,1,"3","Noturno",2,"Segunda Graduação"
+"UTS780152",3,"GTI",2022,2,"2","Vespertino",3,"Transferência"
+"UTZ847743",3,"GTI",2022,2,"1","Matutino",2,"Segunda Graduação"
+"UUB313117",4,"SI",2020,1,"1","Matutino",2,"Segunda Graduação"
+"UUH361635",5,"RH",2021,2,"1","Matutino",2,"Segunda Graduação"
+"UUU646184",1,"ADS",2020,1,"2","Vespertino",3,"Transferência"
+"UUY865719",1,"ADS",2020,1,"1","Matutino",2,"Segunda Graduação"
+"UVE774329",2,"CD",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"UVH240981",4,"SI",2020,1,"1","Matutino",3,"Transferência"
+"UWO697285",4,"SI",2021,1,"2","Vespertino",3,"Transferência"
+"UWQ101545",5,"RH",2020,1,"2","Vespertino",1,"Vestibular"
+"UXO188360",1,"ADS",2022,1,"3","Noturno",2,"Segunda Graduação"
+"UYK950248",5,"RH",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"UZD343128",3,"GTI",2020,2,"2","Vespertino",3,"Transferência"
+"VAZ069838",1,"ADS",2021,1,"1","Matutino",3,"Transferência"
+"VBX226910",2,"CD",2021,2,"1","Matutino",3,"Transferência"
+"VCD605956",3,"GTI",2020,2,"1","Matutino",2,"Segunda Graduação"
+"VCD615143",2,"CD",2020,2,"3","Noturno",2,"Segunda Graduação"
+"VCK590490",2,"CD",2020,1,"2","Vespertino",1,"Vestibular"
+"VDB039522",1,"ADS",2020,1,"1","Matutino",3,"Transferência"
+"VDM678590",4,"SI",2022,2,"3","Noturno",1,"Vestibular"
+"VDW631954",2,"CD",2020,2,"2","Vespertino",1,"Vestibular"
+"VEJ521990",5,"RH",2020,2,"1","Matutino",3,"Transferência"
+"VFU643825",4,"SI",2022,2,"3","Noturno",1,"Vestibular"
+"VFX647108",4,"SI",2021,1,"2","Vespertino",1,"Vestibular"
+"VFY652840",4,"SI",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"VGA679126",5,"RH",2021,1,"2","Vespertino",3,"Transferência"
+"VGF647064",3,"GTI",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"VGG490704",2,"CD",2022,2,"3","Noturno",1,"Vestibular"
+"VGH670646",3,"GTI",2022,2,"2","Vespertino",3,"Transferência"
+"VHK604203",2,"CD",2021,1,"3","Noturno",3,"Transferência"
+"VHN299384",2,"CD",2022,1,"3","Noturno",3,"Transferência"
+"VIC870084",2,"CD",2021,2,"3","Noturno",2,"Segunda Graduação"
+"VID323985",5,"RH",2020,2,"3","Noturno",2,"Segunda Graduação"
+"VIG074400",4,"SI",2022,1,"3","Noturno",3,"Transferência"
+"VIP446940",4,"SI",2020,1,"3","Noturno",2,"Segunda Graduação"
+"VIY409620",4,"SI",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"VKY715264",4,"SI",2021,2,"2","Vespertino",1,"Vestibular"
+"VLT075004",2,"CD",2020,2,"1","Matutino",2,"Segunda Graduação"
+"VLW352278",1,"ADS",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"VMC452479",4,"SI",2022,1,"3","Noturno",2,"Segunda Graduação"
+"VMF416518",1,"ADS",2021,2,"1","Matutino",1,"Vestibular"
+"VMW414769",1,"ADS",2021,1,"1","Matutino",3,"Transferência"
+"VNX758434",5,"RH",2020,1,"1","Matutino",3,"Transferência"
+"VNY295143",5,"RH",2021,2,"3","Noturno",1,"Vestibular"
+"VOE132109",4,"SI",2020,2,"3","Noturno",1,"Vestibular"
+"VOI501395",4,"SI",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"VOI514083",4,"SI",2020,2,"3","Noturno",3,"Transferência"
+"VOS917767",5,"RH",2022,1,"2","Vespertino",1,"Vestibular"
+"VOZ954153",3,"GTI",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"VPH556010",2,"CD",2021,1,"1","Matutino",2,"Segunda Graduação"
+"VQQ126950",2,"CD",2022,1,"1","Matutino",2,"Segunda Graduação"
+"VQV509544",4,"SI",2022,2,"1","Matutino",2,"Segunda Graduação"
+"VQW793786",2,"CD",2020,1,"1","Matutino",3,"Transferência"
+"VRH839618",5,"RH",2020,1,"1","Matutino",2,"Segunda Graduação"
+"VRL981017",1,"ADS",2020,2,"3","Noturno",3,"Transferência"
+"VRV121120",1,"ADS",2022,1,"1","Matutino",2,"Segunda Graduação"
+"VSC785244",5,"RH",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"VTA542111",4,"SI",2022,1,"1","Matutino",2,"Segunda Graduação"
+"VTI720362",4,"SI",2021,2,"1","Matutino",2,"Segunda Graduação"
+"VTK254734",5,"RH",2020,1,"2","Vespertino",3,"Transferência"
+"VWD912985",4,"SI",2021,2,"3","Noturno",1,"Vestibular"
+"VWY488471",1,"ADS",2020,2,"1","Matutino",2,"Segunda Graduação"
+"VXI786414",4,"SI",2020,2,"2","Vespertino",2,"Segunda Graduação"
+"VXM437132",1,"ADS",2020,2,"2","Vespertino",1,"Vestibular"
+"VXN776648",1,"ADS",2020,2,"2","Vespertino",3,"Transferência"
+"VYK055279",2,"CD",2022,1,"2","Vespertino",1,"Vestibular"
+"VYL174585",3,"GTI",2021,2,"3","Noturno",2,"Segunda Graduação"
+"VZH139248",2,"CD",2021,2,"3","Noturno",2,"Segunda Graduação"
+"WAK195705",1,"ADS",2021,1,"3","Noturno",3,"Transferência"
+"WBA277838",1,"ADS",2022,2,"1","Matutino",3,"Transferência"
+"WBV788760",3,"GTI",2021,2,"1","Matutino",3,"Transferência"
+"WCB927253",4,"SI",2021,1,"1","Matutino",1,"Vestibular"
+"WCN752441",1,"ADS",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"WDQ173676",3,"GTI",2021,1,"1","Matutino",2,"Segunda Graduação"
+"WEL072684",1,"ADS",2022,2,"3","Noturno",1,"Vestibular"
+"WEO298403",2,"CD",2022,2,"3","Noturno",3,"Transferência"
+"WFV926708",4,"SI",2022,1,"1","Matutino",3,"Transferência"
+"WGP787300",2,"CD",2020,2,"2","Vespertino",1,"Vestibular"
+"WGQ761325",4,"SI",2022,2,"3","Noturno",1,"Vestibular"
+"WHH892250",5,"RH",2021,2,"3","Noturno",1,"Vestibular"
+"WHV186194",5,"RH",2022,2,"2","Vespertino",2,"Segunda Graduação"
+"WHY118009",2,"CD",2021,2,"2","Vespertino",3,"Transferência"
+"WIS669784",1,"ADS",2022,1,"3","Noturno",1,"Vestibular"
+"WKF468607",4,"SI",2022,2,"3","Noturno",3,"Transferência"
+"WKW109765",5,"RH",2020,1,"2","Vespertino",1,"Vestibular"
+"WKW336486",1,"ADS",2021,2,"2","Vespertino",3,"Transferência"
+"WLS286932",3,"GTI",2020,2,"3","Noturno",1,"Vestibular"
+"WMC726536",3,"GTI",2022,2,"2","Vespertino",3,"Transferência"
+"WMH432194",5,"RH",2020,1,"3","Noturno",2,"Segunda Graduação"
+"WMI488819",1,"ADS",2022,1,"3","Noturno",3,"Transferência"
+"WMW480048",1,"ADS",2020,1,"3","Noturno",1,"Vestibular"
+"WOC582473",3,"GTI",2020,2,"3","Noturno",1,"Vestibular"
+"WOS366434",2,"CD",2020,1,"2","Vespertino",2,"Segunda Graduação"
+"WOT469583",2,"CD",2022,2,"2","Vespertino",1,"Vestibular"
+"WPK984444",2,"CD",2021,2,"1","Matutino",1,"Vestibular"
+"WPM631667",5,"RH",2020,2,"1","Matutino",2,"Segunda Graduação"
+"WPU867822",2,"CD",2021,1,"1","Matutino",3,"Transferência"
+"WRW625221",1,"ADS",2020,2,"3","Noturno",1,"Vestibular"
+"WRY612215",3,"GTI",2022,2,"1","Matutino",2,"Segunda Graduação"
+"WTM553783",4,"SI",2020,1,"1","Matutino",3,"Transferência"
+"WTQ208791",4,"SI",2020,2,"2","Vespertino",1,"Vestibular"
+"WTS319848",5,"RH",2021,1,"2","Vespertino",1,"Vestibular"
+"WTV496233",5,"RH",2022,2,"1","Matutino",2,"Segunda Graduação"
+"WVD949191",5,"RH",2020,2,"3","Noturno",2,"Segunda Graduação"
+"WVI642646",4,"SI",2021,2,"1","Matutino",1,"Vestibular"
+"WXD374487",5,"RH",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"WXU263835",4,"SI",2020,2,"2","Vespertino",3,"Transferência"
+"WYU147889",2,"CD",2021,2,"1","Matutino",3,"Transferência"
+"WZE601562",2,"CD",2022,1,"1","Matutino",2,"Segunda Graduação"
+"WZH417502",1,"ADS",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"WZJ959986",4,"SI",2021,1,"3","Noturno",3,"Transferência"
+"XBQ794463",3,"GTI",2020,2,"1","Matutino",3,"Transferência"
+"XCJ046701",1,"ADS",2021,1,"3","Noturno",1,"Vestibular"
+"XGA543365",2,"CD",2022,1,"1","Matutino",1,"Vestibular"
+"XHA196463",2,"CD",2020,1,"1","Matutino",2,"Segunda Graduação"
+"XHS294247",5,"RH",2021,1,"3","Noturno",1,"Vestibular"
+"XIN369973",4,"SI",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"XJA642037",3,"GTI",2022,2,"1","Matutino",1,"Vestibular"
+"XKO442322",3,"GTI",2022,1,"1","Matutino",3,"Transferência"
+"XLU383219",1,"ADS",2022,1,"1","Matutino",3,"Transferência"
+"XMQ436745",5,"RH",2022,2,"1","Matutino",3,"Transferência"
+"XPD279103",3,"GTI",2020,1,"2","Vespertino",1,"Vestibular"
+"XRW710759",4,"SI",2021,1,"1","Matutino",1,"Vestibular"
+"XSI428333",1,"ADS",2020,2,"2","Vespertino",2,"Segunda Graduação"
+"XSW877012",5,"RH",2020,2,"3","Noturno",3,"Transferência"
+"XUP040983",3,"GTI",2022,2,"3","Noturno",2,"Segunda Graduação"
+"XXS640375",5,"RH",2022,2,"1","Matutino",3,"Transferência"
+"XYA751224",2,"CD",2020,2,"3","Noturno",1,"Vestibular"
+"XYH659345",5,"RH",2021,2,"3","Noturno",3,"Transferência"
+"XYW165025",1,"ADS",2020,1,"3","Noturno",3,"Transferência"
+"YAP752864",1,"ADS",2021,1,"1","Matutino",3,"Transferência"
+"YAQ169944",1,"ADS",2021,2,"2","Vespertino",1,"Vestibular"
+"YBX407112",4,"SI",2021,1,"1","Matutino",2,"Segunda Graduação"
+"YEA378103",1,"ADS",2020,1,"3","Noturno",3,"Transferência"
+"YED289041",1,"ADS",2020,2,"2","Vespertino",1,"Vestibular"
+"YEF782538",2,"CD",2020,2,"3","Noturno",2,"Segunda Graduação"
+"YEY969287",3,"GTI",2022,2,"1","Matutino",3,"Transferência"
+"YJA953708",3,"GTI",2020,1,"1","Matutino",2,"Segunda Graduação"
+"YJH000884",5,"RH",2022,2,"1","Matutino",2,"Segunda Graduação"
+"YJO687392",1,"ADS",2022,2,"2","Vespertino",3,"Transferência"
+"YKS069525",1,"ADS",2020,1,"3","Noturno",2,"Segunda Graduação"
+"YMH028954",3,"GTI",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"YNK399673",1,"ADS",2020,2,"3","Noturno",2,"Segunda Graduação"
+"YNQ794743",4,"SI",2021,1,"2","Vespertino",3,"Transferência"
+"YOC140572",3,"GTI",2021,1,"1","Matutino",3,"Transferência"
+"YOH172893",1,"ADS",2021,1,"3","Noturno",2,"Segunda Graduação"
+"YOK728885",1,"ADS",2022,2,"3","Noturno",3,"Transferência"
+"YOS400463",1,"ADS",2021,2,"3","Noturno",1,"Vestibular"
+"YPC227447",5,"RH",2020,2,"2","Vespertino",1,"Vestibular"
+"YPL699706",1,"ADS",2021,1,"3","Noturno",1,"Vestibular"
+"YQT936908",5,"RH",2021,1,"2","Vespertino",1,"Vestibular"
+"YRQ647282",2,"CD",2021,1,"1","Matutino",2,"Segunda Graduação"
+"YSP134592",1,"ADS",2022,2,"3","Noturno",1,"Vestibular"
+"YUH813245",1,"ADS",2020,2,"3","Noturno",1,"Vestibular"
+"YUX301674",4,"SI",2020,1,"1","Matutino",3,"Transferência"
+"YUY128877",4,"SI",2021,2,"3","Noturno",2,"Segunda Graduação"
+"YUZ503394",2,"CD",2021,1,"2","Vespertino",1,"Vestibular"
+"YUZ874931",1,"ADS",2021,1,"2","Vespertino",1,"Vestibular"
+"YVA849184",1,"ADS",2022,2,"3","Noturno",3,"Transferência"
+"YVH403912",1,"ADS",2021,2,"3","Noturno",1,"Vestibular"
+"YWC438976",1,"ADS",2020,2,"1","Matutino",2,"Segunda Graduação"
+"YXA970112",2,"CD",2022,1,"2","Vespertino",1,"Vestibular"
+"YXE599488",4,"SI",2020,1,"3","Noturno",3,"Transferência"
+"YXN812952",4,"SI",2022,2,"1","Matutino",3,"Transferência"
+"YXQ576231",3,"GTI",2021,1,"1","Matutino",1,"Vestibular"
+"YYC474587",5,"RH",2021,1,"3","Noturno",3,"Transferência"
+"YYX077679",4,"SI",2022,1,"2","Vespertino",1,"Vestibular"
+"YZE950560",1,"ADS",2021,2,"3","Noturno",1,"Vestibular"
+"YZN025691",5,"RH",2022,2,"3","Noturno",2,"Segunda Graduação"
+"YZT061442",5,"RH",2021,2,"1","Matutino",2,"Segunda Graduação"
+"ZBR035449",2,"CD",2022,2,"2","Vespertino",1,"Vestibular"
+"ZCP905432",5,"RH",2020,1,"1","Matutino",2,"Segunda Graduação"
+"ZCW070483",3,"GTI",2020,2,"1","Matutino",2,"Segunda Graduação"
+"ZCX074509",4,"SI",2021,2,"1","Matutino",2,"Segunda Graduação"
+"ZDK684934",4,"SI",2021,2,"2","Vespertino",2,"Segunda Graduação"
+"ZEL595865",2,"CD",2022,1,"3","Noturno",1,"Vestibular"
+"ZEW054182",3,"GTI",2020,2,"2","Vespertino",3,"Transferência"
+"ZFO039908",2,"CD",2021,2,"3","Noturno",3,"Transferência"
+"ZHQ632194",5,"RH",2022,1,"3","Noturno",1,"Vestibular"
+"ZIL332333",5,"RH",2022,1,"2","Vespertino",1,"Vestibular"
+"ZIO079911",4,"SI",2022,2,"1","Matutino",3,"Transferência"
+"ZIQ108513",1,"ADS",2022,1,"3","Noturno",2,"Segunda Graduação"
+"ZJD329872",4,"SI",2020,2,"1","Matutino",2,"Segunda Graduação"
+"ZJH663426",3,"GTI",2021,2,"1","Matutino",1,"Vestibular"
+"ZJM299619",4,"SI",2020,2,"3","Noturno",1,"Vestibular"
+"ZKC770489",4,"SI",2020,1,"1","Matutino",1,"Vestibular"
+"ZKP732939",3,"GTI",2020,2,"3","Noturno",1,"Vestibular"
+"ZLK101073",5,"RH",2020,1,"1","Matutino",1,"Vestibular"
+"ZMK724107",2,"CD",2020,2,"3","Noturno",3,"Transferência"
+"ZOB023173",2,"CD",2020,1,"1","Matutino",1,"Vestibular"
+"ZPK465622",4,"SI",2021,2,"3","Noturno",3,"Transferência"
+"ZPU413754",5,"RH",2020,2,"3","Noturno",2,"Segunda Graduação"
+"ZQX688979",2,"CD",2022,1,"2","Vespertino",3,"Transferência"
+"ZRS694200",5,"RH",2022,1,"2","Vespertino",2,"Segunda Graduação"
+"ZSC030309",2,"CD",2020,1,"2","Vespertino",3,"Transferência"
+"ZSQ285068",4,"SI",2020,2,"2","Vespertino",2,"Segunda Graduação"
+"ZUM958012",3,"GTI",2021,1,"2","Vespertino",2,"Segunda Graduação"
+"ZVW168390",4,"SI",2020,2,"2","Vespertino",3,"Transferência"
+"ZWE489619",3,"GTI",2022,1,"2","Vespertino",1,"Vestibular"
+"ZWS727214",5,"RH",2020,1,"3","Noturno",1,"Vestibular"
+"ZXF696043",2,"CD",2020,2,"2","Vespertino",1,"Vestibular"
+"ZXO475271",3,"GTI",2020,1,"3","Noturno",1,"Vestibular"
+"ZYT992397",1,"ADS",2022,2,"3","Noturno",1,"Vestibular"
+"ZYY510859",2,"CD",2022,1,"1","Matutino",2,"Segunda Graduação"
+"ZZM039187",4,"SI",2021,1,"3","Noturno",2,"Segunda Graduação"

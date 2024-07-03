@@ -1,0 +1,1001 @@
+"id_matricula","curso","sigla_curso","ano","semestre","turno","nome_turno","renda","faixa_renda"
+"ACB029015",3,"GTI",2020,1,"2","Vespertino",2,"Média baixa"
+"ACK244514",4,"SI",2021,2,"2","Vespertino",1,"Baixa renda"
+"ACP464029",2,"CD",2021,2,"3","Noturno",4,"Alta renda"
+"ADG785780",3,"GTI",2022,2,"1","Matutino",2,"Média baixa"
+"ADP716178",1,"ADS",2022,2,"2","Vespertino",4,"Alta renda"
+"ADW672440",4,"SI",2021,2,"2","Vespertino",1,"Baixa renda"
+"AEC482431",3,"GTI",2021,1,"2","Vespertino",3,"Média alta"
+"AEP373753",3,"GTI",2022,2,"3","Noturno",3,"Média alta"
+"AFT325852",2,"CD",2022,1,"2","Vespertino",1,"Baixa renda"
+"AFW584209",4,"SI",2022,1,"1","Matutino",2,"Média baixa"
+"AGC428078",4,"SI",2021,1,"1","Matutino",2,"Média baixa"
+"AGJ569243",3,"GTI",2022,1,"2","Vespertino",4,"Alta renda"
+"AGN513482",4,"SI",2021,2,"3","Noturno",4,"Alta renda"
+"AGY507689",3,"GTI",2022,1,"2","Vespertino",2,"Média baixa"
+"AHE295061",4,"SI",2022,2,"3","Noturno",4,"Alta renda"
+"AHO643798",2,"CD",2021,1,"2","Vespertino",3,"Média alta"
+"AIY538708",5,"RH",2022,1,"3","Noturno",2,"Média baixa"
+"AJE406685",1,"ADS",2021,1,"3","Noturno",3,"Média alta"
+"AJV384212",4,"SI",2020,1,"3","Noturno",4,"Alta renda"
+"AKU908507",1,"ADS",2020,2,"2","Vespertino",4,"Alta renda"
+"ALW868404",4,"SI",2020,1,"1","Matutino",1,"Baixa renda"
+"ALW869953",3,"GTI",2022,1,"1","Matutino",3,"Média alta"
+"ANX052694",3,"GTI",2021,2,"3","Noturno",3,"Média alta"
+"AOD895291",2,"CD",2020,2,"1","Matutino",4,"Alta renda"
+"AOH344845",4,"SI",2021,1,"1","Matutino",2,"Média baixa"
+"AOZ927186",5,"RH",2022,2,"2","Vespertino",1,"Baixa renda"
+"API825196",3,"GTI",2022,1,"3","Noturno",1,"Baixa renda"
+"AQP533900",2,"CD",2021,2,"3","Noturno",2,"Média baixa"
+"AQQ153374",2,"CD",2021,1,"2","Vespertino",2,"Média baixa"
+"AQQ697265",4,"SI",2020,1,"3","Noturno",4,"Alta renda"
+"ARA422407",3,"GTI",2022,1,"3","Noturno",2,"Média baixa"
+"ASL353896",3,"GTI",2022,1,"1","Matutino",4,"Alta renda"
+"ASV988932",1,"ADS",2021,2,"1","Matutino",2,"Média baixa"
+"ASW063474",5,"RH",2021,2,"2","Vespertino",3,"Média alta"
+"AUE423714",3,"GTI",2022,1,"3","Noturno",2,"Média baixa"
+"AUV705318",4,"SI",2020,1,"2","Vespertino",3,"Média alta"
+"AVF403847",2,"CD",2021,1,"3","Noturno",1,"Baixa renda"
+"AVN016829",4,"SI",2021,1,"1","Matutino",2,"Média baixa"
+"AVV961987",2,"CD",2022,2,"1","Matutino",3,"Média alta"
+"AVY386089",5,"RH",2020,2,"1","Matutino",3,"Média alta"
+"AWU746413",1,"ADS",2020,2,"1","Matutino",3,"Média alta"
+"AXU385250",5,"RH",2021,1,"1","Matutino",1,"Baixa renda"
+"BAR201650",4,"SI",2020,2,"2","Vespertino",3,"Média alta"
+"BAU113983",2,"CD",2020,2,"2","Vespertino",2,"Média baixa"
+"BAX758197",1,"ADS",2021,2,"1","Matutino",1,"Baixa renda"
+"BBM017309",4,"SI",2022,1,"1","Matutino",4,"Alta renda"
+"BCB887837",5,"RH",2021,2,"2","Vespertino",2,"Média baixa"
+"BCT003544",2,"CD",2020,1,"3","Noturno",1,"Baixa renda"
+"BCZ300025",4,"SI",2022,1,"3","Noturno",3,"Média alta"
+"BDM202447",1,"ADS",2020,2,"2","Vespertino",4,"Alta renda"
+"BDO171562",3,"GTI",2022,1,"3","Noturno",1,"Baixa renda"
+"BEQ809570",1,"ADS",2022,1,"1","Matutino",2,"Média baixa"
+"BHE536530",4,"SI",2021,2,"2","Vespertino",4,"Alta renda"
+"BHP658365",5,"RH",2022,1,"1","Matutino",4,"Alta renda"
+"BHT060480",4,"SI",2020,2,"1","Matutino",1,"Baixa renda"
+"BHW551919",4,"SI",2021,2,"3","Noturno",1,"Baixa renda"
+"BJU564065",5,"RH",2021,1,"3","Noturno",2,"Média baixa"
+"BKW370764",4,"SI",2020,1,"2","Vespertino",4,"Alta renda"
+"BKZ871100",3,"GTI",2020,2,"1","Matutino",4,"Alta renda"
+"BMI305476",2,"CD",2022,2,"3","Noturno",3,"Média alta"
+"BMO426012",2,"CD",2020,2,"1","Matutino",4,"Alta renda"
+"BNN656837",2,"CD",2021,2,"3","Noturno",2,"Média baixa"
+"BOJ934977",5,"RH",2020,2,"1","Matutino",2,"Média baixa"
+"BOO834626",5,"RH",2022,2,"2","Vespertino",3,"Média alta"
+"BQR667066",2,"CD",2022,2,"1","Matutino",2,"Média baixa"
+"BQY832283",3,"GTI",2021,1,"1","Matutino",2,"Média baixa"
+"BRA308064",3,"GTI",2022,2,"1","Matutino",4,"Alta renda"
+"BRE245397",3,"GTI",2022,1,"3","Noturno",4,"Alta renda"
+"BSQ620246",3,"GTI",2021,2,"1","Matutino",1,"Baixa renda"
+"BTU756278",3,"GTI",2020,1,"2","Vespertino",3,"Média alta"
+"BUH646551",4,"SI",2020,2,"2","Vespertino",2,"Média baixa"
+"BVI686266",3,"GTI",2021,1,"2","Vespertino",3,"Média alta"
+"BWJ448436",1,"ADS",2021,1,"3","Noturno",4,"Alta renda"
+"BWR542577",3,"GTI",2021,2,"1","Matutino",2,"Média baixa"
+"BWS946132",3,"GTI",2022,2,"2","Vespertino",4,"Alta renda"
+"BXO877936",5,"RH",2020,1,"3","Noturno",1,"Baixa renda"
+"BXX624612",3,"GTI",2020,1,"1","Matutino",1,"Baixa renda"
+"BYF113519",5,"RH",2021,1,"2","Vespertino",2,"Média baixa"
+"BYP825518",2,"CD",2022,2,"2","Vespertino",2,"Média baixa"
+"BYV939972",3,"GTI",2020,1,"1","Matutino",2,"Média baixa"
+"BYZ889681",3,"GTI",2021,1,"1","Matutino",3,"Média alta"
+"CAF832495",4,"SI",2022,1,"1","Matutino",4,"Alta renda"
+"CAH074884",2,"CD",2021,1,"1","Matutino",4,"Alta renda"
+"CAW459967",4,"SI",2020,2,"2","Vespertino",2,"Média baixa"
+"CCF668823",5,"RH",2022,2,"2","Vespertino",1,"Baixa renda"
+"CCM996173",2,"CD",2022,2,"2","Vespertino",2,"Média baixa"
+"CCS317816",5,"RH",2021,2,"2","Vespertino",2,"Média baixa"
+"CDE351780",2,"CD",2022,1,"2","Vespertino",2,"Média baixa"
+"CDV188150",5,"RH",2022,2,"3","Noturno",1,"Baixa renda"
+"CDY570071",5,"RH",2021,1,"3","Noturno",4,"Alta renda"
+"CEO035280",1,"ADS",2021,2,"3","Noturno",2,"Média baixa"
+"CEW141617",4,"SI",2022,1,"1","Matutino",4,"Alta renda"
+"CFB372957",5,"RH",2022,2,"3","Noturno",3,"Média alta"
+"CFD305031",5,"RH",2020,1,"3","Noturno",4,"Alta renda"
+"CGB742959",3,"GTI",2021,1,"3","Noturno",1,"Baixa renda"
+"CJK599566",4,"SI",2020,1,"1","Matutino",4,"Alta renda"
+"CKP761838",5,"RH",2020,2,"3","Noturno",2,"Média baixa"
+"CLC031292",5,"RH",2020,1,"2","Vespertino",3,"Média alta"
+"CND671225",3,"GTI",2021,2,"2","Vespertino",4,"Alta renda"
+"CNY203784",5,"RH",2022,1,"2","Vespertino",4,"Alta renda"
+"COJ785802",2,"CD",2021,2,"1","Matutino",2,"Média baixa"
+"CPE898327",4,"SI",2020,1,"1","Matutino",2,"Média baixa"
+"CPU630493",1,"ADS",2021,1,"2","Vespertino",4,"Alta renda"
+"CRW377064",3,"GTI",2021,1,"2","Vespertino",3,"Média alta"
+"CRZ376442",3,"GTI",2020,2,"2","Vespertino",3,"Média alta"
+"CSJ532803",3,"GTI",2022,1,"1","Matutino",1,"Baixa renda"
+"CSW438431",2,"CD",2021,2,"1","Matutino",4,"Alta renda"
+"CTH541162",2,"CD",2021,2,"3","Noturno",4,"Alta renda"
+"CTJ336883",1,"ADS",2022,1,"1","Matutino",2,"Média baixa"
+"CTR843775",1,"ADS",2020,2,"1","Matutino",4,"Alta renda"
+"CTW722523",4,"SI",2021,2,"1","Matutino",3,"Média alta"
+"CUF941621",5,"RH",2021,2,"1","Matutino",4,"Alta renda"
+"CVM641518",2,"CD",2021,2,"2","Vespertino",2,"Média baixa"
+"CWB200831",5,"RH",2020,2,"1","Matutino",3,"Média alta"
+"CWK024781",1,"ADS",2021,1,"1","Matutino",2,"Média baixa"
+"CXM666704",2,"CD",2021,1,"2","Vespertino",4,"Alta renda"
+"CYN762600",3,"GTI",2022,2,"1","Matutino",4,"Alta renda"
+"CYT126928",1,"ADS",2022,1,"3","Noturno",4,"Alta renda"
+"CZW537505",3,"GTI",2021,2,"1","Matutino",1,"Baixa renda"
+"DAD809216",2,"CD",2022,1,"2","Vespertino",1,"Baixa renda"
+"DAK308598",1,"ADS",2021,1,"1","Matutino",3,"Média alta"
+"DCF112585",5,"RH",2020,1,"3","Noturno",4,"Alta renda"
+"DDZ664389",1,"ADS",2022,2,"2","Vespertino",1,"Baixa renda"
+"DEB203152",3,"GTI",2021,1,"1","Matutino",2,"Média baixa"
+"DFM372086",2,"CD",2020,2,"2","Vespertino",3,"Média alta"
+"DHU190555",4,"SI",2022,2,"1","Matutino",1,"Baixa renda"
+"DHV004487",1,"ADS",2022,1,"2","Vespertino",2,"Média baixa"
+"DIL863825",2,"CD",2022,2,"3","Noturno",1,"Baixa renda"
+"DJE660458",1,"ADS",2021,1,"3","Noturno",4,"Alta renda"
+"DJN283238",4,"SI",2022,2,"3","Noturno",4,"Alta renda"
+"DJW505082",3,"GTI",2021,2,"2","Vespertino",2,"Média baixa"
+"DJW896846",2,"CD",2022,1,"1","Matutino",2,"Média baixa"
+"DKR588588",4,"SI",2022,1,"3","Noturno",1,"Baixa renda"
+"DLA233381",3,"GTI",2020,2,"3","Noturno",3,"Média alta"
+"DOD992309",2,"CD",2020,2,"3","Noturno",3,"Média alta"
+"DOG028489",2,"CD",2022,1,"1","Matutino",4,"Alta renda"
+"DOQ304382",2,"CD",2020,2,"2","Vespertino",3,"Média alta"
+"DPB323450",1,"ADS",2021,1,"2","Vespertino",2,"Média baixa"
+"DPG870900",2,"CD",2020,2,"1","Matutino",3,"Média alta"
+"DPP750845",5,"RH",2020,2,"2","Vespertino",2,"Média baixa"
+"DPX034698",1,"ADS",2020,2,"1","Matutino",2,"Média baixa"
+"DQM350940",4,"SI",2021,2,"1","Matutino",3,"Média alta"
+"DQN801322",3,"GTI",2022,1,"3","Noturno",4,"Alta renda"
+"DRH191358",5,"RH",2022,1,"1","Matutino",4,"Alta renda"
+"DRJ444636",5,"RH",2020,2,"2","Vespertino",2,"Média baixa"
+"DRZ595568",3,"GTI",2020,2,"1","Matutino",1,"Baixa renda"
+"DSO544136",5,"RH",2021,1,"1","Matutino",3,"Média alta"
+"DSZ994605",1,"ADS",2020,1,"3","Noturno",2,"Média baixa"
+"DTI082750",2,"CD",2022,1,"3","Noturno",1,"Baixa renda"
+"DTI315403",1,"ADS",2021,2,"3","Noturno",2,"Média baixa"
+"DTS611441",4,"SI",2022,1,"2","Vespertino",3,"Média alta"
+"DTT934587",5,"RH",2020,2,"3","Noturno",4,"Alta renda"
+"DUF262316",4,"SI",2021,2,"2","Vespertino",2,"Média baixa"
+"DUT932945",3,"GTI",2021,1,"3","Noturno",1,"Baixa renda"
+"DXE496501",1,"ADS",2021,1,"3","Noturno",3,"Média alta"
+"DXG025671",2,"CD",2020,2,"2","Vespertino",3,"Média alta"
+"DXM434353",4,"SI",2022,2,"3","Noturno",1,"Baixa renda"
+"DXU986857",2,"CD",2020,1,"1","Matutino",2,"Média baixa"
+"DYF045065",3,"GTI",2021,1,"1","Matutino",3,"Média alta"
+"DYG734757",2,"CD",2020,2,"2","Vespertino",1,"Baixa renda"
+"DZB363022",4,"SI",2020,1,"3","Noturno",2,"Média baixa"
+"DZR296380",4,"SI",2020,2,"2","Vespertino",1,"Baixa renda"
+"EAP795662",5,"RH",2020,2,"1","Matutino",3,"Média alta"
+"EBD328319",5,"RH",2022,1,"3","Noturno",2,"Média baixa"
+"EBY026573",3,"GTI",2020,1,"1","Matutino",3,"Média alta"
+"EDO229195",1,"ADS",2022,1,"2","Vespertino",1,"Baixa renda"
+"EEF768191",5,"RH",2022,1,"3","Noturno",3,"Média alta"
+"EEI543063",5,"RH",2020,1,"2","Vespertino",1,"Baixa renda"
+"EER115767",3,"GTI",2022,1,"3","Noturno",4,"Alta renda"
+"EES259378",2,"CD",2022,2,"2","Vespertino",4,"Alta renda"
+"EFE672218",1,"ADS",2021,2,"3","Noturno",4,"Alta renda"
+"EGL608628",4,"SI",2022,1,"2","Vespertino",3,"Média alta"
+"EHV368525",5,"RH",2022,2,"2","Vespertino",3,"Média alta"
+"EIZ407996",5,"RH",2022,2,"1","Matutino",3,"Média alta"
+"EIZ734257",4,"SI",2020,1,"1","Matutino",3,"Média alta"
+"EJR659856",5,"RH",2022,1,"2","Vespertino",2,"Média baixa"
+"EKH849795",3,"GTI",2020,1,"1","Matutino",1,"Baixa renda"
+"EKI760151",3,"GTI",2021,2,"1","Matutino",2,"Média baixa"
+"ELG494088",1,"ADS",2020,2,"1","Matutino",1,"Baixa renda"
+"EMD893452",2,"CD",2022,2,"2","Vespertino",4,"Alta renda"
+"EMH515069",3,"GTI",2020,2,"1","Matutino",2,"Média baixa"
+"EMP300840",5,"RH",2022,2,"3","Noturno",1,"Baixa renda"
+"EMW233365",3,"GTI",2022,2,"2","Vespertino",4,"Alta renda"
+"ENB583878",5,"RH",2021,2,"1","Matutino",4,"Alta renda"
+"ENX244804",2,"CD",2021,2,"3","Noturno",2,"Média baixa"
+"EOC564369",3,"GTI",2020,1,"1","Matutino",1,"Baixa renda"
+"EPH624627",4,"SI",2022,2,"1","Matutino",4,"Alta renda"
+"EQB714762",1,"ADS",2022,1,"2","Vespertino",3,"Média alta"
+"EQQ154278",1,"ADS",2021,2,"2","Vespertino",2,"Média baixa"
+"EQR575966",5,"RH",2021,2,"2","Vespertino",3,"Média alta"
+"ERT670449",2,"CD",2022,2,"2","Vespertino",4,"Alta renda"
+"ETU685739",5,"RH",2021,1,"3","Noturno",2,"Média baixa"
+"EUL747009",3,"GTI",2020,2,"1","Matutino",1,"Baixa renda"
+"EUR109564",3,"GTI",2020,1,"2","Vespertino",3,"Média alta"
+"EUU871695",2,"CD",2021,1,"1","Matutino",1,"Baixa renda"
+"EVB070709",2,"CD",2021,1,"1","Matutino",4,"Alta renda"
+"EVZ861569",3,"GTI",2022,1,"2","Vespertino",1,"Baixa renda"
+"EWU078865",5,"RH",2020,1,"2","Vespertino",2,"Média baixa"
+"EWY321955",3,"GTI",2020,2,"2","Vespertino",4,"Alta renda"
+"EYC989790",5,"RH",2021,2,"2","Vespertino",1,"Baixa renda"
+"EYE483662",4,"SI",2021,1,"1","Matutino",2,"Média baixa"
+"EYV490637",1,"ADS",2021,2,"3","Noturno",2,"Média baixa"
+"FAG468237",5,"RH",2022,2,"2","Vespertino",3,"Média alta"
+"FAK520740",5,"RH",2022,2,"1","Matutino",4,"Alta renda"
+"FAX801293",1,"ADS",2020,2,"3","Noturno",2,"Média baixa"
+"FEL565201",4,"SI",2022,2,"2","Vespertino",3,"Média alta"
+"FFT467673",2,"CD",2021,1,"3","Noturno",2,"Média baixa"
+"FFV644195",5,"RH",2021,2,"1","Matutino",2,"Média baixa"
+"FGU062679",5,"RH",2021,1,"2","Vespertino",1,"Baixa renda"
+"FIB657458",5,"RH",2020,2,"2","Vespertino",2,"Média baixa"
+"FIJ618400",4,"SI",2020,1,"2","Vespertino",2,"Média baixa"
+"FIL594852",3,"GTI",2022,2,"1","Matutino",1,"Baixa renda"
+"FIM570780",3,"GTI",2020,1,"3","Noturno",1,"Baixa renda"
+"FIU818272",2,"CD",2021,2,"2","Vespertino",4,"Alta renda"
+"FJT419984",3,"GTI",2022,1,"2","Vespertino",2,"Média baixa"
+"FJT891690",2,"CD",2021,1,"1","Matutino",4,"Alta renda"
+"FKN347096",5,"RH",2020,2,"3","Noturno",3,"Média alta"
+"FLB026753",1,"ADS",2022,2,"1","Matutino",3,"Média alta"
+"FMU022269",5,"RH",2021,1,"1","Matutino",4,"Alta renda"
+"FOQ436286",4,"SI",2020,1,"1","Matutino",4,"Alta renda"
+"FPL218099",5,"RH",2020,1,"1","Matutino",1,"Baixa renda"
+"FPU434709",3,"GTI",2021,2,"1","Matutino",4,"Alta renda"
+"FQX668064",1,"ADS",2020,1,"1","Matutino",1,"Baixa renda"
+"FRW746983",4,"SI",2022,1,"1","Matutino",2,"Média baixa"
+"FSH604656",4,"SI",2020,2,"3","Noturno",2,"Média baixa"
+"FSO110166",4,"SI",2020,2,"2","Vespertino",4,"Alta renda"
+"FUE655174",1,"ADS",2020,2,"1","Matutino",4,"Alta renda"
+"FVG562621",1,"ADS",2020,1,"3","Noturno",3,"Média alta"
+"GAD047052",1,"ADS",2020,1,"3","Noturno",4,"Alta renda"
+"GAE328043",1,"ADS",2022,1,"3","Noturno",4,"Alta renda"
+"GAR797693",4,"SI",2022,2,"3","Noturno",4,"Alta renda"
+"GBE061769",1,"ADS",2022,2,"1","Matutino",3,"Média alta"
+"GBJ016917",1,"ADS",2022,2,"1","Matutino",4,"Alta renda"
+"GBT462786",3,"GTI",2022,2,"1","Matutino",1,"Baixa renda"
+"GBW934806",5,"RH",2022,2,"3","Noturno",3,"Média alta"
+"GCM147588",3,"GTI",2020,1,"2","Vespertino",2,"Média baixa"
+"GDB557644",5,"RH",2020,1,"3","Noturno",1,"Baixa renda"
+"GDF208204",4,"SI",2020,2,"2","Vespertino",4,"Alta renda"
+"GDN504694",4,"SI",2020,2,"1","Matutino",1,"Baixa renda"
+"GDS012249",4,"SI",2022,2,"3","Noturno",1,"Baixa renda"
+"GEV297814",5,"RH",2021,1,"1","Matutino",1,"Baixa renda"
+"GFB850447",4,"SI",2022,2,"2","Vespertino",4,"Alta renda"
+"GFF065152",1,"ADS",2021,1,"3","Noturno",4,"Alta renda"
+"GFQ315019",2,"CD",2020,1,"2","Vespertino",1,"Baixa renda"
+"GFW481509",1,"ADS",2021,2,"1","Matutino",2,"Média baixa"
+"GGL474811",2,"CD",2022,1,"3","Noturno",1,"Baixa renda"
+"GHL979559",4,"SI",2022,1,"1","Matutino",3,"Média alta"
+"GHZ135813",3,"GTI",2022,2,"3","Noturno",4,"Alta renda"
+"GIE001068",2,"CD",2022,2,"1","Matutino",3,"Média alta"
+"GII957337",1,"ADS",2020,1,"3","Noturno",3,"Média alta"
+"GIQ317557",3,"GTI",2022,2,"1","Matutino",3,"Média alta"
+"GIR705080",4,"SI",2020,2,"1","Matutino",1,"Baixa renda"
+"GIX194650",5,"RH",2020,1,"1","Matutino",4,"Alta renda"
+"GJH963132",2,"CD",2022,2,"2","Vespertino",4,"Alta renda"
+"GKP285680",3,"GTI",2022,2,"1","Matutino",2,"Média baixa"
+"GKQ067865",2,"CD",2021,2,"1","Matutino",4,"Alta renda"
+"GKV384714",3,"GTI",2021,2,"3","Noturno",1,"Baixa renda"
+"GMP225402",3,"GTI",2020,1,"3","Noturno",3,"Média alta"
+"GMW817164",5,"RH",2020,1,"1","Matutino",2,"Média baixa"
+"GMZ876457",1,"ADS",2020,2,"3","Noturno",2,"Média baixa"
+"GNB484510",2,"CD",2021,1,"3","Noturno",1,"Baixa renda"
+"GNM001465",1,"ADS",2021,2,"2","Vespertino",3,"Média alta"
+"GNP312279",5,"RH",2022,2,"2","Vespertino",4,"Alta renda"
+"GOT636604",2,"CD",2022,1,"3","Noturno",1,"Baixa renda"
+"GOW327073",4,"SI",2022,2,"2","Vespertino",1,"Baixa renda"
+"GOW512928",4,"SI",2020,2,"2","Vespertino",2,"Média baixa"
+"GPL590848",1,"ADS",2020,2,"3","Noturno",1,"Baixa renda"
+"GQJ854474",1,"ADS",2020,2,"3","Noturno",2,"Média baixa"
+"GRG085823",1,"ADS",2022,2,"1","Matutino",2,"Média baixa"
+"GUA891193",3,"GTI",2021,2,"2","Vespertino",4,"Alta renda"
+"GVO563778",2,"CD",2020,1,"3","Noturno",4,"Alta renda"
+"GVV964909",4,"SI",2022,1,"2","Vespertino",3,"Média alta"
+"GXV510146",3,"GTI",2021,2,"3","Noturno",3,"Média alta"
+"GYO743841",3,"GTI",2020,2,"1","Matutino",1,"Baixa renda"
+"GZA343777",2,"CD",2020,2,"1","Matutino",4,"Alta renda"
+"HBV038747",2,"CD",2020,1,"2","Vespertino",4,"Alta renda"
+"HCF549158",1,"ADS",2021,1,"2","Vespertino",1,"Baixa renda"
+"HDE469628",4,"SI",2022,2,"1","Matutino",1,"Baixa renda"
+"HDF322046",4,"SI",2022,2,"2","Vespertino",3,"Média alta"
+"HDG374243",3,"GTI",2021,2,"2","Vespertino",4,"Alta renda"
+"HDG542651",1,"ADS",2021,1,"3","Noturno",4,"Alta renda"
+"HDH039694",4,"SI",2022,1,"1","Matutino",1,"Baixa renda"
+"HDI065101",3,"GTI",2021,2,"2","Vespertino",2,"Média baixa"
+"HDP219261",5,"RH",2021,1,"1","Matutino",1,"Baixa renda"
+"HEF579776",5,"RH",2022,2,"2","Vespertino",3,"Média alta"
+"HEW930477",2,"CD",2022,2,"1","Matutino",1,"Baixa renda"
+"HGK060700",1,"ADS",2022,2,"3","Noturno",3,"Média alta"
+"HHD747319",2,"CD",2021,1,"3","Noturno",2,"Média baixa"
+"HHI148573",5,"RH",2021,1,"2","Vespertino",2,"Média baixa"
+"HHS360049",3,"GTI",2021,2,"2","Vespertino",4,"Alta renda"
+"HJG928060",5,"RH",2020,2,"1","Matutino",4,"Alta renda"
+"HJP836360",3,"GTI",2021,2,"1","Matutino",1,"Baixa renda"
+"HJS137388",1,"ADS",2021,2,"2","Vespertino",3,"Média alta"
+"HJT988312",5,"RH",2021,1,"3","Noturno",4,"Alta renda"
+"HKB100045",3,"GTI",2021,2,"1","Matutino",1,"Baixa renda"
+"HKB796570",2,"CD",2021,2,"2","Vespertino",1,"Baixa renda"
+"HKW559541",3,"GTI",2021,2,"3","Noturno",4,"Alta renda"
+"HLA287065",5,"RH",2021,1,"1","Matutino",4,"Alta renda"
+"HLY048118",1,"ADS",2020,1,"1","Matutino",2,"Média baixa"
+"HMG015043",1,"ADS",2022,2,"2","Vespertino",3,"Média alta"
+"HMX906267",5,"RH",2020,1,"1","Matutino",4,"Alta renda"
+"HOR743742",4,"SI",2021,2,"2","Vespertino",2,"Média baixa"
+"HPI130590",1,"ADS",2020,1,"1","Matutino",1,"Baixa renda"
+"HQO552603",4,"SI",2020,1,"2","Vespertino",3,"Média alta"
+"HQQ115831",5,"RH",2020,1,"2","Vespertino",3,"Média alta"
+"HRA960052",2,"CD",2020,2,"2","Vespertino",4,"Alta renda"
+"HRF539925",4,"SI",2021,2,"1","Matutino",4,"Alta renda"
+"HSA185364",2,"CD",2021,1,"2","Vespertino",1,"Baixa renda"
+"HSD597990",3,"GTI",2022,1,"2","Vespertino",1,"Baixa renda"
+"HTB580558",4,"SI",2020,2,"2","Vespertino",4,"Alta renda"
+"HUH083406",1,"ADS",2020,2,"2","Vespertino",4,"Alta renda"
+"HUV591373",4,"SI",2020,2,"1","Matutino",3,"Média alta"
+"HUX097960",3,"GTI",2020,1,"2","Vespertino",2,"Média baixa"
+"HVR363677",1,"ADS",2021,2,"3","Noturno",3,"Média alta"
+"HXC536813",4,"SI",2022,2,"2","Vespertino",3,"Média alta"
+"HXO235923",3,"GTI",2020,2,"2","Vespertino",1,"Baixa renda"
+"HXV474735",4,"SI",2022,2,"2","Vespertino",1,"Baixa renda"
+"HYJ435521",4,"SI",2022,1,"3","Noturno",3,"Média alta"
+"HYW252967",2,"CD",2022,2,"3","Noturno",3,"Média alta"
+"IAB325126",2,"CD",2020,1,"2","Vespertino",4,"Alta renda"
+"IAD584451",1,"ADS",2020,2,"3","Noturno",1,"Baixa renda"
+"IBH293239",5,"RH",2022,1,"1","Matutino",1,"Baixa renda"
+"IBK233550",2,"CD",2021,1,"2","Vespertino",3,"Média alta"
+"IBM640075",2,"CD",2021,1,"3","Noturno",1,"Baixa renda"
+"ICD841454",1,"ADS",2021,1,"1","Matutino",1,"Baixa renda"
+"ICO233729",2,"CD",2021,2,"3","Noturno",3,"Média alta"
+"ICO861223",2,"CD",2021,1,"2","Vespertino",1,"Baixa renda"
+"ICZ488525",2,"CD",2020,2,"1","Matutino",4,"Alta renda"
+"IDH746262",2,"CD",2021,2,"1","Matutino",4,"Alta renda"
+"IEK844751",5,"RH",2020,1,"3","Noturno",2,"Média baixa"
+"IEO400224",5,"RH",2020,2,"3","Noturno",3,"Média alta"
+"IEV161821",4,"SI",2022,1,"3","Noturno",4,"Alta renda"
+"IFT978421",3,"GTI",2020,1,"2","Vespertino",4,"Alta renda"
+"IFX716838",1,"ADS",2020,1,"2","Vespertino",2,"Média baixa"
+"IHT801038",2,"CD",2020,1,"1","Matutino",3,"Média alta"
+"IIP054596",5,"RH",2021,2,"2","Vespertino",3,"Média alta"
+"IIR862819",2,"CD",2021,1,"3","Noturno",4,"Alta renda"
+"IIW586230",3,"GTI",2020,2,"3","Noturno",2,"Média baixa"
+"IJK440268",5,"RH",2021,1,"3","Noturno",2,"Média baixa"
+"IMN963801",4,"SI",2021,2,"2","Vespertino",1,"Baixa renda"
+"IMQ453161",3,"GTI",2022,1,"2","Vespertino",4,"Alta renda"
+"IPE342866",1,"ADS",2020,1,"3","Noturno",3,"Média alta"
+"IPQ016704",5,"RH",2020,2,"1","Matutino",2,"Média baixa"
+"IRC887871",2,"CD",2021,2,"1","Matutino",1,"Baixa renda"
+"IRV522174",1,"ADS",2022,1,"1","Matutino",1,"Baixa renda"
+"ISY062179",4,"SI",2020,1,"3","Noturno",1,"Baixa renda"
+"ITA859363",4,"SI",2020,2,"3","Noturno",4,"Alta renda"
+"ITZ441680",5,"RH",2022,2,"2","Vespertino",3,"Média alta"
+"IUE669847",4,"SI",2022,2,"2","Vespertino",1,"Baixa renda"
+"IUF445179",1,"ADS",2022,1,"2","Vespertino",2,"Média baixa"
+"IUX347725",3,"GTI",2021,2,"1","Matutino",4,"Alta renda"
+"IVG016509",1,"ADS",2022,1,"1","Matutino",1,"Baixa renda"
+"IWJ087501",4,"SI",2022,1,"2","Vespertino",1,"Baixa renda"
+"IWU585290",2,"CD",2020,1,"2","Vespertino",1,"Baixa renda"
+"IXF163356",2,"CD",2021,1,"3","Noturno",3,"Média alta"
+"IXO975264",4,"SI",2021,2,"1","Matutino",3,"Média alta"
+"IXW426797",5,"RH",2022,1,"3","Noturno",4,"Alta renda"
+"IZP470558",5,"RH",2020,1,"3","Noturno",4,"Alta renda"
+"IZY576398",3,"GTI",2022,1,"1","Matutino",2,"Média baixa"
+"JAP811391",2,"CD",2020,2,"2","Vespertino",2,"Média baixa"
+"JBD941702",4,"SI",2021,1,"2","Vespertino",1,"Baixa renda"
+"JBZ275079",1,"ADS",2022,2,"1","Matutino",1,"Baixa renda"
+"JDP143076",5,"RH",2022,1,"3","Noturno",1,"Baixa renda"
+"JEO119628",3,"GTI",2022,2,"3","Noturno",2,"Média baixa"
+"JHG988098",5,"RH",2020,1,"3","Noturno",1,"Baixa renda"
+"JHL242004",5,"RH",2021,1,"1","Matutino",4,"Alta renda"
+"JIB074193",3,"GTI",2020,2,"2","Vespertino",3,"Média alta"
+"JJN758066",1,"ADS",2022,1,"1","Matutino",3,"Média alta"
+"JKB558319",2,"CD",2022,1,"2","Vespertino",3,"Média alta"
+"JKH794141",5,"RH",2022,2,"3","Noturno",3,"Média alta"
+"JKX610440",3,"GTI",2022,1,"1","Matutino",2,"Média baixa"
+"JLS027603",5,"RH",2022,1,"2","Vespertino",2,"Média baixa"
+"JLV598130",4,"SI",2020,1,"2","Vespertino",3,"Média alta"
+"JML774150",1,"ADS",2021,1,"3","Noturno",2,"Média baixa"
+"JMO959983",2,"CD",2020,2,"1","Matutino",4,"Alta renda"
+"JMP534859",5,"RH",2021,2,"1","Matutino",1,"Baixa renda"
+"JMY019445",1,"ADS",2020,2,"2","Vespertino",4,"Alta renda"
+"JNO081108",4,"SI",2021,1,"1","Matutino",1,"Baixa renda"
+"JOT106002",3,"GTI",2022,1,"1","Matutino",4,"Alta renda"
+"JPP179733",5,"RH",2021,1,"3","Noturno",4,"Alta renda"
+"JRF603460",2,"CD",2020,1,"1","Matutino",3,"Média alta"
+"JRL542956",3,"GTI",2022,2,"1","Matutino",4,"Alta renda"
+"JRS487943",1,"ADS",2021,1,"1","Matutino",3,"Média alta"
+"JUB634234",3,"GTI",2020,1,"2","Vespertino",4,"Alta renda"
+"JUW679581",4,"SI",2021,1,"2","Vespertino",1,"Baixa renda"
+"JVK876093",2,"CD",2021,2,"3","Noturno",2,"Média baixa"
+"JVM726948",5,"RH",2022,2,"3","Noturno",2,"Média baixa"
+"JWP119221",3,"GTI",2022,1,"1","Matutino",2,"Média baixa"
+"JWQ583389",2,"CD",2022,1,"2","Vespertino",4,"Alta renda"
+"JWW954209",2,"CD",2020,1,"3","Noturno",4,"Alta renda"
+"JXE753900",5,"RH",2020,2,"1","Matutino",4,"Alta renda"
+"JXI599932",4,"SI",2022,2,"2","Vespertino",2,"Média baixa"
+"JXJ559926",4,"SI",2021,2,"3","Noturno",1,"Baixa renda"
+"JYA132685",3,"GTI",2020,1,"1","Matutino",4,"Alta renda"
+"JYO468205",3,"GTI",2021,1,"3","Noturno",2,"Média baixa"
+"JYV887939",5,"RH",2022,2,"2","Vespertino",4,"Alta renda"
+"JZB188188",1,"ADS",2020,2,"1","Matutino",3,"Média alta"
+"KAO638945",5,"RH",2021,1,"3","Noturno",2,"Média baixa"
+"KBI889534",2,"CD",2022,1,"1","Matutino",3,"Média alta"
+"KCU704609",2,"CD",2020,2,"1","Matutino",3,"Média alta"
+"KCW825174",1,"ADS",2021,1,"3","Noturno",3,"Média alta"
+"KCX489346",2,"CD",2020,2,"3","Noturno",4,"Alta renda"
+"KDF170747",3,"GTI",2021,2,"2","Vespertino",4,"Alta renda"
+"KDR197739",3,"GTI",2021,2,"3","Noturno",4,"Alta renda"
+"KEL987620",3,"GTI",2022,2,"3","Noturno",4,"Alta renda"
+"KGJ667219",5,"RH",2020,1,"1","Matutino",3,"Média alta"
+"KGM681876",2,"CD",2020,2,"3","Noturno",3,"Média alta"
+"KGQ894709",3,"GTI",2021,1,"1","Matutino",2,"Média baixa"
+"KGY755037",2,"CD",2020,1,"2","Vespertino",2,"Média baixa"
+"KHL472977",4,"SI",2020,1,"1","Matutino",4,"Alta renda"
+"KHN565464",5,"RH",2021,1,"3","Noturno",3,"Média alta"
+"KIG845434",1,"ADS",2020,2,"1","Matutino",1,"Baixa renda"
+"KIJ835183",2,"CD",2022,2,"3","Noturno",4,"Alta renda"
+"KJH295889",2,"CD",2020,2,"2","Vespertino",3,"Média alta"
+"KJW175547",2,"CD",2020,1,"1","Matutino",3,"Média alta"
+"KKB758747",1,"ADS",2021,1,"2","Vespertino",1,"Baixa renda"
+"KKF786588",1,"ADS",2020,1,"3","Noturno",2,"Média baixa"
+"KKS322497",1,"ADS",2021,2,"3","Noturno",2,"Média baixa"
+"KLK154763",2,"CD",2021,2,"3","Noturno",3,"Média alta"
+"KMJ357670",2,"CD",2021,1,"2","Vespertino",4,"Alta renda"
+"KNQ814110",1,"ADS",2022,1,"3","Noturno",1,"Baixa renda"
+"KOA250152",4,"SI",2020,1,"1","Matutino",1,"Baixa renda"
+"KOG347155",3,"GTI",2021,1,"3","Noturno",3,"Média alta"
+"KPK053798",1,"ADS",2021,1,"1","Matutino",3,"Média alta"
+"KPN970655",3,"GTI",2022,2,"1","Matutino",4,"Alta renda"
+"KTI772908",1,"ADS",2020,2,"3","Noturno",2,"Média baixa"
+"KTJ421303",3,"GTI",2021,2,"1","Matutino",2,"Média baixa"
+"KUR884147",4,"SI",2022,2,"3","Noturno",4,"Alta renda"
+"KVO164622",2,"CD",2020,1,"1","Matutino",2,"Média baixa"
+"KWA481730",1,"ADS",2022,2,"3","Noturno",3,"Média alta"
+"KXL318734",2,"CD",2020,1,"1","Matutino",2,"Média baixa"
+"KXO520901",1,"ADS",2021,2,"2","Vespertino",1,"Baixa renda"
+"KXO849222",3,"GTI",2022,2,"1","Matutino",3,"Média alta"
+"KYL289184",5,"RH",2021,1,"1","Matutino",1,"Baixa renda"
+"LAF664943",1,"ADS",2022,2,"2","Vespertino",2,"Média baixa"
+"LAJ417117",4,"SI",2022,1,"1","Matutino",4,"Alta renda"
+"LFQ248668",3,"GTI",2021,2,"1","Matutino",3,"Média alta"
+"LFS269204",5,"RH",2020,2,"2","Vespertino",1,"Baixa renda"
+"LGE979055",4,"SI",2022,2,"3","Noturno",4,"Alta renda"
+"LGG562393",1,"ADS",2020,2,"2","Vespertino",2,"Média baixa"
+"LHT896396",2,"CD",2022,2,"3","Noturno",3,"Média alta"
+"LIA170089",1,"ADS",2020,1,"3","Noturno",4,"Alta renda"
+"LIN387317",2,"CD",2020,1,"2","Vespertino",3,"Média alta"
+"LKQ651843",2,"CD",2022,2,"3","Noturno",2,"Média baixa"
+"LKZ508241",5,"RH",2022,1,"2","Vespertino",3,"Média alta"
+"LMF363589",1,"ADS",2022,2,"2","Vespertino",2,"Média baixa"
+"LMH629825",2,"CD",2021,2,"1","Matutino",3,"Média alta"
+"LMH893635",4,"SI",2021,2,"2","Vespertino",2,"Média baixa"
+"LMV155600",5,"RH",2021,2,"2","Vespertino",4,"Alta renda"
+"LON108901",1,"ADS",2021,2,"3","Noturno",4,"Alta renda"
+"LQB794021",3,"GTI",2022,2,"1","Matutino",4,"Alta renda"
+"LQO510391",4,"SI",2021,2,"2","Vespertino",1,"Baixa renda"
+"LRB371521",3,"GTI",2022,2,"2","Vespertino",4,"Alta renda"
+"LRJ435916",5,"RH",2020,1,"3","Noturno",4,"Alta renda"
+"LRJ845954",1,"ADS",2020,1,"3","Noturno",4,"Alta renda"
+"LRO783602",2,"CD",2022,1,"2","Vespertino",1,"Baixa renda"
+"LSB894100",1,"ADS",2021,2,"2","Vespertino",3,"Média alta"
+"LSE784779",5,"RH",2021,1,"1","Matutino",2,"Média baixa"
+"LSO680829",3,"GTI",2022,2,"2","Vespertino",1,"Baixa renda"
+"LTL561259",3,"GTI",2021,1,"3","Noturno",1,"Baixa renda"
+"LUM767826",4,"SI",2020,2,"2","Vespertino",3,"Média alta"
+"LWA547917",4,"SI",2021,1,"3","Noturno",2,"Média baixa"
+"LWR961460",1,"ADS",2020,2,"3","Noturno",2,"Média baixa"
+"LXJ059526",2,"CD",2022,2,"2","Vespertino",2,"Média baixa"
+"LXM691794",3,"GTI",2020,2,"3","Noturno",4,"Alta renda"
+"LYA167343",2,"CD",2020,2,"3","Noturno",3,"Média alta"
+"LYD464206",5,"RH",2021,2,"1","Matutino",1,"Baixa renda"
+"LZO989264",4,"SI",2020,2,"1","Matutino",3,"Média alta"
+"LZS998564",4,"SI",2021,2,"3","Noturno",3,"Média alta"
+"MCB878260",3,"GTI",2021,2,"3","Noturno",4,"Alta renda"
+"MDP958618",3,"GTI",2022,2,"1","Matutino",3,"Média alta"
+"MDR226275",3,"GTI",2022,1,"1","Matutino",3,"Média alta"
+"MEE015113",2,"CD",2021,2,"1","Matutino",2,"Média baixa"
+"MEI618045",4,"SI",2021,1,"3","Noturno",4,"Alta renda"
+"MEM071356",5,"RH",2021,1,"1","Matutino",1,"Baixa renda"
+"MFK043486",2,"CD",2020,1,"2","Vespertino",3,"Média alta"
+"MFY453402",5,"RH",2020,1,"1","Matutino",2,"Média baixa"
+"MGW039590",4,"SI",2021,1,"2","Vespertino",1,"Baixa renda"
+"MGW572944",5,"RH",2020,1,"2","Vespertino",3,"Média alta"
+"MHN761785",5,"RH",2020,1,"3","Noturno",3,"Média alta"
+"MHR391693",4,"SI",2021,2,"3","Noturno",2,"Média baixa"
+"MHY856083",4,"SI",2021,2,"3","Noturno",4,"Alta renda"
+"MIE502583",2,"CD",2020,1,"3","Noturno",1,"Baixa renda"
+"MIS046978",5,"RH",2020,1,"2","Vespertino",2,"Média baixa"
+"MIT566230",2,"CD",2020,1,"1","Matutino",3,"Média alta"
+"MKZ319763",4,"SI",2020,1,"1","Matutino",4,"Alta renda"
+"MLT909732",4,"SI",2020,1,"3","Noturno",1,"Baixa renda"
+"MMC610293",5,"RH",2020,1,"2","Vespertino",4,"Alta renda"
+"MNB530115",4,"SI",2020,1,"2","Vespertino",4,"Alta renda"
+"MNR492090",5,"RH",2021,1,"3","Noturno",1,"Baixa renda"
+"MNS928417",2,"CD",2020,1,"2","Vespertino",4,"Alta renda"
+"MOY764527",3,"GTI",2020,1,"1","Matutino",1,"Baixa renda"
+"MPH149270",5,"RH",2021,1,"2","Vespertino",1,"Baixa renda"
+"MQA871996",1,"ADS",2022,1,"3","Noturno",3,"Média alta"
+"MQB468033",4,"SI",2021,1,"2","Vespertino",3,"Média alta"
+"MQV271273",5,"RH",2020,2,"1","Matutino",1,"Baixa renda"
+"MRF623988",4,"SI",2022,1,"3","Noturno",2,"Média baixa"
+"MRJ943479",1,"ADS",2020,2,"2","Vespertino",3,"Média alta"
+"MTT068874",5,"RH",2021,1,"2","Vespertino",3,"Média alta"
+"MWH993110",2,"CD",2022,1,"3","Noturno",4,"Alta renda"
+"MXE042857",5,"RH",2020,1,"1","Matutino",3,"Média alta"
+"MXS889141",2,"CD",2022,2,"1","Matutino",4,"Alta renda"
+"MXY652088",3,"GTI",2020,1,"2","Vespertino",3,"Média alta"
+"MYB783223",2,"CD",2020,1,"3","Noturno",3,"Média alta"
+"MYJ427938",2,"CD",2021,2,"3","Noturno",4,"Alta renda"
+"MYV771549",2,"CD",2021,2,"1","Matutino",3,"Média alta"
+"NBL182309",4,"SI",2022,2,"3","Noturno",2,"Média baixa"
+"NBN757257",5,"RH",2021,2,"3","Noturno",4,"Alta renda"
+"NBW676006",5,"RH",2021,2,"1","Matutino",1,"Baixa renda"
+"NBZ278133",1,"ADS",2020,2,"1","Matutino",2,"Média baixa"
+"NDB135655",5,"RH",2021,1,"1","Matutino",2,"Média baixa"
+"NDG528235",4,"SI",2021,2,"1","Matutino",4,"Alta renda"
+"NDO795256",2,"CD",2022,1,"1","Matutino",2,"Média baixa"
+"NGJ444868",5,"RH",2020,1,"2","Vespertino",3,"Média alta"
+"NIS381954",2,"CD",2022,1,"3","Noturno",3,"Média alta"
+"NJF911166",1,"ADS",2021,1,"2","Vespertino",2,"Média baixa"
+"NJL454099",2,"CD",2020,2,"3","Noturno",2,"Média baixa"
+"NKO172872",4,"SI",2022,2,"3","Noturno",2,"Média baixa"
+"NMD008099",3,"GTI",2020,1,"3","Noturno",4,"Alta renda"
+"NMI603829",4,"SI",2021,2,"1","Matutino",4,"Alta renda"
+"NNE588927",3,"GTI",2022,1,"1","Matutino",3,"Média alta"
+"NNI231078",1,"ADS",2021,1,"2","Vespertino",4,"Alta renda"
+"NNQ775327",3,"GTI",2021,2,"2","Vespertino",3,"Média alta"
+"NPF740138",1,"ADS",2022,2,"1","Matutino",2,"Média baixa"
+"NPU646996",5,"RH",2021,2,"3","Noturno",3,"Média alta"
+"NPY890806",5,"RH",2022,1,"1","Matutino",3,"Média alta"
+"NQI693030",3,"GTI",2022,1,"2","Vespertino",3,"Média alta"
+"NQJ820065",2,"CD",2020,1,"1","Matutino",4,"Alta renda"
+"NQM166554",2,"CD",2022,1,"2","Vespertino",3,"Média alta"
+"NRD478134",3,"GTI",2022,2,"2","Vespertino",2,"Média baixa"
+"NRH562083",1,"ADS",2022,1,"2","Vespertino",3,"Média alta"
+"NRO503348",3,"GTI",2022,1,"1","Matutino",1,"Baixa renda"
+"NRR759360",4,"SI",2021,2,"3","Noturno",4,"Alta renda"
+"NSQ858078",4,"SI",2021,1,"2","Vespertino",2,"Média baixa"
+"NTD388208",4,"SI",2021,2,"2","Vespertino",2,"Média baixa"
+"NTV074813",3,"GTI",2021,1,"2","Vespertino",4,"Alta renda"
+"NUD488575",3,"GTI",2022,1,"3","Noturno",4,"Alta renda"
+"NUJ555432",5,"RH",2021,2,"3","Noturno",3,"Média alta"
+"NUO273024",4,"SI",2021,2,"2","Vespertino",3,"Média alta"
+"NUP937521",3,"GTI",2021,2,"2","Vespertino",1,"Baixa renda"
+"NYC575859",4,"SI",2021,2,"3","Noturno",4,"Alta renda"
+"NYI676719",5,"RH",2020,2,"3","Noturno",2,"Média baixa"
+"NYY995472",3,"GTI",2021,1,"2","Vespertino",1,"Baixa renda"
+"NZE948398",4,"SI",2020,1,"1","Matutino",3,"Média alta"
+"NZS769924",1,"ADS",2021,1,"1","Matutino",3,"Média alta"
+"OAD809676",5,"RH",2020,1,"3","Noturno",1,"Baixa renda"
+"OAK494050",3,"GTI",2021,1,"1","Matutino",4,"Alta renda"
+"OAL060760",4,"SI",2021,2,"3","Noturno",3,"Média alta"
+"OCJ143386",2,"CD",2021,2,"2","Vespertino",4,"Alta renda"
+"ODA655443",2,"CD",2022,1,"3","Noturno",2,"Média baixa"
+"OEU582196",2,"CD",2022,1,"1","Matutino",4,"Alta renda"
+"OFH465221",3,"GTI",2021,2,"3","Noturno",1,"Baixa renda"
+"OFO489952",1,"ADS",2020,2,"2","Vespertino",1,"Baixa renda"
+"OFV484026",2,"CD",2021,2,"2","Vespertino",4,"Alta renda"
+"OHV670321",3,"GTI",2021,1,"3","Noturno",1,"Baixa renda"
+"OIY323010",5,"RH",2021,1,"3","Noturno",1,"Baixa renda"
+"OIZ264127",5,"RH",2021,1,"2","Vespertino",1,"Baixa renda"
+"OKA277293",5,"RH",2021,2,"1","Matutino",1,"Baixa renda"
+"OKK452983",4,"SI",2021,1,"3","Noturno",4,"Alta renda"
+"OLQ896523",1,"ADS",2020,1,"3","Noturno",2,"Média baixa"
+"OML531996",3,"GTI",2020,2,"1","Matutino",4,"Alta renda"
+"ONA642566",2,"CD",2020,2,"1","Matutino",1,"Baixa renda"
+"ONI382507",2,"CD",2021,2,"2","Vespertino",1,"Baixa renda"
+"OOB344368",3,"GTI",2022,2,"1","Matutino",2,"Média baixa"
+"OOG209794",1,"ADS",2022,1,"1","Matutino",1,"Baixa renda"
+"OOR903459",1,"ADS",2020,2,"1","Matutino",4,"Alta renda"
+"OOU721120",2,"CD",2021,2,"2","Vespertino",3,"Média alta"
+"OQU674036",1,"ADS",2022,2,"2","Vespertino",1,"Baixa renda"
+"ORW564562",2,"CD",2022,1,"1","Matutino",4,"Alta renda"
+"OSF017179",4,"SI",2022,1,"1","Matutino",3,"Média alta"
+"OSQ092459",2,"CD",2021,1,"2","Vespertino",4,"Alta renda"
+"OSR456004",5,"RH",2022,2,"3","Noturno",4,"Alta renda"
+"OUI414708",1,"ADS",2021,2,"2","Vespertino",1,"Baixa renda"
+"OVC891888",1,"ADS",2021,2,"3","Noturno",2,"Média baixa"
+"OXY053544",1,"ADS",2021,1,"2","Vespertino",4,"Alta renda"
+"OYZ659017",1,"ADS",2022,1,"1","Matutino",3,"Média alta"
+"OZC357866",4,"SI",2020,1,"2","Vespertino",3,"Média alta"
+"PAD403213",4,"SI",2020,1,"3","Noturno",2,"Média baixa"
+"PAI726945",2,"CD",2020,2,"2","Vespertino",1,"Baixa renda"
+"PAU335291",4,"SI",2020,1,"3","Noturno",4,"Alta renda"
+"PAY554777",1,"ADS",2020,2,"3","Noturno",4,"Alta renda"
+"PAY679152",3,"GTI",2022,2,"3","Noturno",2,"Média baixa"
+"PBC321999",2,"CD",2022,1,"2","Vespertino",4,"Alta renda"
+"PBK201061",5,"RH",2021,2,"3","Noturno",3,"Média alta"
+"PCA027376",4,"SI",2020,1,"2","Vespertino",2,"Média baixa"
+"PCO822722",1,"ADS",2021,1,"1","Matutino",4,"Alta renda"
+"PDG955793",4,"SI",2020,2,"2","Vespertino",2,"Média baixa"
+"PDY160217",1,"ADS",2021,2,"1","Matutino",1,"Baixa renda"
+"PFK188696",3,"GTI",2022,2,"3","Noturno",1,"Baixa renda"
+"PFZ849064",5,"RH",2021,1,"3","Noturno",2,"Média baixa"
+"PHE827328",5,"RH",2020,1,"2","Vespertino",3,"Média alta"
+"PHN487872",5,"RH",2020,2,"2","Vespertino",3,"Média alta"
+"PIP741824",4,"SI",2021,2,"3","Noturno",2,"Média baixa"
+"PKO748990",1,"ADS",2022,2,"1","Matutino",1,"Baixa renda"
+"PLK238499",3,"GTI",2020,2,"3","Noturno",4,"Alta renda"
+"PMN735796",1,"ADS",2020,1,"3","Noturno",1,"Baixa renda"
+"PMR968823",3,"GTI",2022,1,"1","Matutino",4,"Alta renda"
+"PNY978675",2,"CD",2020,1,"2","Vespertino",2,"Média baixa"
+"POE190837",2,"CD",2021,2,"1","Matutino",3,"Média alta"
+"PPL535211",3,"GTI",2022,1,"2","Vespertino",4,"Alta renda"
+"PPS528346",4,"SI",2022,1,"3","Noturno",2,"Média baixa"
+"PRK392743",1,"ADS",2021,1,"1","Matutino",4,"Alta renda"
+"PRM078988",5,"RH",2022,2,"3","Noturno",3,"Média alta"
+"PRM476340",3,"GTI",2021,2,"3","Noturno",2,"Média baixa"
+"PSU326267",4,"SI",2022,2,"3","Noturno",2,"Média baixa"
+"PUC046770",3,"GTI",2022,2,"3","Noturno",1,"Baixa renda"
+"PUK523844",4,"SI",2020,2,"3","Noturno",2,"Média baixa"
+"PUR200836",3,"GTI",2022,1,"3","Noturno",3,"Média alta"
+"PUW775166",5,"RH",2021,1,"1","Matutino",2,"Média baixa"
+"PXC930392",3,"GTI",2021,1,"1","Matutino",4,"Alta renda"
+"PXN276299",1,"ADS",2022,1,"1","Matutino",4,"Alta renda"
+"PXZ482850",4,"SI",2021,1,"3","Noturno",3,"Média alta"
+"PYD020538",3,"GTI",2022,2,"2","Vespertino",4,"Alta renda"
+"PZX992902",4,"SI",2022,1,"2","Vespertino",2,"Média baixa"
+"QAA985408",1,"ADS",2021,1,"3","Noturno",3,"Média alta"
+"QAH765174",2,"CD",2022,2,"1","Matutino",2,"Média baixa"
+"QAZ242985",2,"CD",2022,1,"3","Noturno",2,"Média baixa"
+"QBH247597",5,"RH",2022,1,"3","Noturno",1,"Baixa renda"
+"QBR002872",1,"ADS",2021,2,"3","Noturno",1,"Baixa renda"
+"QBV888182",1,"ADS",2020,1,"1","Matutino",4,"Alta renda"
+"QCE221401",4,"SI",2021,1,"2","Vespertino",2,"Média baixa"
+"QCS946327",3,"GTI",2021,2,"1","Matutino",2,"Média baixa"
+"QDH607956",2,"CD",2020,1,"3","Noturno",3,"Média alta"
+"QDK919358",2,"CD",2022,2,"3","Noturno",3,"Média alta"
+"QEF554862",4,"SI",2020,1,"1","Matutino",1,"Baixa renda"
+"QFA086961",4,"SI",2022,1,"3","Noturno",2,"Média baixa"
+"QFD620785",3,"GTI",2020,2,"1","Matutino",3,"Média alta"
+"QGE202257",3,"GTI",2020,1,"3","Noturno",1,"Baixa renda"
+"QGK829855",1,"ADS",2021,1,"2","Vespertino",2,"Média baixa"
+"QGQ933436",1,"ADS",2021,1,"1","Matutino",1,"Baixa renda"
+"QHL364169",2,"CD",2021,1,"2","Vespertino",1,"Baixa renda"
+"QIQ177564",1,"ADS",2022,2,"1","Matutino",3,"Média alta"
+"QJE908199",1,"ADS",2021,1,"2","Vespertino",2,"Média baixa"
+"QJN250137",4,"SI",2020,1,"2","Vespertino",3,"Média alta"
+"QKD222922",4,"SI",2022,2,"3","Noturno",3,"Média alta"
+"QLQ934703",4,"SI",2020,2,"3","Noturno",3,"Média alta"
+"QOS473102",2,"CD",2021,2,"3","Noturno",2,"Média baixa"
+"QQS346013",4,"SI",2022,1,"1","Matutino",4,"Alta renda"
+"QSG132455",2,"CD",2022,2,"3","Noturno",3,"Média alta"
+"QUL485756",5,"RH",2022,1,"2","Vespertino",3,"Média alta"
+"QVP005273",1,"ADS",2020,1,"2","Vespertino",3,"Média alta"
+"QVS540825",5,"RH",2022,1,"1","Matutino",1,"Baixa renda"
+"QWV812977",2,"CD",2020,2,"3","Noturno",2,"Média baixa"
+"QXI716279",4,"SI",2020,2,"3","Noturno",3,"Média alta"
+"QYA932622",4,"SI",2022,2,"2","Vespertino",2,"Média baixa"
+"QYK094687",4,"SI",2022,1,"2","Vespertino",3,"Média alta"
+"QYM860221",4,"SI",2020,2,"3","Noturno",4,"Alta renda"
+"QYN135415",3,"GTI",2020,1,"2","Vespertino",2,"Média baixa"
+"QZC663708",2,"CD",2021,2,"1","Matutino",3,"Média alta"
+"RAC781896",1,"ADS",2022,2,"2","Vespertino",1,"Baixa renda"
+"RAV017504",2,"CD",2020,2,"1","Matutino",1,"Baixa renda"
+"RBB948243",3,"GTI",2022,1,"3","Noturno",2,"Média baixa"
+"RBL215457",4,"SI",2021,1,"2","Vespertino",1,"Baixa renda"
+"RCA328668",4,"SI",2020,1,"3","Noturno",3,"Média alta"
+"RCD137904",4,"SI",2021,2,"1","Matutino",1,"Baixa renda"
+"RCN794034",1,"ADS",2020,1,"1","Matutino",4,"Alta renda"
+"RCT276550",1,"ADS",2021,2,"2","Vespertino",4,"Alta renda"
+"RDZ463041",5,"RH",2022,1,"1","Matutino",2,"Média baixa"
+"REA833398",3,"GTI",2022,2,"2","Vespertino",2,"Média baixa"
+"REO344684",3,"GTI",2020,2,"3","Noturno",2,"Média baixa"
+"RFX389932",5,"RH",2022,2,"1","Matutino",2,"Média baixa"
+"RFZ987298",3,"GTI",2020,1,"3","Noturno",1,"Baixa renda"
+"RIO907861",5,"RH",2020,1,"1","Matutino",2,"Média baixa"
+"RJO625119",1,"ADS",2022,1,"3","Noturno",2,"Média baixa"
+"RMB943018",3,"GTI",2022,2,"2","Vespertino",2,"Média baixa"
+"RMO583804",3,"GTI",2022,2,"2","Vespertino",1,"Baixa renda"
+"RMT050436",4,"SI",2021,1,"1","Matutino",3,"Média alta"
+"ROA016518",4,"SI",2022,1,"2","Vespertino",1,"Baixa renda"
+"ROU408133",1,"ADS",2022,2,"1","Matutino",3,"Média alta"
+"RPK301146",4,"SI",2020,1,"2","Vespertino",1,"Baixa renda"
+"RPT459267",4,"SI",2021,1,"3","Noturno",3,"Média alta"
+"RQP097266",3,"GTI",2020,1,"2","Vespertino",4,"Alta renda"
+"RRM241703",2,"CD",2021,1,"2","Vespertino",2,"Média baixa"
+"RSW014662",4,"SI",2021,1,"3","Noturno",2,"Média baixa"
+"RSW788935",2,"CD",2022,2,"1","Matutino",2,"Média baixa"
+"RTG729180",3,"GTI",2020,2,"3","Noturno",1,"Baixa renda"
+"RTX631581",4,"SI",2021,1,"2","Vespertino",1,"Baixa renda"
+"RTY990596",3,"GTI",2020,2,"2","Vespertino",4,"Alta renda"
+"RUQ319447",4,"SI",2020,2,"1","Matutino",2,"Média baixa"
+"RUZ291170",4,"SI",2022,2,"1","Matutino",1,"Baixa renda"
+"RVB008253",3,"GTI",2022,1,"3","Noturno",4,"Alta renda"
+"RVI254144",1,"ADS",2020,2,"1","Matutino",2,"Média baixa"
+"RXQ378854",2,"CD",2021,1,"1","Matutino",4,"Alta renda"
+"SAM765946",3,"GTI",2021,1,"3","Noturno",3,"Média alta"
+"SDK732330",2,"CD",2021,1,"3","Noturno",2,"Média baixa"
+"SFD946964",3,"GTI",2022,1,"3","Noturno",3,"Média alta"
+"SFX425002",3,"GTI",2022,2,"3","Noturno",2,"Média baixa"
+"SHJ869208",1,"ADS",2021,1,"3","Noturno",3,"Média alta"
+"SHK810881",2,"CD",2021,2,"2","Vespertino",2,"Média baixa"
+"SHV629975",2,"CD",2022,2,"1","Matutino",1,"Baixa renda"
+"SIA628959",4,"SI",2022,1,"3","Noturno",2,"Média baixa"
+"SIQ019235",4,"SI",2021,1,"2","Vespertino",2,"Média baixa"
+"SJA426584",3,"GTI",2022,1,"2","Vespertino",4,"Alta renda"
+"SKB629085",5,"RH",2022,1,"2","Vespertino",2,"Média baixa"
+"SKM070657",4,"SI",2021,1,"3","Noturno",1,"Baixa renda"
+"SKQ197828",4,"SI",2021,1,"3","Noturno",3,"Média alta"
+"SKV604823",4,"SI",2021,2,"3","Noturno",3,"Média alta"
+"SLX992263",5,"RH",2021,2,"3","Noturno",4,"Alta renda"
+"SNA214207",5,"RH",2021,1,"1","Matutino",4,"Alta renda"
+"SNR781255",2,"CD",2021,1,"1","Matutino",1,"Baixa renda"
+"SOF445784",4,"SI",2020,1,"2","Vespertino",2,"Média baixa"
+"SOO013632",4,"SI",2021,1,"3","Noturno",4,"Alta renda"
+"SPE390765",2,"CD",2022,2,"2","Vespertino",1,"Baixa renda"
+"SPL668524",4,"SI",2022,2,"3","Noturno",4,"Alta renda"
+"SPQ803284",1,"ADS",2020,1,"2","Vespertino",1,"Baixa renda"
+"SQI579814",2,"CD",2021,1,"2","Vespertino",3,"Média alta"
+"SQX708174",5,"RH",2021,1,"2","Vespertino",2,"Média baixa"
+"SRI664584",4,"SI",2022,2,"2","Vespertino",1,"Baixa renda"
+"SRN367690",1,"ADS",2022,2,"3","Noturno",1,"Baixa renda"
+"SRQ408205",4,"SI",2022,2,"2","Vespertino",2,"Média baixa"
+"SSB036367",3,"GTI",2021,1,"2","Vespertino",4,"Alta renda"
+"SSY758992",3,"GTI",2020,1,"1","Matutino",4,"Alta renda"
+"STX841647",5,"RH",2021,1,"1","Matutino",2,"Média baixa"
+"SUG136519",4,"SI",2021,2,"2","Vespertino",2,"Média baixa"
+"SUM054303",2,"CD",2022,2,"1","Matutino",1,"Baixa renda"
+"SUU760447",5,"RH",2022,1,"1","Matutino",3,"Média alta"
+"SUU816684",5,"RH",2021,1,"3","Noturno",1,"Baixa renda"
+"SXE309712",1,"ADS",2022,2,"3","Noturno",3,"Média alta"
+"SXL485710",2,"CD",2021,1,"3","Noturno",2,"Média baixa"
+"SYA445779",4,"SI",2020,2,"3","Noturno",2,"Média baixa"
+"SYN690145",4,"SI",2022,1,"2","Vespertino",3,"Média alta"
+"SZI476263",1,"ADS",2022,2,"2","Vespertino",4,"Alta renda"
+"SZQ281647",3,"GTI",2020,1,"1","Matutino",3,"Média alta"
+"SZV348855",3,"GTI",2022,1,"3","Noturno",1,"Baixa renda"
+"SZX536592",5,"RH",2021,2,"3","Noturno",1,"Baixa renda"
+"TAA134574",5,"RH",2021,2,"2","Vespertino",2,"Média baixa"
+"TAB691208",1,"ADS",2020,1,"2","Vespertino",1,"Baixa renda"
+"TAX140330",1,"ADS",2022,1,"3","Noturno",1,"Baixa renda"
+"TBA281799",1,"ADS",2020,2,"3","Noturno",3,"Média alta"
+"TBT363160",4,"SI",2020,2,"2","Vespertino",2,"Média baixa"
+"TBV057693",1,"ADS",2022,1,"3","Noturno",2,"Média baixa"
+"TDK604390",4,"SI",2020,1,"1","Matutino",1,"Baixa renda"
+"TDQ501639",2,"CD",2021,2,"2","Vespertino",4,"Alta renda"
+"TFH812121",2,"CD",2022,1,"1","Matutino",3,"Média alta"
+"TGV641281",1,"ADS",2022,1,"2","Vespertino",2,"Média baixa"
+"TIW237090",4,"SI",2021,1,"3","Noturno",3,"Média alta"
+"TJP691853",3,"GTI",2020,1,"2","Vespertino",3,"Média alta"
+"TKM831060",3,"GTI",2020,1,"2","Vespertino",3,"Média alta"
+"TKV372439",1,"ADS",2020,2,"3","Noturno",2,"Média baixa"
+"TKX404780",1,"ADS",2021,1,"2","Vespertino",2,"Média baixa"
+"TLF364594",1,"ADS",2022,1,"1","Matutino",1,"Baixa renda"
+"TLH433781",5,"RH",2020,2,"2","Vespertino",3,"Média alta"
+"TLL242265",2,"CD",2021,2,"1","Matutino",2,"Média baixa"
+"TLS180438",5,"RH",2021,1,"1","Matutino",1,"Baixa renda"
+"TMW331745",1,"ADS",2021,1,"3","Noturno",2,"Média baixa"
+"TNG535222",1,"ADS",2020,2,"2","Vespertino",2,"Média baixa"
+"TOG104682",2,"CD",2022,2,"3","Noturno",3,"Média alta"
+"TPI519006",1,"ADS",2020,1,"3","Noturno",1,"Baixa renda"
+"TPZ514334",3,"GTI",2022,2,"2","Vespertino",1,"Baixa renda"
+"TQV173587",4,"SI",2020,2,"3","Noturno",4,"Alta renda"
+"TRD582013",3,"GTI",2022,2,"3","Noturno",3,"Média alta"
+"TRN452069",2,"CD",2020,1,"3","Noturno",3,"Média alta"
+"TRV717874",1,"ADS",2020,2,"1","Matutino",1,"Baixa renda"
+"TSJ800397",5,"RH",2020,2,"3","Noturno",2,"Média baixa"
+"TSK803811",2,"CD",2021,1,"1","Matutino",2,"Média baixa"
+"TSZ861855",1,"ADS",2021,2,"2","Vespertino",4,"Alta renda"
+"TTV381364",4,"SI",2022,1,"3","Noturno",2,"Média baixa"
+"TTX336563",1,"ADS",2020,1,"1","Matutino",1,"Baixa renda"
+"TVB642413",4,"SI",2022,1,"1","Matutino",3,"Média alta"
+"TWN558833",2,"CD",2021,1,"3","Noturno",3,"Média alta"
+"TWS384970",4,"SI",2022,2,"1","Matutino",2,"Média baixa"
+"TXC421285",3,"GTI",2021,1,"2","Vespertino",1,"Baixa renda"
+"TXL546383",4,"SI",2022,2,"3","Noturno",4,"Alta renda"
+"TXZ165692",4,"SI",2021,2,"1","Matutino",4,"Alta renda"
+"TYI295033",2,"CD",2021,2,"3","Noturno",4,"Alta renda"
+"TZT925584",1,"ADS",2021,2,"3","Noturno",3,"Média alta"
+"UAJ497769",5,"RH",2022,2,"3","Noturno",1,"Baixa renda"
+"UAJ935201",2,"CD",2021,2,"2","Vespertino",1,"Baixa renda"
+"UBU776182",1,"ADS",2021,2,"3","Noturno",3,"Média alta"
+"UCT227675",5,"RH",2020,1,"2","Vespertino",1,"Baixa renda"
+"UCX771169",5,"RH",2021,2,"1","Matutino",3,"Média alta"
+"UDG116277",4,"SI",2022,2,"3","Noturno",3,"Média alta"
+"UDN165765",4,"SI",2022,1,"1","Matutino",3,"Média alta"
+"UEC276419",3,"GTI",2021,2,"2","Vespertino",4,"Alta renda"
+"UFN695935",5,"RH",2022,2,"3","Noturno",2,"Média baixa"
+"UFV675817",5,"RH",2022,2,"2","Vespertino",4,"Alta renda"
+"UGH027662",1,"ADS",2020,1,"1","Matutino",1,"Baixa renda"
+"UHZ566616",5,"RH",2020,1,"2","Vespertino",4,"Alta renda"
+"UIZ630195",4,"SI",2022,2,"2","Vespertino",4,"Alta renda"
+"UJN358085",4,"SI",2020,2,"3","Noturno",1,"Baixa renda"
+"UKP876015",1,"ADS",2020,2,"2","Vespertino",1,"Baixa renda"
+"ULJ762578",2,"CD",2021,2,"1","Matutino",2,"Média baixa"
+"ULW585893",5,"RH",2021,1,"2","Vespertino",2,"Média baixa"
+"UMB900053",1,"ADS",2021,2,"1","Matutino",1,"Baixa renda"
+"UMN024552",5,"RH",2021,2,"2","Vespertino",1,"Baixa renda"
+"UMZ589659",5,"RH",2022,2,"1","Matutino",3,"Média alta"
+"UNN127375",5,"RH",2020,1,"2","Vespertino",4,"Alta renda"
+"UOO122583",1,"ADS",2020,1,"3","Noturno",3,"Média alta"
+"UOO580649",3,"GTI",2022,2,"1","Matutino",4,"Alta renda"
+"UPD823874",4,"SI",2020,2,"1","Matutino",2,"Média baixa"
+"UPZ010199",5,"RH",2020,2,"2","Vespertino",2,"Média baixa"
+"URF122252",3,"GTI",2021,1,"2","Vespertino",1,"Baixa renda"
+"URU481055",1,"ADS",2022,2,"2","Vespertino",4,"Alta renda"
+"USK314599",1,"ADS",2020,2,"3","Noturno",3,"Média alta"
+"USM686314",4,"SI",2021,1,"3","Noturno",2,"Média baixa"
+"UTS780152",3,"GTI",2022,2,"2","Vespertino",4,"Alta renda"
+"UTZ847743",3,"GTI",2022,2,"1","Matutino",3,"Média alta"
+"UUB313117",4,"SI",2020,1,"1","Matutino",4,"Alta renda"
+"UUH361635",5,"RH",2021,2,"1","Matutino",3,"Média alta"
+"UUU646184",1,"ADS",2020,1,"2","Vespertino",4,"Alta renda"
+"UUY865719",1,"ADS",2020,1,"1","Matutino",3,"Média alta"
+"UVE774329",2,"CD",2021,1,"2","Vespertino",3,"Média alta"
+"UVH240981",4,"SI",2020,1,"1","Matutino",2,"Média baixa"
+"UWO697285",4,"SI",2021,1,"2","Vespertino",3,"Média alta"
+"UWQ101545",5,"RH",2020,1,"2","Vespertino",3,"Média alta"
+"UXO188360",1,"ADS",2022,1,"3","Noturno",2,"Média baixa"
+"UYK950248",5,"RH",2020,1,"2","Vespertino",4,"Alta renda"
+"UZD343128",3,"GTI",2020,2,"2","Vespertino",4,"Alta renda"
+"VAZ069838",1,"ADS",2021,1,"1","Matutino",2,"Média baixa"
+"VBX226910",2,"CD",2021,2,"1","Matutino",1,"Baixa renda"
+"VCD605956",3,"GTI",2020,2,"1","Matutino",1,"Baixa renda"
+"VCD615143",2,"CD",2020,2,"3","Noturno",4,"Alta renda"
+"VCK590490",2,"CD",2020,1,"2","Vespertino",1,"Baixa renda"
+"VDB039522",1,"ADS",2020,1,"1","Matutino",4,"Alta renda"
+"VDM678590",4,"SI",2022,2,"3","Noturno",1,"Baixa renda"
+"VDW631954",2,"CD",2020,2,"2","Vespertino",4,"Alta renda"
+"VEJ521990",5,"RH",2020,2,"1","Matutino",3,"Média alta"
+"VFU643825",4,"SI",2022,2,"3","Noturno",2,"Média baixa"
+"VFX647108",4,"SI",2021,1,"2","Vespertino",2,"Média baixa"
+"VFY652840",4,"SI",2021,2,"2","Vespertino",4,"Alta renda"
+"VGA679126",5,"RH",2021,1,"2","Vespertino",4,"Alta renda"
+"VGF647064",3,"GTI",2022,1,"2","Vespertino",1,"Baixa renda"
+"VGG490704",2,"CD",2022,2,"3","Noturno",3,"Média alta"
+"VGH670646",3,"GTI",2022,2,"2","Vespertino",4,"Alta renda"
+"VHK604203",2,"CD",2021,1,"3","Noturno",2,"Média baixa"
+"VHN299384",2,"CD",2022,1,"3","Noturno",1,"Baixa renda"
+"VIC870084",2,"CD",2021,2,"3","Noturno",2,"Média baixa"
+"VID323985",5,"RH",2020,2,"3","Noturno",4,"Alta renda"
+"VIG074400",4,"SI",2022,1,"3","Noturno",4,"Alta renda"
+"VIP446940",4,"SI",2020,1,"3","Noturno",1,"Baixa renda"
+"VIY409620",4,"SI",2021,1,"2","Vespertino",1,"Baixa renda"
+"VKY715264",4,"SI",2021,2,"2","Vespertino",4,"Alta renda"
+"VLT075004",2,"CD",2020,2,"1","Matutino",3,"Média alta"
+"VLW352278",1,"ADS",2021,1,"2","Vespertino",2,"Média baixa"
+"VMC452479",4,"SI",2022,1,"3","Noturno",2,"Média baixa"
+"VMF416518",1,"ADS",2021,2,"1","Matutino",2,"Média baixa"
+"VMW414769",1,"ADS",2021,1,"1","Matutino",2,"Média baixa"
+"VNX758434",5,"RH",2020,1,"1","Matutino",4,"Alta renda"
+"VNY295143",5,"RH",2021,2,"3","Noturno",1,"Baixa renda"
+"VOE132109",4,"SI",2020,2,"3","Noturno",2,"Média baixa"
+"VOI501395",4,"SI",2022,1,"2","Vespertino",4,"Alta renda"
+"VOI514083",4,"SI",2020,2,"3","Noturno",4,"Alta renda"
+"VOS917767",5,"RH",2022,1,"2","Vespertino",2,"Média baixa"
+"VOZ954153",3,"GTI",2021,2,"2","Vespertino",2,"Média baixa"
+"VPH556010",2,"CD",2021,1,"1","Matutino",2,"Média baixa"
+"VQQ126950",2,"CD",2022,1,"1","Matutino",3,"Média alta"
+"VQV509544",4,"SI",2022,2,"1","Matutino",1,"Baixa renda"
+"VQW793786",2,"CD",2020,1,"1","Matutino",2,"Média baixa"
+"VRH839618",5,"RH",2020,1,"1","Matutino",1,"Baixa renda"
+"VRL981017",1,"ADS",2020,2,"3","Noturno",2,"Média baixa"
+"VRV121120",1,"ADS",2022,1,"1","Matutino",1,"Baixa renda"
+"VSC785244",5,"RH",2021,2,"2","Vespertino",2,"Média baixa"
+"VTA542111",4,"SI",2022,1,"1","Matutino",3,"Média alta"
+"VTI720362",4,"SI",2021,2,"1","Matutino",4,"Alta renda"
+"VTK254734",5,"RH",2020,1,"2","Vespertino",2,"Média baixa"
+"VWD912985",4,"SI",2021,2,"3","Noturno",4,"Alta renda"
+"VWY488471",1,"ADS",2020,2,"1","Matutino",3,"Média alta"
+"VXI786414",4,"SI",2020,2,"2","Vespertino",3,"Média alta"
+"VXM437132",1,"ADS",2020,2,"2","Vespertino",2,"Média baixa"
+"VXN776648",1,"ADS",2020,2,"2","Vespertino",1,"Baixa renda"
+"VYK055279",2,"CD",2022,1,"2","Vespertino",3,"Média alta"
+"VYL174585",3,"GTI",2021,2,"3","Noturno",1,"Baixa renda"
+"VZH139248",2,"CD",2021,2,"3","Noturno",1,"Baixa renda"
+"WAK195705",1,"ADS",2021,1,"3","Noturno",1,"Baixa renda"
+"WBA277838",1,"ADS",2022,2,"1","Matutino",3,"Média alta"
+"WBV788760",3,"GTI",2021,2,"1","Matutino",3,"Média alta"
+"WCB927253",4,"SI",2021,1,"1","Matutino",4,"Alta renda"
+"WCN752441",1,"ADS",2022,1,"2","Vespertino",1,"Baixa renda"
+"WDQ173676",3,"GTI",2021,1,"1","Matutino",1,"Baixa renda"
+"WEL072684",1,"ADS",2022,2,"3","Noturno",1,"Baixa renda"
+"WEO298403",2,"CD",2022,2,"3","Noturno",2,"Média baixa"
+"WFV926708",4,"SI",2022,1,"1","Matutino",2,"Média baixa"
+"WGP787300",2,"CD",2020,2,"2","Vespertino",2,"Média baixa"
+"WGQ761325",4,"SI",2022,2,"3","Noturno",3,"Média alta"
+"WHH892250",5,"RH",2021,2,"3","Noturno",1,"Baixa renda"
+"WHV186194",5,"RH",2022,2,"2","Vespertino",1,"Baixa renda"
+"WHY118009",2,"CD",2021,2,"2","Vespertino",2,"Média baixa"
+"WIS669784",1,"ADS",2022,1,"3","Noturno",2,"Média baixa"
+"WKF468607",4,"SI",2022,2,"3","Noturno",1,"Baixa renda"
+"WKW109765",5,"RH",2020,1,"2","Vespertino",4,"Alta renda"
+"WKW336486",1,"ADS",2021,2,"2","Vespertino",3,"Média alta"
+"WLS286932",3,"GTI",2020,2,"3","Noturno",3,"Média alta"
+"WMC726536",3,"GTI",2022,2,"2","Vespertino",4,"Alta renda"
+"WMH432194",5,"RH",2020,1,"3","Noturno",1,"Baixa renda"
+"WMI488819",1,"ADS",2022,1,"3","Noturno",1,"Baixa renda"
+"WMW480048",1,"ADS",2020,1,"3","Noturno",2,"Média baixa"
+"WOC582473",3,"GTI",2020,2,"3","Noturno",2,"Média baixa"
+"WOS366434",2,"CD",2020,1,"2","Vespertino",4,"Alta renda"
+"WOT469583",2,"CD",2022,2,"2","Vespertino",1,"Baixa renda"
+"WPK984444",2,"CD",2021,2,"1","Matutino",2,"Média baixa"
+"WPM631667",5,"RH",2020,2,"1","Matutino",1,"Baixa renda"
+"WPU867822",2,"CD",2021,1,"1","Matutino",4,"Alta renda"
+"WRW625221",1,"ADS",2020,2,"3","Noturno",2,"Média baixa"
+"WRY612215",3,"GTI",2022,2,"1","Matutino",1,"Baixa renda"
+"WTM553783",4,"SI",2020,1,"1","Matutino",1,"Baixa renda"
+"WTQ208791",4,"SI",2020,2,"2","Vespertino",2,"Média baixa"
+"WTS319848",5,"RH",2021,1,"2","Vespertino",1,"Baixa renda"
+"WTV496233",5,"RH",2022,2,"1","Matutino",4,"Alta renda"
+"WVD949191",5,"RH",2020,2,"3","Noturno",1,"Baixa renda"
+"WVI642646",4,"SI",2021,2,"1","Matutino",2,"Média baixa"
+"WXD374487",5,"RH",2021,1,"2","Vespertino",1,"Baixa renda"
+"WXU263835",4,"SI",2020,2,"2","Vespertino",2,"Média baixa"
+"WYU147889",2,"CD",2021,2,"1","Matutino",2,"Média baixa"
+"WZE601562",2,"CD",2022,1,"1","Matutino",4,"Alta renda"
+"WZH417502",1,"ADS",2022,1,"2","Vespertino",1,"Baixa renda"
+"WZJ959986",4,"SI",2021,1,"3","Noturno",4,"Alta renda"
+"XBQ794463",3,"GTI",2020,2,"1","Matutino",2,"Média baixa"
+"XCJ046701",1,"ADS",2021,1,"3","Noturno",2,"Média baixa"
+"XGA543365",2,"CD",2022,1,"1","Matutino",4,"Alta renda"
+"XHA196463",2,"CD",2020,1,"1","Matutino",2,"Média baixa"
+"XHS294247",5,"RH",2021,1,"3","Noturno",3,"Média alta"
+"XIN369973",4,"SI",2021,2,"2","Vespertino",4,"Alta renda"
+"XJA642037",3,"GTI",2022,2,"1","Matutino",4,"Alta renda"
+"XKO442322",3,"GTI",2022,1,"1","Matutino",1,"Baixa renda"
+"XLU383219",1,"ADS",2022,1,"1","Matutino",1,"Baixa renda"
+"XMQ436745",5,"RH",2022,2,"1","Matutino",2,"Média baixa"
+"XPD279103",3,"GTI",2020,1,"2","Vespertino",3,"Média alta"
+"XRW710759",4,"SI",2021,1,"1","Matutino",4,"Alta renda"
+"XSI428333",1,"ADS",2020,2,"2","Vespertino",4,"Alta renda"
+"XSW877012",5,"RH",2020,2,"3","Noturno",2,"Média baixa"
+"XUP040983",3,"GTI",2022,2,"3","Noturno",1,"Baixa renda"
+"XXS640375",5,"RH",2022,2,"1","Matutino",2,"Média baixa"
+"XYA751224",2,"CD",2020,2,"3","Noturno",3,"Média alta"
+"XYH659345",5,"RH",2021,2,"3","Noturno",3,"Média alta"
+"XYW165025",1,"ADS",2020,1,"3","Noturno",4,"Alta renda"
+"YAP752864",1,"ADS",2021,1,"1","Matutino",3,"Média alta"
+"YAQ169944",1,"ADS",2021,2,"2","Vespertino",3,"Média alta"
+"YBX407112",4,"SI",2021,1,"1","Matutino",2,"Média baixa"
+"YEA378103",1,"ADS",2020,1,"3","Noturno",3,"Média alta"
+"YED289041",1,"ADS",2020,2,"2","Vespertino",3,"Média alta"
+"YEF782538",2,"CD",2020,2,"3","Noturno",3,"Média alta"
+"YEY969287",3,"GTI",2022,2,"1","Matutino",1,"Baixa renda"
+"YJA953708",3,"GTI",2020,1,"1","Matutino",4,"Alta renda"
+"YJH000884",5,"RH",2022,2,"1","Matutino",1,"Baixa renda"
+"YJO687392",1,"ADS",2022,2,"2","Vespertino",1,"Baixa renda"
+"YKS069525",1,"ADS",2020,1,"3","Noturno",1,"Baixa renda"
+"YMH028954",3,"GTI",2021,1,"2","Vespertino",1,"Baixa renda"
+"YNK399673",1,"ADS",2020,2,"3","Noturno",1,"Baixa renda"
+"YNQ794743",4,"SI",2021,1,"2","Vespertino",2,"Média baixa"
+"YOC140572",3,"GTI",2021,1,"1","Matutino",3,"Média alta"
+"YOH172893",1,"ADS",2021,1,"3","Noturno",1,"Baixa renda"
+"YOK728885",1,"ADS",2022,2,"3","Noturno",2,"Média baixa"
+"YOS400463",1,"ADS",2021,2,"3","Noturno",3,"Média alta"
+"YPC227447",5,"RH",2020,2,"2","Vespertino",3,"Média alta"
+"YPL699706",1,"ADS",2021,1,"3","Noturno",3,"Média alta"
+"YQT936908",5,"RH",2021,1,"2","Vespertino",1,"Baixa renda"
+"YRQ647282",2,"CD",2021,1,"1","Matutino",3,"Média alta"
+"YSP134592",1,"ADS",2022,2,"3","Noturno",2,"Média baixa"
+"YUH813245",1,"ADS",2020,2,"3","Noturno",2,"Média baixa"
+"YUX301674",4,"SI",2020,1,"1","Matutino",1,"Baixa renda"
+"YUY128877",4,"SI",2021,2,"3","Noturno",2,"Média baixa"
+"YUZ503394",2,"CD",2021,1,"2","Vespertino",2,"Média baixa"
+"YUZ874931",1,"ADS",2021,1,"2","Vespertino",4,"Alta renda"
+"YVA849184",1,"ADS",2022,2,"3","Noturno",4,"Alta renda"
+"YVH403912",1,"ADS",2021,2,"3","Noturno",2,"Média baixa"
+"YWC438976",1,"ADS",2020,2,"1","Matutino",1,"Baixa renda"
+"YXA970112",2,"CD",2022,1,"2","Vespertino",4,"Alta renda"
+"YXE599488",4,"SI",2020,1,"3","Noturno",3,"Média alta"
+"YXN812952",4,"SI",2022,2,"1","Matutino",4,"Alta renda"
+"YXQ576231",3,"GTI",2021,1,"1","Matutino",3,"Média alta"
+"YYC474587",5,"RH",2021,1,"3","Noturno",4,"Alta renda"
+"YYX077679",4,"SI",2022,1,"2","Vespertino",1,"Baixa renda"
+"YZE950560",1,"ADS",2021,2,"3","Noturno",1,"Baixa renda"
+"YZN025691",5,"RH",2022,2,"3","Noturno",2,"Média baixa"
+"YZT061442",5,"RH",2021,2,"1","Matutino",2,"Média baixa"
+"ZBR035449",2,"CD",2022,2,"2","Vespertino",3,"Média alta"
+"ZCP905432",5,"RH",2020,1,"1","Matutino",4,"Alta renda"
+"ZCW070483",3,"GTI",2020,2,"1","Matutino",3,"Média alta"
+"ZCX074509",4,"SI",2021,2,"1","Matutino",1,"Baixa renda"
+"ZDK684934",4,"SI",2021,2,"2","Vespertino",1,"Baixa renda"
+"ZEL595865",2,"CD",2022,1,"3","Noturno",3,"Média alta"
+"ZEW054182",3,"GTI",2020,2,"2","Vespertino",1,"Baixa renda"
+"ZFO039908",2,"CD",2021,2,"3","Noturno",3,"Média alta"
+"ZHQ632194",5,"RH",2022,1,"3","Noturno",3,"Média alta"
+"ZIL332333",5,"RH",2022,1,"2","Vespertino",4,"Alta renda"
+"ZIO079911",4,"SI",2022,2,"1","Matutino",2,"Média baixa"
+"ZIQ108513",1,"ADS",2022,1,"3","Noturno",4,"Alta renda"
+"ZJD329872",4,"SI",2020,2,"1","Matutino",4,"Alta renda"
+"ZJH663426",3,"GTI",2021,2,"1","Matutino",1,"Baixa renda"
+"ZJM299619",4,"SI",2020,2,"3","Noturno",2,"Média baixa"
+"ZKC770489",4,"SI",2020,1,"1","Matutino",2,"Média baixa"
+"ZKP732939",3,"GTI",2020,2,"3","Noturno",3,"Média alta"
+"ZLK101073",5,"RH",2020,1,"1","Matutino",1,"Baixa renda"
+"ZMK724107",2,"CD",2020,2,"3","Noturno",4,"Alta renda"
+"ZOB023173",2,"CD",2020,1,"1","Matutino",4,"Alta renda"
+"ZPK465622",4,"SI",2021,2,"3","Noturno",3,"Média alta"
+"ZPU413754",5,"RH",2020,2,"3","Noturno",2,"Média baixa"
+"ZQX688979",2,"CD",2022,1,"2","Vespertino",2,"Média baixa"
+"ZRS694200",5,"RH",2022,1,"2","Vespertino",2,"Média baixa"
+"ZSC030309",2,"CD",2020,1,"2","Vespertino",2,"Média baixa"
+"ZSQ285068",4,"SI",2020,2,"2","Vespertino",4,"Alta renda"
+"ZUM958012",3,"GTI",2021,1,"2","Vespertino",2,"Média baixa"
+"ZVW168390",4,"SI",2020,2,"2","Vespertino",2,"Média baixa"
+"ZWE489619",3,"GTI",2022,1,"2","Vespertino",1,"Baixa renda"
+"ZWS727214",5,"RH",2020,1,"3","Noturno",2,"Média baixa"
+"ZXF696043",2,"CD",2020,2,"2","Vespertino",1,"Baixa renda"
+"ZXO475271",3,"GTI",2020,1,"3","Noturno",2,"Média baixa"
+"ZYT992397",1,"ADS",2022,2,"3","Noturno",4,"Alta renda"
+"ZYY510859",2,"CD",2022,1,"1","Matutino",1,"Baixa renda"
+"ZZM039187",4,"SI",2021,1,"3","Noturno",4,"Alta renda"
