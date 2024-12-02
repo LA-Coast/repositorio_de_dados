@@ -1,6 +1,6 @@
-# Repositório de Dados
+# Repositório de Projetos
 
-Bem-vindo ao meu Repositório de Dados! Esta pasta serve como um repositório central para demonstrar e compartilhar meus conhecimentos em dados. Aqui, você encontrará uma coleção de projetos, estudos de caso e análises exploratórias que realizo utilizando diversas técnicas e ferramentas de ciência de dados.
+Bem-vindo ao meu Repositório de Projetos! Esta pasta serve como um repositório central para demonstrar e compartilhar meus conhecimentos em dados. Aqui, você encontrará uma coleção de projetos, estudos de caso e análises exploratórias que realizo utilizando diversas técnicas e ferramentas de ciência de dados.
 
 ## Objetivo
 Meu objetivo com este repositório é mostrar minha capacidade de coletar, limpar, analisar e visualizar dados de maneira eficaz, com o objetivo de extrair insights valiosos e tomar decisões embasadas.
