@@ -17,4 +17,4 @@ Alguns dos tópicos que abordo incluem, mas não se limitam a:
 ## Sobre Mim
 Sou um entusiasta de dados em busca de oportunidades para aplicar e desenvolver meus conhecimentos neste campo. Embora não tenha experiência profissional formal, estou constantemente aprendendo e explorando novos conceitos em dados. Estou empolgado para colaborar em projetos e aprender com outros profissionais neste espaço fascinante. 
 
-Obrigado por visitar o meu Repositório de Dados.
+Obrigado por visitar o meu Repositório de Projetos.
