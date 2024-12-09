@@ -1,47 +1,51 @@
-# Repositório de Projetos
+# Meus Projetos
 
-![Imagem de Capa](https://images.unsplash.com/photo-1733056883310-0e1658d09c36?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-
-## Sobre Mim
+## 👩‍💻 Quem Sou Eu
 
 **Letícia Araújo Costa**  
-🚀 **Trainee de TI em Negócios | Business Partner/Product Owner | Estudante de Ciência de Dados**
+_Trainee de TI | Business Partner | Estudante de Ciência de Dados_
 
-Atualmente, sou graduanda em **Ciência de Dados** pela Faculdade SENAC e atuo como **Trainee de TI em Negócios**, com ênfase em **Business Partner** e **Product Owner**. Tenho experiência prática nas seguintes tecnologias e ferramentas:
+Sou graduanda em **Ciência de Dados** pela **Faculdade SENAC** e atuo como **Trainee de TI** com foco em **Business Partner** e **Product Owner**. Meu interesse está em utilizar **dados** para impulsionar decisões estratégicas e transformar negócios. Estou sempre em busca de agregar **valor** às empresas, aplicando habilidades técnicas e visão de negócios para gerar **insights valiosos**.
+
+### 🛠️ Tecnologias que Trabalho
 
 - **Python** 🐍
 - **SQL** 🗄️
 - **Power BI** 📊
 - **Machine Learning** 🤖
 
-Sou apaixonada por utilizar **dados** para impulsionar **decisões estratégicas** e transformar **negócios**, sempre buscando agregar **valor** às empresas. Estou comprometida em desenvolver minha carreira na área de **Ciência de Dados**, aplicando minhas habilidades técnicas e visão de negócios para gerar **insights valiosos**.
+### 📚 O que Estou Estudando
 
-### O que estou aprendendo atualmente
+- **Algoritmos de Aprendizado de Máquina** 🤖
+- **Manipulação de Dados** 📈
+- **Deep Learning** 🧠
 
-- **Algoritmos de aprendizado de máquina** 🤖
-- **Manipulação de dados** 📈
-- **Técnicas de Deep Learning** 🧠
+### 🎯 Minhas Metas Profissionais
 
-### Meus Objetivos
+- **Desenvolver minhas habilidades como Cientista de Dados**: Trabalhar com datasets reais e alcançar proficiência em análise de dados.
+- **Impactar positivamente os negócios**: Usar dados para solucionar problemas e gerar valor nas empresas.
 
-- **Evoluir como Cientista de Dados** 🧑‍💻: Alcançar proficiência em análise de dados e trabalhar com datasets reais.
-- **Contribuir para projetos impactantes** 🌍: Usar dados para solucionar problemas complexos e gerar valor nas empresas.
-
-Estou em busca de **oportunidades de aprendizado** e **colaboração** 🤝 com profissionais da área, visando sempre ampliar meus conhecimentos e impactar positivamente o ambiente de negócios por meio de **dados**.
+Estou sempre em busca de **oportunidades de aprendizado** e **colaboração** para expandir meus conhecimentos e contribuir com soluções baseadas em dados.
 
 ---
 
-## Bem-vindo ao Meu Repositório de Projetos!
+## 📂 Visão Geral do Repositório
 
-Este repositório é um espaço dedicado a compartilhar meus projetos e estudos na área de **Ciência de Dados**. Aqui, você encontrará uma variedade de **análises exploratórias**, **estudos de caso** e **modelos preditivos**, todos desenvolvidos utilizando técnicas avançadas e ferramentas modernas para transformar dados em **insights estratégicos**.
+Este repositório é o local onde compartilho meus projetos e estudos em **Ciência de Dados**. Aqui você encontrará:
 
-### Objetivo do Repositório
+- **Análises exploratórias** 🔍
+- **Estudos de caso** 📝
+- **Modelos preditivos** 📊
 
-O objetivo deste repositório é demonstrar minha capacidade de **coletar**, **limpar**, **analisar** e **visualizar dados** de maneira eficiente. Busco extrair informações valiosas para apoiar decisões estratégicas e práticas de negócios, sempre com foco em criar **soluções impactantes** baseadas em dados reais.
+Meu objetivo é mostrar como transformo dados em **insights estratégicos** e soluções de alto impacto.
 
-### Tópicos que Abordo
+### 🎯 Propósito do Repositório
 
-Nos meus projetos, você encontrará o uso de uma ampla gama de tópicos e técnicas, incluindo:
+Demonstrar minha capacidade de **coletar**, **limpar**, **analisar** e **visualizar dados** de maneira eficiente. Busco sempre criar **soluções impactantes** que auxiliem nas decisões estratégicas e nos negócios das empresas.
+
+### 🔍 Áreas Abordadas nos Projetos
+
+Nos meus projetos, você encontrará o uso de diversos tópicos, como:
 
 - **Análise Exploratória de Dados (EDA)** 📊
 - **Visualização de Dados** 📈
@@ -50,13 +54,15 @@ Nos meus projetos, você encontrará o uso de uma ampla gama de tópicos e técn
 - **Business Intelligence (BI)** 📉
 - **Estatística Aplicada** 📚
 
-Esses tópicos refletem as habilidades e ferramentas que utilizo para transformar dados em insights que podem impulsionar decisões estratégicas no mundo dos negócios.
+Esses fundamentos são essenciais para transformar dados em **insights valiosos** e gerar impacto no mundo dos negócios.
 
 ---
 
-## Meus Contatos
+## 📬 Contatos
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/leticia-araujo-costa)  
-[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:leticia@example.com)
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)]([https://www.linkedin.com/in/leticia-araujo-costa](https://www.linkedin.com/in/leticia-ar%C3%A1ujo/))  
+[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](leticia99.costa@gmail.com)
 
 ---
+
+🚀 **Estou aberta a novas oportunidades e colaborações!**
