@@ -1,0 +1,17 @@
+O grupo pode ser composto de até 4 componentes, mas todos precisam participar ativamente nas apresentações. A nota será individual.
+O trabalho consiste em elaborar uma análise descritiva de um grupo de clientes de uma operadora de cartão de crédito, caracterizando cada grupamento com o nome de uma PERSONA. Este nome deve servir para identificar as características gerais dos clientes de cada grupo. 
+
+O trabalho deve possuir, no mínimo, as seguintes características:
+
+    Para identificar a quantidade de grupos de clientes desta operadora, deverá ser utilizado o algoritmo K-means na linguagem Python.
+    Os parâmetros do algoritmo devem ser justificados para definiçao da escolha da quantidade ideal de clusteres.
+    O grupo deverá fazer a seleção de variáveis e justificar suas escolhas.
+    Todas as variáveis utilizadas precisam ser do tipo numérico.
+    Cada PERSONA identificada deverá ser nomeada com um apelido e ter uma descrição do seu perfil.
+    Entregas: 
+        link para o notebook do seu grupo até o fim do prazo desta tarefa.
+        Vídeo com a apresentação do trabalho, com tempo aproximado de 10 minutos.
+
+Todos os itens acima precisam estar caracterizado no notebook entregue.
+
+O dataset destes clientes está disponível no Kaggle (https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)

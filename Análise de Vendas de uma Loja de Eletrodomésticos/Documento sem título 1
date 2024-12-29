@@ -1,0 +1,37 @@
+Objetivo:
+
+Criar um dashboard no Power BI para analisar as vendas de uma loja de eletrodomésticos, utilizando uma base de dados fictícia. O dashboard deve permitir a visualização de diferentes aspectos das vendas, como desempenho por categoria de produto, análise de clientes e tendências de vendas.
+
+Base de Dados:
+•Crie uma base de dados contendo as seguintes informações:
+•ID da Venda: Código único para cada venda.
+•Data da Venda: Data em que a venda foi realizada.
+•Produto: Nome do produto vendido.
+•Categoria: Categoria do produto (Ex.: TV, Geladeira, Microondas, etc.).
+•Preço Unitário: Preço de venda unitário do produto.
+•Quantidade: Quantidade vendida.
+•Total da Venda: Valor total da venda (Preço Unitário x Quantidade).
+•Nome do Cliente: Nome do cliente que efetuou a compra.
+•Cidade do Cliente: Cidade onde o cliente reside.
+ 
+
+Análises a Serem Realizadas:
+
+•Análise de Vendas por Categoria de Produto:
+•Crie gráficos que mostrem o total de vendas por categoria de produto.
+•Adicione filtros por data para permitir a análise por períodos específicos.
+
+•Análise de Desempenho de Produtos:
+•Identifique os produtos mais vendidos (em quantidade e valor total).
+•Visualize o desempenho dos produtos ao longo do tempo.
+
+•Análise de Clientes:
+•Analise as vendas por cidade.
+•Visualize a quantidade de vendas por cliente, identificando os principais clientes da loja.
+ 
+•Análise de Sazonalidade:
+•Crie gráficos de linhas ou colunas para mostrar as tendências de vendas ao longo dos meses e anos.
+•Identifique picos de vendas sazonais.
+
+•KPIs:
+•Crie indicadores-chave (KPIs) para total de vendas, ticket médio por venda, quantidade total de vendas, etc.
